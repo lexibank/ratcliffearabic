@@ -10,7 +10,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:title": "CLDF dataset derived from Ratcliffes's \"Glottometrics of Arabic\" from 2021",
+    "dcat:accessURL": "https://github.com/lexibank/ratcliffearabic",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/ratcliffearabic",
+            "dc:created": "ed51ea6"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
