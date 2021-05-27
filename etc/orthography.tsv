@@ -1,0 +1,300 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+a	a	ʔasw_ad, dam_m	CentralArabic, Glf, Dms, Bux, Skh, Irq, Ymn, Cai, Nub, Mlt, Nig, Cyp, AqArb, Mor	100	U+0061
+_	NULL	ʔasw_ad, dam_m	CentralArabic, Mor, Mlt, Cyp, Cai, AqArb, Dms, Glf, Ymn, Irq, Skh, Nub, Nig	100	U+005f
+i	i	riʤil, ʃirib	Irq, Cai, Ymn, Skh, Glf, Nig, Mlt, CentralArabic, Nub, Mor, Bux	100	U+0069
+a$	a	ana, ʤa	Nub, Mor, CentralArabic, Mlt, Irq, Nig, Glf, Skh, Dms, Cai, AqArb, Ymn, Bux, Cyp	100	U+0061 U+0024
+r	r	ardˁ, ʃarab	Cai, Nub, Ymn, Irq, Glf, Cyp, CentralArabic, Mlt, Skh, Nig, Mor, Dms, AqArb, Bux	100	U+0072
+r$	r	tˁa:r, tˁeer	Ymn, Dms, Mlt, CentralArabic, Nig, Skh, Irq, Cyp, Mor, Bux, AqArb, Cai, Glf, Nub	100	U+0072 U+0024
+m	m	dam_m, ʕaðˁ_ma	Mor, Cai, Dms, Skh, Irq, Cyp, Mlt, CentralArabic, Glf, Nig, Ymn, Nub, Bux, AqArb	100	U+006d
+-	NULL	ħ-r-_q, tˁ-w-_l	Cyp, AqArb, Mor, Nub	100	U+002d
+e	e	ʤebel, *pere_t_	Mor, Mlt, Nub, Cyp, Ymn, Dms, Bux	100	U+0065
+n	n	ana, snan_s-n-_n	Cyp, Mlt, Nub, CentralArabic, Ymn, Skh, Cai, Dms, AqArb, Nig, Bux, Mor, Irq, Glf	100	U+006e
+n$	n	ʕeen, zeen	Nub, Irq, CentralArabic, Bux, Glf, Cyp, Nig, Mor, Dms, Mlt, Ymn, Skh, Cai, AqArb	100	U+006e U+0024
+a:	aː	tˁa:r, ʃa:f	Irq, CentralArabic, Dms, Nig, Skh, Cai, AqArb, Ymn, Nub	100	U+0061 U+003a
+^m	m	ma:, ma:t	Cai, Ymn, Skh, Glf, Irq, CentralArabic, Dms, Mlt, AqArb, Cyp, Nub, Mor, Nig, Bux	100	U+005e U+006d
+u	u	kull, *rukuba	Nub, Ymn, Irq, CentralArabic, Nig, Mlt, Bux, Glf, Mor, Cai, Cyp, Skh	100	U+0075
+d$	d	ʔasw_ad, yad	Glf, Dms, Mlt, AqArb, Irq, CentralArabic, Ymn, Bux, Mor, Skh, Cai, Nig, Cyp, Nub	100	U+0064 U+0024
+^ʔ	ʔ	ʔasw_ad, ʔakal	Dms, CentralArabic, Irq, Bux, Ymn, Mlt, Cai, Cyp, Glf, Skh, AqArb	100	U+005e U+0294
+l	l	kalb, ʔalb	Nub, CentralArabic, Mor, Cai, Dms, Mlt, Ymn, Skh, Glf, Irq, Nig, Bux, Cyp, AqArb	100	U+006c
+l$	l	ʔakal, akal	Glf, Mor, Dms, Bux, Irq, Cyp, Ymn, Mlt, AqArb, Nig, Skh, CentralArabic, Cai, Nub	97	U+006c U+0024
+b	b	ʔabja_ðˁ, ħab_ba	Nub, Ymn, CentralArabic, Cai, Dms, Skh, Irq, Glf, Nig, Mor, Bux, AqArb, Mlt, Cyp	91	U+0062
+d	d	θidi__sˁidr, mdaw_war	Nub, Mlt, Bux, Cai, Skh, Glf, CentralArabic, Nig, Mor, Ymn, Dms, AqArb, Irq, Cyp	90	U+0064
+ə	ə	dˁəfə_r, γəzi:r__zəγaj_jər_	AqArb, Dms, Bux	89	U+0259
+m$	m	dam_m, na:m	Bux, Mlt, Skh, AqArb, Nub, Irq, Glf, CentralArabic, Dms, Ymn, Cai, Nig, Mor, Cyp	82	U+006d U+0024
+^ʃ	ʃ	ʃa:f, ʃams	Mor, Dms, Irq, Cai, Nig, Glf, Ymn, Mlt, Skh, Bux, CentralArabic, Cyp, AqArb, Nub	78	U+005e U+0283
+^r	r	ra:s, riʃa	CentralArabic, Dms, Ymn, Irq, Glf, Mlt, Cai, Nig, Skh, Nub, Mor, Bux, Cyp, AqArb	73	U+005e U+0072
+^k	k	kalb, kull	Skh, Mor, Nub, Nig, Cyp, Dms, Bux, AqArb, Cai, CentralArabic, Ymn, Mlt, Irq, Glf	71	U+005e U+006b
+b$	b	kalb, ʃarab	Cyp, Dms, Mlt, Bux, Glf, Ymn, CentralArabic, Cai, Nig, Mor, Irq, Skh, AqArb, Nub	66	U+0062 U+0024
+t	t	inta, nat’taa	Cyp, Nub, Mlt, Bux, CentralArabic, Cai, Nig, Mor, Ymn, Dms, Glf, AqArb, Irq, Skh	65	U+0074
+i:	iː	tˁawi:_l, ʔi:d	Mlt, Skh, Dms, CentralArabic, Irq, Nig, Ymn, Cai, AqArb	64	U+0069 U+003a
+ħ	ħ	ʔaħm_ar, iħna	Mlt, CentralArabic, Cai, Skh, Bux, Glf, Irq, AqArb, Mor, Dms, Cyp, Ymn, Nig	64	U+0127
+^s	s	sinn, saba_ħ	Mlt, AqArb, Cai, Glf, Nig, Mor, Bux, Cyp, CentralArabic, Nub, Dms, Ymn, Skh, Irq	62	U+005e U+0073
+^ʕ	ʕ	ʕeen, ʕajn	Mor, Mlt, Glf, Dms, Irq, Cai, CentralArabic, AqArb, Ymn, Skh, Cyp, Bux, Nig	61	U+005e U+0295
+^d	d	dam_m, dak	Bux, Nig, Cai, Mor, Mlt, Glf, Dms, Ymn, Skh, Irq, Cyp, CentralArabic, Nub	53	U+005e U+0064
+^n	n	na:m, na:r	Irq, Bux, Mor, Dms, AqArb, Cyp, Cai, CentralArabic, Ymn, Skh, Glf, Nig, Mlt, Nub	51	U+005e U+006e
+^a	a	ana, ardˁ	Nig, AqArb, Nub, Cai, Mlt, Skh, Bux, Mor, Cyp, Ymn, Glf	50	U+005e U+0061
+^b	b	baari_d, beeðˁ_a	Mor, Dms, Skh, Bux, Irq, Glf, Cai, CentralArabic, Ymn, AqArb, Nub, Nig, Mlt, Cyp	45	U+005e U+0062
+j	j	ʔabja_ðˁ, ʕajn	AqArb, Mor, Ymn, Mlt, Nub, Nig, Irq, Skh, Cai, Dms, CentralArabic, Glf	45	U+006a
+f	f	ʔasˁf_ar, dˁəfə_r	Cyp, Mor, Mlt, CentralArabic, Cai, Ymn, Skh, Irq, AqArb, Nub, Nig, Dms, Glf, Bux	44	U+0066
+ee	eː	ʕeen, zeen	Skh, Glf, Irq, Dms, AqArb, Cai, Bux, Ymn, Nig	44	U+0065 U+0065
+^i	i	iħna, inta	Skh, Mlt, Cai, Glf, Cyp, CentralArabic, Nig, Mor, Ymn, Bux, Nub	44	U+005e U+0069
+k	k	ʔakal, akal	Nub, Nig, CentralArabic, Cyp, Mor, Dms, Ymn, Skh, Bux, AqArb, Irq, Cai, Glf, Mlt	42	U+006b
+^l	l	laħa_m, laħm	Ymn, CentralArabic, Cyp, Nig, Bux, Irq, Nub, Cai, Glf, Mor, Mlt, Skh, AqArb, Dms	40	U+005e U+006c
+ʃ	ʃ	riʃa, məʃi	Skh, Irq, Dms, Mlt, Glf, Cai, Cyp, Mor, Ymn, CentralArabic, Nub, AqArb, Nig	39	U+0283
+^g	g	ga:l, garn	Glf, Ymn, Irq, Nig, Cai, Mor, Skh, Mlt, AqArb, Nub	38	U+005e U+0067
+^tˁ	tˤ	tˁa:r, tˁeer	Dms, Ymn, CentralArabic, Skh, Irq, Cai, Nig, Mor, AqArb, Cyp	38	U+005e U+0074 U+02c1
+i$	i	məʃi, miʃi	Skh, Nub, Bux, Irq, AqArb, Mor, Dms, Ymn, Mlt, CentralArabic, Cai, Cyp, Glf, Nig	38	U+0069 U+0024
+^ʤ	dʒ	ʤa, ʤiba_l	Ymn, AqArb, CentralArabic, Mlt, Irq, Glf, Dms, Nub, Nig, Cyp	37	U+005e U+02a4
+f$	f	ʃa:f, wuga_f	Mor, Dms, Irq, Bux, AqArb, Cyp, Cai, Glf, Mlt, Skh, Nig, Ymn, CentralArabic	37	U+0066 U+0024
+aa	aː	maat, naar	Glf, Bux, Ymn, Cai, Nub	37	U+0061 U+0061
+ʤ	dʒ	ħaʤa_r, ʃaʤa_ra	Dms, CentralArabic, Nig, Ymn, AqArb, Irq, Cyp, Glf, Mlt	37	U+02a4
+*$	NULL	na:ʃ_if*, ri:ʃa_*	Cai, Ymn	36	U+002a U+0024
+s	s	ism, ʔisim	Cyp, Nub, Bux, CentralArabic, Nig, Ymn, Mlt, Skh, Irq, Cai, Glf, Mor, Dms, AqArb	36	U+0073
+x	x	ʔaxðˁ_ar, dox_xan	Cyp, Nig, Cai, Glf, Mor, Ymn, Skh, Irq, CentralArabic, Dms, Bux, AqArb	35	U+0078
+^ħ	ħ	ħaʤa_r, ħ-r-_q	Mor, Ymn, Glf, Mlt, Skh, Irq, Cai, CentralArabic, Dms, AqArb, Cyp, Bux	35	U+005e U+0127
+^w	w	wuga_f, wa:ħi_d	Mor, Cai, Glf, Dms, Mlt, Irq, Ymn, Skh, AqArb, Cyp, Nub, Nig, Bux, CentralArabic	35	U+005e U+0077
+^q	q	qalb, qal	CentralArabic, Bux, Cyp, Mor, AqArb, Irq	34	U+005e U+0071
+ʕ	ʕ	ʃaʕra, ʔaʕa_d	Skh, Bux, Cyp, CentralArabic, Mor, Ymn, Mlt, Dms, Irq, Glf, Cai, AqArb	34	U+0295
+s$	s	ra:s, rˁa:s	Mor, Ymn, Skh, AqArb, Nub, Cai, Cyp, Dms, Glf, CentralArabic, Irq, Nig, Mlt, Bux	33	U+0073 U+0024
+g	g	ragad, wuga_f	Nub, Ymn, Cai, Nig, Glf, Irq	29	U+0067
+t$	t	ma:t, maat	CentralArabic, Ymn, Bux, Mor, Mlt, Skh, Cyp, Cai, Nig, Dms, Irq, AqArb, Glf	28	U+0074 U+0024
+^t	t	təm_m, tiin	Mlt, Dms, Bux, Nub, Irq, Glf, Cyp, AqArb, Nig, Mor, Skh, CentralArabic	26	U+005e U+0074
+w	w	mdaw_war, tˁawi:_l	Cyp, Dms, Irq, Mor, AqArb, CentralArabic, Nig, Ymn, Skh, Cai, Glf, Nub	25	U+0077
+dˁ	dˤ	axadˁar, beedˁ_a	Mor, Dms, Nig, AqArb, CentralArabic, Cai, Cyp	23	U+0064 U+02c1
+u$	u	Gildu, minu	Nub, Nig, Mlt, Bux, Glf, Irq, CentralArabic	22	U+0075 U+0024
+e$	e	ʤilde, leele	Dms, Nig, Nub, AqArb, Cyp	22	U+0065 U+0024
+ʔ	ʔ	insan_ʔ-n-s, raʔbe	CentralArabic, Cai, Nig, Dms, Mlt, Cyp, Ymn, Bux	22	U+0294
+o	o	*kokobo_lataka, ʃoro_b	Nub, Mlt, Mor, Bux, Cyp	21	U+006f
+tˁ	tˤ	matˁ_ar, batˁn	Dms, Ymn, Irq, Skh, AqArb, Cyp, Nig, Mor, Cai, CentralArabic	20	U+0074 U+02c1
+^*	NULL	*dufuru, *asue	Nub, Cyp	18	U+005e U+002a
+z	z	bez_zaf, bez_zul_a	Mor, Bux, AqArb, Nub, Dms, Irq, CentralArabic, Cyp	18	U+007a
+^h	h	hada:k, hirig	Bux, Nig, Dms, AqArb, Mor, Ymn, Skh, Irq, Nub, CentralArabic, Cyp, Glf	18	U+005e U+0068
+ii	iː	Kabii_r, riiʃa	Bux, Glf, Cai, Ymn, Nub	17	U+0069 U+0069
+ʔ$	ʔ	ħar_aʔ, tˁari:ʔ	Mlt, Cyp, Cai, Ymn, Dms, CentralArabic	17	U+0294 U+0024
+k$	k	hada:k, dak	Skh, Bux, AqArb, Mor, Dms, Ymn, Mlt, Irq, Cyp, Cai, CentralArabic, Glf	17	U+006b U+0024
+h$	h	gaml_eh, ʃiʤar_eh	Ymn, CentralArabic, Dms, Cyp, Cai	17	U+0068 U+0024
+ð	ð	iðn_ʔ-ð-_n, haað_a	Glf, CentralArabic, Cyp, Skh, Irq, Ymn	16	U+00f0
+a:$	aː	ma:, ʤa:	CentralArabic, AqArb, Skh, Dms, Ymn, Irq, Nig	16	U+0061 U+003a U+0024
+dˁ$	dˤ	ardˁ, ʔabja_dˁ	Mor, Cyp, AqArb, Cai, Nig, Dms, CentralArabic	14	U+0064 U+02c1 U+0024
+t’	tʼ	nat’taa, mal’jan	Bux, Nub, Nig	14	U+2019
+l’	lʼ
+^sˁ	sˤ	sˁaγi:_r, sˁədˁ_ər	Mor, Ymn, Cyp, CentralArabic, Dms, Skh, Irq, Cai	12	U+005e U+0073 U+02c1
+q$	q	ħ-r-_q, tˁari:q	Mor, AqArb, Irq, CentralArabic, Bux, Cyp	12	U+0071 U+0024
+jj	jː	sfajj_ar, kəwa_jjəs	Ymn, Mlt, Cai, Dms, Skh, AqArb, Irq, CentralArabic	12	U+006a U+006a
+^ð	ð	ðeel, ða:ʧ	Ymn, Skh, Glf, Irq, CentralArabic, Cyp	12	U+005e U+00f0
+rˁ	rˤ	tˁrˁiq, marˁ_a	Mor, AqArb, Dms, Skh, Cai	11	U+0072 U+02c1
+h	h	ʃaybe_h?, wa:hid	Ymn, Nig, Bux, Glf, Irq	10	U+0068
+ʃ$	ʃ	aʃ, iʃ	Mor, Mlt, Dms, Skh, Bux, AqArb, Cai	10	U+0283 U+0024
+^z	z	zeen, zəbə_ħ	Mlt, Bux, Dms, Skh, Glf, Irq, AqArb	10	U+005e U+007a
+ðˁ	ðˤ	ʔaxðˁ_ar, beeðˁ_a	Skh, Ymn, Irq	10	U+00f0 U+02c1
+sˁ	sˤ	ʔasˁf_ar, asˁfar	Skh, Dms, Ymn, Irq, AqArb, Cyp, CentralArabic, Cai, Nig	10	U+0073 U+02c1
+g$	g	ħara_g, hirig	Nig, Ymn, Glf, Irq, Bux	10	U+0067 U+0024
+y	y	apky_að_b-y-_dˁ, ʤ-y-_y	Cyp, AqArb	10	U+0079
+^j	j	jaf, ji:bis	Mlt, CentralArabic, Mor, Ymn, Skh, AqArb, Glf, Nig	10	U+005e U+006a
+ʕ$	ʕ	sima_ʕ, q-ʃ-ʕ	Cyp, Mor, Dms, Skh, Bux, Irq, AqArb, Cai, Glf	10	U+0295 U+0024
+γ	ɣ	sˁaγi:_r, sˁγajj_ir	Mor, Dms, Ymn, Mlt, Skh, Irq, AqArb, Glf, Cai, CentralArabic	10	U+03b3
+ll$	lː	kull, kəll	Mor, Dms, Ymn, Skh, Irq, AqArb, Cyp, Cai, CentralArabic	9	U+006c U+006c U+0024
+^rˁ	rˤ	rˁa:s, rˁm_adˁ	Mor, Cai, AqArb, Skh	9	U+005e U+0072 U+02c1
+_ˁa	ʕ a	mat_ˁar, ʕed_ˁdˁ	CentralArabic, Cai, Mor	9	U+005f U+02c1
+_ˁdˁ	ˀdˁ
+sw	s w	ʔasw_ad, əswə_d	Dms, Ymn, Mlt, Skh, Bux, Irq, AqArb, Glf, Cai	9	U+0073 U+0077
+q	q	ħar_aqa, wara_qa	Cyp, CentralArabic, Mor, AqArb	9	U+0071
+rˁ$	rˤ	na:rˁ, dˁfe_rˁ	Mor, Dms, Skh, AqArb	9	U+0072 U+02c1 U+0024
+^x	x	xaʃi_m, xnay_n_θ-n-_y	Cyp, Mor, Ymn, Skh, Irq, Glf, Nig	9	U+005e U+0078
+^γ	ɣ	γeem_a, γeem_e	Bux, Mor, Dms, Skh, Irq, AqArb, CentralArabic	9	U+005e U+03b3
+^ʒ	ʒ	ʒde_r, ʒerr_iʕa	Mor, Cyp	9	U+005e U+0292
+^‘	ʔ	‘aʃrubu, ‘amer	Nub, Bux	9	U+005e U+2018
+^ʧ	tʃ	ʧalb, ʧalib	Skh, Glf, Irq	8	U+005e U+02a7
+ay	ai̯	may_ya*, tayra	Bux, Cyp, Cai, Ymn	8	U+0061 U+0079
+Ʒ	ʒ	nudƷum, dƷabal	Bux	8	U+01b7
+ww	wː	mud_aww_ar, mdˁ_uww_er	Cai, Mor, Ymn, Skh, AqArb, Glf, CentralArabic	8	U+0077 U+0077
+a_:	aː	rama_:d, dəxxa_:n	Dms, Ymn, Mlt, AqArb, Irq, CentralArabic	7	U+005f U+003a
+^ə	ə	əswə_d, ənf	AqArb	7	U+005e U+0259
+p	p	apky_að_b-y-_dˁ, trap_t-r-b	Cyp	7	U+0070
+_$	NULL	*suu-_teri_, mˁajj_	Nub, Cyp, Dms, AqArb	7	U+005f U+0024
+ħ$	ħ	sibaħ, saba_ħ	Dms, Skh, AqArb, Glf, Irq	7	U+0127 U+0024
+nn$	nː	sinn, sənn	Dms, Ymn, Skh, Glf, Irq, Cai, Nig	7	U+006e U+006e U+0024
+oo	oː	*soobur_a, ʤoof	Nub, AqArb, Dms, Glf	6	U+006f U+006f
+u:	uː	samaka_ħu:tˁa, ku:ʧ_ka:ye	Nig, Ymn, Skh, AqArb	6	U+0075 U+003a
+e:	eː	tˁe:ra, le:le	Nig	6	U+0065 U+003a
+^D	d	Dam, Dukan	Nub, Mlt, Ymn, AqArb	6	U+005e U+0044
+y$	y	ʤ-y-_y, xnay_n_θ-n-_y	Cyp	6	U+0079 U+0024
+^*s	s	*suu-_teri_, *soobur_a	Nub, Cyp	6	U+005e U+002a U+0073
+^dˁ	dˤ	dˁəfə_r, dˁfe_rˁ	Nig, Mor, Dms, AqArb, Cai	6	U+005e U+0064 U+02c1
+ʦ	ts	tʦall_as, niʦm_i	Skh	6	U+02a6
+aa$	aː	nat’taa, haa	Bux	6	U+0061 U+0061 U+0024
+θ	θ	xnay_n_θ-n-_y, kaθi:_r	CentralArabic, Ymn, Skh, Glf, Cyp	6	U+03b8
+^ʃaxs_ˁ*	ʃ a x sˁ
+^ʔaʕt_ˁa:	ʔ a ʕ tˤ aː
+i_:	iː
+’d	dˤ
+’v	vˤ
+a’a	a ʔ a
+u’u	u ʔ u
+’n	nˤ
+’r	rˤ
+’t	tˤ
+’ʕ	ʕ
+’j	jˤ
+’b	bˤ
+ms$	m s	ʃams, ʃa_ms	Ymn, Skh, Bux, Glf, AqArb, CentralArabic	6	U+006d U+0073 U+0024
+^ya	j a	yad, yaʕazz	Bux, Ymn, Glf	5	U+005e U+0079 U+0061
+ðˁ$	ðˤ	ʔabja_ðˁ, arðˁ	Ymn, Skh, Irq	5	U+00f0 U+02c1 U+0024
+r_ˁ$	rˤ	məda_wwər_ˁ, rˁas_ˁ	AqArb, Mor, Cai, Skh	5	U+005f U+02c1 U+0024
+s_ˁ	sˁ
+ʒ	ʒ	ʃeʒ_ra, neʒ_ma	Mor, Cyp	5	U+0292
+dd	dː	gaddu:ma, tmadd_ad	Cai, Nig, Ymn, Irq	5	U+0064 U+0064
+ll	lː	kullu, still_a	Mlt, Bux, Skh	4	U+006c U+006c
+tˤ	tˤ	ʕatˤa, intˤa	Glf, Skh	4	U+0074 U+02e4
+ʧ	tʃ	sama_ʧi, ku:ʧ_ka:ye	Skh, AqArb	4	U+02a7
+^tˤ	tˤ	tˤeer, tˤaar	Glf	4	U+005e U+0074 U+02e4
+mm$	mː	fo_mm, damm	Mor, CentralArabic, Nig	4	U+006d U+006d U+0024
+^θ	θ	θnee_n, θinta_jn	Skh, Ymn, Irq	4	U+005e U+03b8
+__	NULL	deed__sˤadr, trup__d-r-_b	Cyp, AqArb, Skh, Glf	4	U+005f U+005f
+^T	t	Ton_d, Tajj_eb	Mlt, Nub	4	U+005e U+0054
+^ee	eː	eeh, eeʃ	Skh, Nub, Cai	4	U+005e U+0065 U+0065
+^f	f	fum_m*, fo_mm	Mor, CentralArabic, Ymn, AqArb	4	U+005e U+0066
+^ls	l s	lsa:n, lsa_n	Mor, Dms, Skh, Mlt	4	U+005e U+006c U+0073
+v	v	ta’viil, səvi:y_e	Cyp, Bux, AqArb	3	U+0076
+^p	p	ptar_b-z-_r, pers_una	Cyp, Mlt	3	U+005e U+0070
+^ðˁ	ðˤ	ðˁu_fr, ðˁifir	Cyp, CentralArabic, Irq	3	U+005e U+00f0 U+02c1
+**$	NULL	ðeeli_n**, ʕirgin_**	Ymn	3	U+002a U+002a U+0024
+ai	ai̯	ʕai_n, bai_dˁat	CentralArabic	3	U+0061 U+0069
+uu	uː	*suu-_teri_, duuk	Nub, Ymn, Bux	3	U+0075 U+0075
+dd$	dː	ʒtit_ʤ-_d-d, mte_dd	Mor, Cyp, Mlt	3	U+0064 U+0064 U+0024
+^i:	iː	i:d	Cai, Nig, AqArb	3	U+005e U+0069 U+003a
+x$	x	ʃɔx, m-x-_x	Cyp, Bux	3	U+0078 U+0024
+ʤʤ	dʒː	rəʤʤ_a:l, raʤʤ_a:l	Ymn, Dms, Irq	3	U+02a4 U+02a4
+^I	i	Intsa_n, Ina	Cyp, Nub, Nig	3	U+005e U+0049
+^ʦ	ts	ʦild, ʦaba_l	Skh	3	U+005e U+02a6
+ns	n s	ʔins_a:n, insa:_n_a:da_mi	Cyp, CentralArabic, Skh	3	U+006e U+0073
+rr	rː	ʒerr_iʕa, zerr_i:ʕa	Mor, Bux, Mlt	3	U+0072 U+0072
+xx	xː	duxx_a:n, dəxxa_:n	Ymn, Dms, Irq	3	U+0078 U+0078
+^K	k	Kabii_r, Koll_u	Ymn, Mlt	2	U+005e U+004b
+tt$	tː	ra’matt, sitt	Cai, Bux	2	U+0074 U+0074 U+0024
+dˁdˁ$	dˤː	ʕadˁdˁ	Cai, Dms	2	U+0064 U+02c1 U+0064 U+02c1 U+0024
+ðˁðˁ$	ðˤː	ʕaðˁðˁ	Skh, Irq	2	U+00f0 U+02c1 U+00f0 U+02c1 U+0024
+sˁ$	sˤ	lugusˁ, ʃaxisˁ	Ymn, Irq	2	U+0073 U+02c1 U+0024
+^S	s	Side_r, Sakar	Nub, Mlt	2	U+005e U+0053
+sˤ	sˤ	deed__sˤadr, ʔasˤf_ar	Glf	2	U+0073 U+02e4
+^ɣ	ɣ	ɣ-y-r, ɣ-s-l	Cyp	2	U+005e U+0263
+dˤ	dˤ	beedˤ_a, ʔaxdˤ_ar	Glf	2	U+0064 U+02e4
+ai$	ai	ma’jai, wai	Nub	2	U+0061 U+0069 U+0024
+^e:	eː	e:mar, e:n	Nig	2	U+005e U+0065 U+003a
+ʧ$	tʃ	ða:ʧ, sima_ʧ	Skh, Glf	2	U+02a7 U+0024
+^kw	kʷ	kwa_jjis, kweis	Nub, Cai	2	U+005e U+006b U+0077
+ɔ	ɔ	qɔm, ʃɔx	Bux	2	U+0254
+bb	bː	rko_bba, habb_eh	Ymn, Mlt	2	U+0062 U+0062
+o$	o	korofo, mojo	Nub	2	U+006f U+0024
+ʔʔ	ʔː	waʔʔ_af, tlaʔʔa_h	Dms	2	U+0294 U+0294
+lˤ$	lˤ	ka:lˤ, kamlˤ	Skh	2	U+006c U+02e4 U+0024
+’s	ʔ	li’saan, ka’siir	Bux	2	U+2019 U+0073
+æ	æ	læħəm, bæb	Bux	2	U+00e6
+ya	j a	may_ya*, *nyanga_ratu	Nub, Cai	2	U+0079 U+0061
+u:$	uː	ʃu:, mu:	Dms, Irq	2	U+0075 U+003a U+0024
+^mˁ	mˤ	mˁajj_, mˁatˁ_arˁ	Dms	2	U+005e U+006d U+02c1
+lˁ$	lˤ	ramu_lˁ, ramlˁ	Skh, Irq	2	U+006c U+02c1 U+0024
+^G	g	Gum, Gildu	Nub	2	U+005e U+0047
+j$	j	ma:j	AqArb, Irq	2	U+006a U+0024
+^ʃ$	ʃ	ʃ	Mlt, Irq	2	U+005e U+0283 U+0024
+^tʃ	tʃ	tʃat	Nig	1	U+005e U+0074 U+0283
+i:y	iː j	səvi:y_e	AqArb	1	U+0069 U+003a U+0079
+ʔʔ$	ʔː	zaʔʔ	Mlt	1	U+0294 U+0294 U+0024
+rʃ$	r ʃ	kirʃ	Nig	1	U+0072 U+0283 U+0024
+a:ye$	aː j e	ku:ʧ_ka:ye	AqArb	1	U+0061 U+003a U+0079 U+0065 U+0024
+ðð	ðː	ʕaððʕ-dˁ-_dˁ	Cyp	1	U+00f0 U+00f0
+dˤdˤ$	dˤː	ʕadˤdˤ	Glf	1	U+0064 U+02e4 U+0064 U+02e4 U+0024
+dˁdˁ	dˤː	adˁdˁa	Nig	1	U+0064 U+02c1 U+0064 U+02c1
+zz$	zː	yaʕazz	Bux	1	U+007a U+007a U+0024
+ˁm	mˁ
+r_ˁ	rˤ
+ˁa:	ʕ a:
+’m	mˁ
+s_ˁ	sˁ
+ue$	u e	*asue	Nub	1	U+0075 U+0065 U+0024
+ðˤ	ðˤ	ʕaðˤ_m	Glf	1	U+00f0 U+02e4
+^pzaz_9pl)_b-z-_z	p z a z	pzaz_9pl)_b-z-_z	Cyp	1	U+0070 U+007a U+0061 U+007a U+005f U+0039 U+0070 U+006c U+0029 U+005f U+0062 U+002d U+007a U+002d U+005f U+007a
+^θˁ	θˤ	θˁufri_n**	Ymn	1	U+005e U+03b8 U+02c1
+i:$	iː	ʤi:	Mlt	1	U+0069 U+003a U+0024
+kk	kː	dƷakki	Bux	1	U+006b U+006b
+jaabi_s/na_aʃif	j aː b i	jaabi_s/na_aʃif	Glf	1	U+006a U+0061 U+0061 U+0062 U+0069 U+005f U+0073 U+002f U+006e U+0061 U+005f U+0061 U+0283 U+0069 U+0066
+bs$	b s	yabs	Bux	1	U+0062 U+0073 U+0024
+^B	b	Bajd_a	Mlt	1	U+005e U+0042
+^nˁ	nˤ	nˁa:rˁ	Dms	1	U+005e U+006e U+02c1
+^dˤ	dˤ	dˤaw	Glf	1	U+005e U+0064 U+02e4
+w$	w	dˤaw	Glf	1	U+0077 U+0024
+^Ħ	ħ	Ħut_a	Mlt	1	U+005e U+0126
+^rʒ	r ʒ	rʒel	Mor	1	U+005e U+0072 U+0292
+ʦ$	ts	malja:_n_madm_u:ʦ	Skh	1	U+02a6 U+0024
+mm	mː	əmmal_a	AqArb	1	U+006d U+006d
+'$	NULL	mpla_n_m-l-'	Cyp	1	U+0027 U+0024
+sa/eme	s a	sa/eme	Nig	1	U+0073 U+0061 U+002f U+0065 U+006d U+0065
+ei	ei̯	kweis	Nub	1	U+0065 U+0069
+ʔs$	ʔ s	raʔs	Ymn	1	U+0294 U+0073 U+0024
+^ṛ	ṛ/r	ṛaaṣ	Bux	1	U+005e U+1e5b
+ṣ$	ṣ/s	ṛaaṣ	Bux	1	U+1e63 U+0024
+’$	ʔ	sam_a’	Mlt	1	U+2019 U+0024
+lˤ	lˤ	kalˤb	Skh	1	U+006c U+02e4
+p$	p	kilep	Cyp	1	U+0070 U+0024
+^rˤ	rˤ	rˤuʧb_i	Skh	1	U+005e U+0072 U+02e4
+rˤ	rˤ	ʕarˤaf	Skh	1	U+0072 U+02e4
+^v	v	varaq	Bux	1	U+005e U+0076
+^tt	tː	ttm_ed	Mor	1	U+005e U+0074 U+0074
+^fw	f w	fwi:d	Mlt	1	U+005e U+0066 U+0077
+^tˁw	tˤ w	tˁwi_l	Mor	1	U+005e U+0074 U+02c1 U+0077
+^tw	t w	twil	Mlt	1	U+005e U+0074 U+0077
+lˁ	lˤ	gamlˁ_a	Irq	1	U+006c U+02c1
+ts	ts	Intsa_n	Cyp	1	U+0074 U+0073
+ayya	a jː a	rayya_al	Glf	1	U+0061 U+0079 U+0079 U+0061
+^hw	h w	hwa:j_a	Irq	1	U+005e U+0068 U+0077
+rˤ$	rˤ	kama_rˤ	Skh	1	U+0072 U+02e4 U+0024
+^*ʃ	ʃ	*ʃaari	Nub	1	U+005e U+002a U+0283
+ʤ$	dʒ	ħalʤ	Glf	1	U+02a4 U+0024
+^mh	mʰ	mh_uʃ	Mlt	1	U+005e U+006d U+0068
+ma/_mu	m a	ma/_mu	Glf	1	U+006d U+0061 U+002f U+005f U+006d U+0075
+mi/a	m i	mi/a	Nig	1	U+006d U+0069 U+002f U+0061
+^e	e	exen	Cyp	1	U+005e U+0065
+rs	r s	pers_una	Mlt	1	U+0072 U+0073
+xs	x s	ʃaxs_ˁ*	Cai	1	U+0078 U+0073
+?$	NULL	ʃaybe_h?	Ymn	1	U+003f U+0024
+na:di/u_m	n aː d i	na:di/u_m	Nig	1	U+006e U+0061 U+003a U+0064 U+0069 U+002f U+0075 U+005f U+006d
+ɔɔ	ɔː	qɔɔl	Bux	1	U+0254 U+0254
+bsˁ	b sˤ	ibsˁar	Ymn	1	U+0062 U+0073 U+02c1
+^aai	aːi̯	aainu	Nub	1	U+005e U+0061 U+0061 U+0069
+bb$	bː	bazər_ħabb	AqArb	1	U+0062 U+0062 U+0024
+o:	oː	no:m	Nig	1	U+006f U+003a
+au	au̯	naum	Bux	1	U+0061 U+0075
+^zˁ	zˤ	zˁγi:r	Dms	1	U+005e U+007a U+02c1
+ɣ	ɣ	sˁ-ɣ-_r	Cyp	1	U+0263
+^sˤ	sˤ	sˤaγii_r	Glf	1	U+005e U+0073 U+02e4
+nn	nː	sann_ab	Ymn	1	U+006e U+006e
+^L	l	Lager	Nub	1	U+005e U+004c
+mʃ$	m ʃ	ʃe_mʃ	Mor	1	U+006d U+0283 U+0024
+ms	m s	*semsi	Nub	1	U+006d U+0073
+^a:	aː	a:m	Nig	1	U+005e U+0061 U+003a
+^ṣ	ṣ/s	ṣobħaya_an	Bux	1	U+005e U+1e63
+aya	a y/j a	ṣobħaya_an	Bux	1	U+0061 U+0079 U+0061
+^‘h	hˤ	‘hum	Nub	1	U+005e U+2018 U+0068
+ð$	ð	ʔ-x-ð	Cyp	1	U+00f0 U+0024
+^ɖˁ	ɖˤ	ɖˁa:ka	Nig	1	U+005e U+0256 U+02c1
+s_ˁ*	sˁ
+^N	n	Nade	Nub	1	U+005e U+004e
+^W	w	Wede	Nub	1	U+005e U+0057
+i:i	iː i	lsi:in	Skh	1	U+0069 U+003a U+0069
+ns$	n s	sins	Mlt	1	U+006e U+0073 U+0024
+/s	s	ʃeder/se_der	Nub	1	U+002f U+0073
+ʒ$	ʒ	ʒuʒ	Mor	1	U+0292 U+0024
+^u	u	usnaa	Bux	1	U+005e U+0075
+^mʃ	m ʃ	mʃ_a	Mor	1	U+005e U+006d U+0283
+^M	m	Mashi	Nub	1	U+005e U+004d
+sh	ʃ	Mashi	Nub	1	U+0073 U+0068
+rr$	rː	ħarr	Bux	1	U+0072 U+0072 U+0024
+^H	h	Hari	Nub	1	U+005e U+0048
+aay$	aːi̯	maay	Glf	1	U+0061 U+0061 U+0079 U+0024
+yy$	j j	ʔ-y-y	Cyp	1	U+0079 U+0079 U+0024
+nh	nʰ	ʃinhu	Glf	1	U+006e U+0068
+ajʃ$	ai̯ ʃ	ma:_ʔajʃ	Ymn	1	U+006a U+0283 U+0024
+dˤ$	dˤ	ʔabja_dˤ	Glf	1	U+0064 U+02e4 U+0024
+iya	i j a	ʔabiyad	Bux	1	U+0069 U+0079 U+0061

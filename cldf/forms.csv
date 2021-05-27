@@ -1,0 +1,1341 @@
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
+CentralArabic-1_all-1,,CentralArabic,1_all,kull,kull,k u lː,,,,,^k u ll$,default
+Mor-1_all-1,,Mor,1_all,koll,koll,k o lː,,,,,^k o ll$,default
+Mlt-1_all-1,,Mlt,1_all,Koll u,Koll_u,k o lː u,,,,,^K o ll _ u$,default
+Cai-1_all-1,,Cai,1_all,kull,kull,k u lː,,,,,^k u ll$,default
+Dms-1_all-1,,Dms,1_all,kəll,kəll,k ə lː,,,,,^k ə ll$,default
+Irq-1_all-1,,Irq,1_all,kull,kull,k u lː,,,,,^k u ll$,default
+Skh-1_all-1,,Skh,1_all,ʧill,ʧill,tʃ i lː,,,,,^ʧ i ll$,default
+AqArb-1_all-1,,AqArb,1_all,"kəll, sa:γi:  n",kəll,k ə lː,,,,,^k ə ll$,default
+Cyp-1_all-1,,Cyp,1_all,kull,kull,k u lː,,,,,^k u ll$,default
+Glf-1_all-1,,Glf,1_all,kil,kil,k i l,,,,,^k i l$,default
+Ymn-1_all-1,,Ymn,1_all,kull,kull,k u lː,,,,,^k u ll$,default
+Nig-1_all-1,,Nig,1_all,tʃat,tʃat,tʃ a t,,,,,^tʃ a t$,default
+Bux-1_all-1,,Bux,1_all,kullu,kullu,k u lː u,,,,,^k u ll u$,default
+Nub-1_all-1,,Nub,1_all,kulu,kulu,k u l u,,,,,^k u l u$,default
+CentralArabic-2_ash-1,,CentralArabic,2_ash,ra ma: d,ra_ma:_d,r a m aː d,,,,,^r a _ m a: _ d$,default
+Mor-2_ash-1,,Mor,2_ash,rˁm adˁ,rˁm_adˁ,rˤ m a dˤ,,,,,^rˁ m _ a dˁ$,default
+Mlt-2_ash-1,,Mlt,2_ash,rmi: d,rmi:_d,r m iː d,,,,,^r m i: _ d$,default
+Cai-2_ash-1,,Cai,2_ash,ram a:dˁ  *,ram_a:dˁ_*,r a m aː dˤ,,,,,^r a m _ a: dˁ _ *$,default
+Dms-2_ash-1,,Dms,2_ash,rama :d,rama_:d,r a m aː d,,,,,^r a m a_: d$,default
+Irq-2_ash-1,,Irq,2_ash,ruma :d,ruma_:d,r u m aː d,,,,,^r u m a_: d$,default
+AqArb-2_ash-1,,AqArb,2_ash,rˁam a:d,rˁam_a:d,rˤ a m aː d,,,,,^rˁ a m _ a: d$,default
+Cyp-2_ash-1,,Cyp,2_ash,rama t  r-m-  d,rama_t_r-m-_d,r a m a t r m d,,,,,^r a m a _ t _ r - m - _ d$,default
+Glf-2_ash-1,,Glf,2_ash,rama ad,rama_ad,r a m a a d,,,,,^r a m a _ a d$,default
+Bux-2_ash-1,,Bux,2_ash,ra’matt,ra’matt,r a mˁ a tː,,,,,^r a ’m a tt$,default
+Nub-2_ash-1,,Nub,2_ash,ruman,ruman,r u m a n,,,,,^r u m a n$,default
+CentralArabic-3_bark-1,,CentralArabic,3_bark,qirf at,qirf_at,q i r f a t,,,,,^q i r f _ a t$,default
+Mor-3_bark-1,,Mor,3_bark,qeʃ rˁa,qeʃ_rˁa,q e ʃ rˤ a,,,,,^q e ʃ _ rˁ a$,default
+Mlt-3_bark-1,,Mlt,3_bark,ʔoʃr a,ʔoʃr_a,ʔ o ʃ r a,,,,,^ʔ o ʃ r _ a$,default
+Cai-3_bark-1,,Cai,3_bark,ʔiʃr*,ʔiʃr*,ʔ i ʃ r,,,,,^ʔ i ʃ r *$,default
+Dms-3_bark-1,,Dms,3_bark,ʔəʃər,ʔəʃər,ʔ ə ʃ ə r,,,,,^ʔ ə ʃ ə r$,default
+Irq-3_bark-1,,Irq,3_bark,giʃra,giʃra,g i ʃ r a,,,,,^g i ʃ r a$,default
+Skh-3_bark-1,,Skh,3_bark,kiʃr,kiʃr,k i ʃ r,,,,,^k i ʃ r$,default
+AqArb-3_bark-1,,AqArb,3_bark,səvi:y e,səvi:y_e,s ə v iː j e,,,,,^s ə v i:y _ e$,default
+Glf-3_bark-1,,Glf,3_bark,giʃra,giʃra,g i ʃ r a,,,,,^g i ʃ r a$,default
+Ymn-3_bark-1,,Ymn,3_bark,giʃr,giʃr,g i ʃ r,,,,,^g i ʃ r$,default
+Nig-3_bark-1,,Nig,3_bark,"li:he, girfe",li:he,l iː h e,,,,,^l i: h e$,default
+Nub-3_bark-1,,Nub,3_bark,"*kokobo  lataka, (girifa)",*kokobo_lataka,k o k o b o l a t a k a,,,,,^* k o k o b o _ l a t a k a$,default
+CentralArabic-4_belly-1,,CentralArabic,4_belly,batˁ n,batˁ_n,b a tˤ n,,,,,^b a tˁ _ n$,default
+Mor-4_belly-1,,Mor,4_belly,ker ʃ,ker_ʃ,k e r ʃ,,,,,^k e r _ ʃ$,default
+Mlt-4_belly-1,,Mlt,4_belly,zaʔʔ,zaʔʔ,z a ʔː,,,,,^z a ʔʔ$,default
+Cai-4_belly-1,,Cai,4_belly,batˁ n*,batˁ_n*,b a tˤ n,,,,,^b a tˁ _ n *$,default
+Dms-4_belly-1,,Dms,4_belly,batˁə n,batˁə_n,b a tˤ ə n,,,,,^b a tˁ ə _ n$,default
+Irq-4_belly-1,,Irq,4_belly,batˁi n,batˁi_n,b a tˤ i n,,,,,^b a tˁ i _ n$,default
+Skh-4_belly-1,,Skh,4_belly,"batˁn , ʧarʃ",batˁn,b a tˤ n,,,,,^b a tˁ n$,default
+AqArb-4_belly-1,,AqArb,4_belly,ʤoof,ʤoof,dʒ oː f,,,,,^ʤ oo f$,default
+Cyp-4_belly-1,,Cyp,4_belly,patn b-tˁ-  n,patn_b-tˁ-_n,p a t n b tˤ n,,,,,^p a t n _ b - tˁ - _ n$,default
+Glf-4_belly-1,,Glf,4_belly,batˤn,batˤn,b a tˤ n,,,,,^b a tˤ n$,default
+Ymn-4_belly-1,,Ymn,4_belly,"batˁn , karʃ",batˁn,b a tˤ n,,,,,^b a tˁ n$,default
+Nig-4_belly-1,,Nig,4_belly,kirʃ,kirʃ,k i r ʃ,,,,,^k i rʃ$,default
+Bux-4_belly-1,,Bux,4_belly,batin,batin,b a t i n,,,,,^b a t i n$,default
+Nub-4_belly-1,,Nub,4_belly,batna,batna,b a t n a,,,,,^b a t n a$,default
+CentralArabic-5_big-1,,CentralArabic,5_big,kab i:r,kab_i:r,k a b iː r,,,,,^k a b _ i: r$,default
+Mor-5_big-1,,Mor,5_big,kbi r,kbi_r,k b i r,,,,,^k b i _ r$,default
+Mlt-5_big-1,,Mlt,5_big,kibi r,kibi_r,k i b i r,,,,,^k i b i _ r$,default
+Cai-5_big-1,,Cai,5_big,kibii r,kibii_r,k i b iː r,,,,,^k i b ii _ r$,default
+Dms-5_big-1,,Dms,5_big,kbi:r,kbi:r,k b iː r,,,,,^k b i: r$,default
+Irq-5_big-1,,Irq,5_big,ʧbi:r,ʧbi:r,tʃ b iː r,,,,,^ʧ b i: r$,default
+Skh-5_big-1,,Skh,5_big,ʧabi: r,ʧabi:_r,tʃ a b iː r,,,,,^ʧ a b i: _ r$,default
+AqArb-5_big-1,,AqArb,5_big,gəbi: r,gəbi:_r,g ə b iː r,,,,,^g ə b i: _ r$,default
+Cyp-5_big-1,,Cyp,5_big,k-b- r,k-b-_r,k b r,,,,,^k - b - _ r$,default
+Glf-5_big-1,,Glf,5_big,ʕood,ʕood,ʕ oː d,,,,,^ʕ oo d$,default
+Ymn-5_big-1,,Ymn,5_big,Kabii r,Kabii_r,k a b iː r,,,,,^K a b ii _ r$,default
+Nig-5_big-1,,Nig,5_big,kabi:r,kabi:r,k a b iː r,,,,,^k a b i: r$,default
+Bux-5_big-1,,Bux,5_big,ka’biir,ka’biir,k a bˤ iː r,,,,,^k a ’b ii r$,default
+Nub-5_big-1,,Nub,5_big,kbir,kbir,k b i r,,,,,^k b i r$,default
+CentralArabic-6_bird-1,,CentralArabic,6_bird,tˁa: ʔir,tˁa:_ʔir,tˤ aː ʔ i r,,,,,^tˁ a: _ ʔ i r$,default
+Mor-6_bird-1,,Mor,6_bird,tˁir,tˁir,tˤ i r,,,,,^tˁ i r$,default
+Mlt-6_bird-1,,Mlt,6_bird,ʕasf ur,ʕasf_ur,ʕ a s f u r,,,,,^ʕ a s f _ u r$,default
+Cai-6_bird-1,,Cai,6_bird,tˁee r*,tˁee_r*,tˤ eː r,,,,,^tˁ ee _ r *$,default
+Dms-6_bird-1,,Dms,6_bird,tˁeer,tˁeer,tˤ eː r,,,,,^tˁ ee r$,default
+Irq-6_bird-1,,Irq,6_bird,tˁeer,tˁeer,tˤ eː r,,,,,^tˁ ee r$,default
+Skh-6_bird-1,,Skh,6_bird,tˁeer,tˁeer,tˤ eː r,,,,,^tˁ ee r$,default
+AqArb-6_bird-1,,AqArb,6_bird,ku:ʧ ka:ye,ku:ʧ_ka:ye,k uː tʃ k aː j e,,,,,^k u: ʧ _ k a:ye$,default
+Glf-6_bird-1,,Glf,6_bird,tˤeer,tˤeer,tˤ eː r,,,,,^tˤ ee r$,default
+Ymn-6_bird-1,,Ymn,6_bird,tˁajr,tˁajr,tˤ a j r,,,,,^tˁ a j r$,default
+Nig-6_bird-1,,Nig,6_bird,tˁe:ra,tˁe:ra,tˤ eː r a,,,,,^tˁ e: r a$,default
+Bux-6_bird-1,,Bux,6_bird,tayra,tayra,t ai̯ r a,,,,,^t ay r a$,default
+Nub-6_bird-1,,Nub,6_bird,ter,ter,t e r,,,,,^t e r$,default
+CentralArabic-7_bite-1,,CentralArabic,7_bite,ʕad ˁdˁa,ʕad_ˁdˁa,ʕ a d ˀdˁ a,,,,,^ʕ a d _ˁdˁ a$,default
+Mor-7_bite-1,,Mor,7_bite,ʕed ˁdˁ,ʕed_ˁdˁ,ʕ e d ˀdˁ,,,,,^ʕ e d _ˁdˁ $,default
+Mlt-7_bite-1,,Mlt,7_bite,gidem,gidem,g i d e m,,,,,^g i d e m$,default
+Cai-7_bite-1,,Cai,7_bite,ʕadˁdˁ,ʕadˁdˁ,ʕ a dˤː,,,,,^ʕ a dˁdˁ$,default
+Dms-7_bite-1,,Dms,7_bite,ʕadˁdˁ,ʕadˁdˁ,ʕ a dˤː,,,,,^ʕ a dˁdˁ$,default
+Irq-7_bite-1,,Irq,7_bite,ʕaðˁðˁ,ʕaðˁðˁ,ʕ a ðˤː,,,,,^ʕ a ðˁðˁ$,default
+Skh-7_bite-1,,Skh,7_bite,ʕaðˁðˁ,ʕaðˁðˁ,ʕ a ðˤː,,,,,^ʕ a ðˁðˁ$,default
+Cyp-7_bite-1,,Cyp,7_bite,ʕaððʕ-dˁ- dˁ,ʕaððʕ-dˁ-_dˁ,ʕ a ðː ʕ dˤ dˤ,,,,,^ʕ a ðð ʕ - dˁ - _ dˁ$,default
+Glf-7_bite-1,,Glf,7_bite,ʕadˤdˤ,ʕadˤdˤ,ʕ a dˤː,,,,,^ʕ a dˤdˤ$,default
+Ymn-7_bite-1,,Ymn,7_bite,lugusˁ,lugusˁ,l u g u sˤ,,,,,^l u g u sˁ$,default
+Nig-7_bite-1,,Nig,7_bite,adˁdˁa,adˁdˁa,a dˤː a,,,,,^a dˁdˁ a$,default
+Bux-7_bite-1,,Bux,7_bite,yaʕazz,yaʕazz,j a ʕ a zː,,,,,^ya ʕ a zz$,default
+Nub-7_bite-1,,Nub,7_bite,adi,adi,a d i,,,,,^a d i$,default
+CentralArabic-8_black-1,,CentralArabic,8_black,ʔas  wa d,ʔas_wa_d,ʔ a s w a d,,,,,^ʔ a s _ w a _ d$,default
+Mor-8_black-1,,Mor,8_black,kħe l,kħe_l,k ħ e l,,,,,^k ħ e _ l$,default
+Mlt-8_black-1,,Mlt,8_black,iswe d,iswe_d,i s w e d,,,,,^i sw e _ d$,default
+Cai-8_black-1,,Cai,8_black,iswi d,iswi_d,i s w i d,,,,,^i sw i _ d$,default
+Dms-8_black-1,,Dms,8_black,ʔasw ad,ʔasw_ad,ʔ a s w a d,,,,,^ʔ a sw _ a d$,default
+Irq-8_black-1,,Irq,8_black,ʔasw ad,ʔasw_ad,ʔ a s w a d,,,,,^ʔ a sw _ a d$,default
+Skh-8_black-1,,Skh,8_black,ʔasw ad,ʔasw_ad,ʔ a s w a d,,,,,^ʔ a sw _ a d$,default
+AqArb-8_black-1,,AqArb,8_black,əswə d,əswə_d,ə s w ə d,,,,,^ə sw ə _ d$,default
+Cyp-8_black-1,,Cyp,8_black,isfet  s-w- d,isfet_s-w-_d,i s f e t s w d,,,,,^i s f e t _ s - w - _ d$,default
+Glf-8_black-1,,Glf,8_black,ʔasw ad,ʔasw_ad,ʔ a s w a d,,,,,^ʔ a sw _ a d$,default
+Ymn-8_black-1,,Ymn,8_black,ʔasw ad,ʔasw_ad,ʔ a s w a d,,,,,^ʔ a sw _ a d$,default
+Nig-8_black-1,,Nig,8_black,axadˁar,axadˁar,a x a dˤ a r,,,,,^a x a dˁ a r$,default
+Bux-8_black-1,,Bux,8_black,ʔaswad,ʔaswad,ʔ a s w a d,,,,,^ʔ a sw a d$,default
+Nub-8_black-1,,Nub,8_black,*asue,*asue,a s u e,,,,,^* a s ue$,default
+CentralArabic-9_blood-1,,CentralArabic,9_blood,da m,da_m,d a m,,,,,^d a _ m$,default
+Mor-9_blood-1,,Mor,9_blood,de mm,de_mm,d e mː,,,,,^d e _ mm$,default
+Mlt-9_blood-1,,Mlt,9_blood,dem m,dem_m,d e m m,,,,,^d e m _ m$,default
+Cai-9_blood-1,,Cai,9_blood,dam m,dam_m,d a m m,,,,,^d a m _ m$,default
+Dms-9_blood-1,,Dms,9_blood,dam m,dam_m,d a m m,,,,,^d a m _ m$,default
+Irq-9_blood-1,,Irq,9_blood,dam m,dam_m,d a m m,,,,,^d a m _ m$,default
+Skh-9_blood-1,,Skh,9_blood,dam,dam,d a m,,,,,^d a m$,default
+AqArb-9_blood-1,,AqArb,9_blood,Dam,Dam,d a m,,,,,^D a m$,default
+Cyp-9_blood-1,,Cyp,9_blood,d-m- y,d-m-_y,d m y,,,,,^d - m - _ y$,default
+Glf-9_blood-1,,Glf,9_blood,dam m,dam_m,d a m m,,,,,^d a m _ m$,default
+Ymn-9_blood-1,,Ymn,9_blood,Dam,Dam,d a m,,,,,^D a m$,default
+Nig-9_blood-1,,Nig,9_blood,damm,damm,d a mː,,,,,^d a mm$,default
+Bux-9_blood-1,,Bux,9_blood,dam,dam,d a m,,,,,^d a m$,default
+Nub-9_blood-1,,Nub,9_blood,dum,dum,d u m,,,,,^d u m$,default
+CentralArabic-10_bone-1,,CentralArabic,10_bone,ʕað  ˁm,ʕað_ˁm,ʕ a ð mˁ,,,,,^ʕ a ð _ ˁm $,default
+Mor-10_bone-1,,Mor,10_bone,ʕdˁ  em,ʕdˁ_em,ʕ dˤ e m,,,,,^ʕ dˁ _ e m$,default
+Mlt-10_bone-1,,Mlt,10_bone,ʕad  ma,ʕad_ma,ʕ a d m a,,,,,^ʕ a d _ m a$,default
+Cai-10_bone-1,,Cai,10_bone,ʕad  ma,ʕad_ma,ʕ a d m a,,,,,^ʕ a d _ m a$,default
+Dms-10_bone-1,,Dms,10_bone,ʕadˁ  me,ʕadˁ_me,ʕ a dˤ m e,,,,,^ʕ a dˁ _ m e$,default
+Irq-10_bone-1,,Irq,10_bone,ʕaðˁ  ma,ʕaðˁ_ma,ʕ a ðˤ m a,,,,,^ʕ a ðˁ _ m a$,default
+Skh-10_bone-1,,Skh,10_bone,ʕaðˁ  m,ʕaðˁ_m,ʕ a ðˤ m,,,,,^ʕ a ðˁ _ m$,default
+AqArb-10_bone-1,,AqArb,10_bone,ʕadˁə  m,ʕadˁə_m,ʕ a dˤ ə m,,,,,^ʕ a dˁ ə _ m$,default
+Glf-10_bone-1,,Glf,10_bone,ʕaðˤ  m,ʕaðˤ_m,ʕ a ðˤ m,,,,,^ʕ a ðˤ _ m$,default
+Ymn-10_bone-1,,Ymn,10_bone,ʕaðˁ  ma,ʕaðˁ_ma,ʕ a ðˤ m a,,,,,^ʕ a ðˁ _ m a$,default
+Nig-10_bone-1,,Nig,10_bone,adˁum,adˁum,a dˤ u m,,,,,^a dˁ u m$,default
+Bux-10_bone-1,,Bux,10_bone,ʕazəm,ʕazəm,ʕ a z ə m,,,,,^ʕ a z ə m$,default
+Nub-10_bone-1,,Nub,10_bone,ladim,ladim,l a d i m,,,,,^l a d i m$,default
+CentralArabic-11_breast-1,,CentralArabic,11_breast,sˁa dr,sˁa_dr,sˤ a d r,,,,,^sˁ a _ d r$,default
+Mor-11_breast-1,,Mor,11_breast,bez zul a,bez_zul_a,b e z z u l a,,,,,^b e z _ z u l _ a$,default
+Mlt-11_breast-1,,Mlt,11_breast,Side r,Side_r,s i d e r,,,,,^S i d e _ r$,default
+Cai-11_breast-1,,Cai,11_breast,sidir *,sidir_*,s i d i r,,,,,^s i d i r _ *$,default
+Dms-11_breast-1,,Dms,11_breast,sˁədˁ ər,sˁədˁ_ər,sˤ ə dˤ ə r,,,,,^sˁ ə dˁ _ ə r$,default
+Irq-11_breast-1,,Irq,11_breast,nahid,nahid,n a h i d,,,,,^n a h i d$,default
+Skh-11_breast-1,,Skh,11_breast,θidi (f.)  sˁidr,θidi__sˁidr,θ i d i sˤ i d r,,,,,^θ i d i __ sˁ i d r$,default
+Cyp-11_breast-1,,Cyp,11_breast,pzaz 9pl) b-z-  z,pzaz_9pl)_b-z-_z,p z a z,,,,,^pzaz_9pl)_b-z-_z $,default
+Glf-11_breast-1,,Glf,11_breast,deed (f) sˤadr,deed__sˤadr,d eː d sˤ a d r,,,,,^d ee d __ sˤ a d r$,default
+Ymn-11_breast-1,,Ymn,11_breast,sˁadr,sˁadr,sˤ a d r,,,,,^sˁ a d r$,default
+Nig-11_breast-1,,Nig,11_breast,de:d,de:d,d eː d,,,,,^d e: d$,default
+Bux-11_breast-1,,Bux,11_breast,sadər;bu Ʒul,sadər,s a d ə r,,,,,^s a d ə r$,default
+Nub-11_breast-1,,Nub,11_breast,*sudur,*sudur,s u d u r,,,,,^*s u d u r$,default
+CentralArabic-12_burnvt-1,,CentralArabic,12_burnvt,ħar aqa,ħar_aqa,ħ a r a q a,,,,,^ħ a r _ a q a$,default
+Mor-12_burnvt-1,,Mor,12_burnvt,ħre q,ħre_q,ħ r e q,,,,,^ħ r e _ q$,default
+Mlt-12_burnvt-1,,Mlt,12_burnvt,ħar aʔ,ħar_aʔ,ħ a r a ʔ,,,,,^ħ a r _ a ʔ$,default
+Cai-12_burnvt-1,,Cai,12_burnvt,ħar aʔ,ħar_aʔ,ħ a r a ʔ,,,,,^ħ a r _ a ʔ$,default
+Dms-12_burnvt-1,,Dms,12_burnvt,ħaraʔ,ħaraʔ,ħ a r a ʔ,,,,,^ħ a r a ʔ$,default
+Irq-12_burnvt-1,,Irq,12_burnvt,ħirag,ħirag,ħ i r a g,,,,,^ħ i r a g$,default
+Skh-12_burnvt-1,,Skh,12_burnvt,ħarak,ħarak,ħ a r a k,,,,,^ħ a r a k$,default
+AqArb-12_burnvt-1,,AqArb,12_burnvt,ħ-r- q,ħ-r-_q,ħ r q,,,,,^ħ - r - _ q$,default
+Cyp-12_burnvt-1,,Cyp,12_burnvt,ħ-r- q,ħ-r-_q,ħ r q,,,,,^ħ - r - _ q$,default
+Glf-12_burnvt-1,,Glf,12_burnvt,ħara g,ħara_g,ħ a r a g,,,,,^ħ a r a _ g$,default
+Ymn-12_burnvt-1,,Ymn,12_burnvt,ħara g,ħara_g,ħ a r a g,,,,,^ħ a r a _ g$,default
+Nig-12_burnvt-1,,Nig,12_burnvt,"hirig,  taʃʃa (tr)",hirig,h i r i g,,,,,^h i r i g$,default
+Bux-12_burnvt-1,,Bux,12_burnvt,ʕalag,ʕalag,ʕ a l a g,,,,,^ʕ a l a g$,default
+Nub-12_burnvt-1,,Nub,12_burnvt,haragu,haragu,h a r a g u,,,,,^h a r a g u$,default
+CentralArabic-13_claw-1,,CentralArabic,13_claw,ðˁu fr,ðˁu_fr,ðˤ u f r,,,,,^ðˁ u _ f r$,default
+Mor-13_claw-1,,Mor,13_claw,dˁfe rˁ,dˁfe_rˁ,dˤ f e rˤ,,,,,^dˁ f e _ rˁ$,default
+Mlt-13_claw-1,,Mlt,13_claw,Dife r,Dife_r,d i f e r,,,,,^D i f e _ r$,default
+Cai-13_claw-1,,Cai,13_claw,dˁifr  ˁ*,dˁifr_ˁ*,dˤ i f rˤ,,,,,^dˁ i f r_ˁ *$,default
+Dms-13_claw-1,,Dms,13_claw,dˁəfə r,dˁəfə_r,dˤ ə f ə r,,,,,^dˁ ə f ə _ r$,default
+Irq-13_claw-1,,Irq,13_claw,ðˁifir,ðˁifir,ðˤ i f i r,,,,,^ðˁ i f i r$,default
+Skh-13_claw-1,,Skh,13_claw,iðˁfir,iðˁfir,i ðˤ f i r,,,,,^i ðˁ f i r$,default
+AqArb-13_claw-1,,AqArb,13_claw,dˁəfə r,dˁəfə_r,dˤ ə f ə r,,,,,^dˁ ə f ə _ r$,default
+Cyp-13_claw-1,,Cyp,13_claw,ðˁ-f- r,ðˁ-f-_r,ðˤ f r,,,,,^ðˁ - f - _ r$,default
+Glf-13_claw-1,,Glf,13_claw,"mixla b,  ðˤifr",mixla_b,m i x l a b,,,,,^m i x l a _ b$,default
+Ymn-13_claw-1,,Ymn,13_claw,θˁufri n**,θˁufri_n**,θˤ u f r i n,,,,,^θˁ u f r i _ n **$,default
+Nig-13_claw-1,,Nig,13_claw,xumfur,xumfur,x u m f u r,,,,,^x u m f u r$,default
+Nub-13_claw-1,,Nub,13_claw,*dufuru,*dufuru,d u f u r u,,,,,^* d u f u r u$,default
+CentralArabic-14_cloud-1,,CentralArabic,14_cloud,γam a:m at,γam_a:m_at,ɣ a m aː m a t,,,,,^γ a m _ a: m _ a t$,default
+Mor-14_cloud-1,,Mor,14_cloud,γm am  a,γm_am_a,ɣ m a m a,,,,,^γ m _ a m _ a$,default
+Mlt-14_cloud-1,,Mlt,14_cloud,sħa ba,sħa_ba,s ħ a b a,,,,,^s ħ a _ b a$,default
+Cai-14_cloud-1,,Cai,14_cloud,saħ aab,saħ_aab,s a ħ aː b,,,,,^s a ħ _ aa b$,default
+Dms-14_cloud-1,,Dms,14_cloud,γeem e,γeem_e,ɣ eː m e,,,,,^γ ee m _ e$,default
+Irq-14_cloud-1,,Irq,14_cloud,γeem a,γeem_a,ɣ eː m a,,,,,^γ ee m _ a$,default
+Skh-14_cloud-1,,Skh,14_cloud,γeem i,γeem_i,ɣ eː m i,,,,,^γ ee m _ i$,default
+Cyp-14_cloud-1,,Cyp,14_cloud,ɣ-y-r,ɣ-y-r,ɣ y r,,,,,^ɣ - y - r$,default
+Glf-14_cloud-1,,Glf,14_cloud,"siħaa b,  γeem",siħaa_b,s i ħ aː b,,,,,^s i ħ aa _ b$,default
+Nig-14_cloud-1,,Nig,14_cloud,dˁa(ha)w ije,dˁaw_ije,dˤ a w i j e,,,,,^dˁ a w _ i j e$,default
+Bux-14_cloud-1,,Bux,14_cloud,"γeem,qe em",γeem,ɣ eː m,,,,,^γ ee m$,default
+Nub-14_cloud-1,,Nub,14_cloud,*soobur a,*soobur_a,s oː b u r a,,,,,^*s oo b u r _ a$,default
+CentralArabic-15_cold-1,,CentralArabic,15_cold,ba: rid,ba:_rid,b aː r i d,,,,,^b a: _ r i d$,default
+Mor-15_cold-1,,Mor,15_cold,bar ed,bar_ed,b a r e d,,,,,^b a r _ e d$,default
+Mlt-15_cold-1,,Mlt,15_cold,bi:r ed,bi:r_ed,b iː r e d,,,,,^b i: r _ e d$,default
+Cai-15_cold-1,,Cai,15_cold,bar d,bar_d,b a r d,,,,,^b a r _ d$,default
+Dms-15_cold-1,,Dms,15_cold,barəd,barəd,b a r ə d,,,,,^b a r ə d$,default
+Irq-15_cold-1,,Irq,15_cold,bard a:n,bard_a:n,b a r d aː n,,,,,^b a r d _ a: n$,default
+Skh-15_cold-1,,Skh,15_cold,bi:rid,bi:rid,b iː r i d,,,,,^b i: r i d$,default
+AqArb-15_cold-1,,AqArb,15_cold,beerə  d,beerə_d,b eː r ə d,,,,,^b ee r ə _ d$,default
+Cyp-15_cold-1,,Cyp,15_cold,*pere t  (brd),*pere_t_,p e r e t,,,,,^* p e r e _ t _$,default
+Glf-15_cold-1,,Glf,15_cold,baari d,baari_d,b aː r i d,,,,,^b aa r i _ d$,default
+Ymn-15_cold-1,,Ymn,15_cold,baari d,baari_d,b aː r i d,,,,,^b aa r i _ d$,default
+Nig-15_cold-1,,Nig,15_cold,barda:n,barda:n,b a r d aː n,,,,,^b a r d a: n$,default
+Bux-15_cold-1,,Bux,15_cold,bard,bard,b a r d,,,,,^b a r d$,default
+Nub-15_cold-1,,Nub,15_cold,bari,bari,b a r i,,,,,^b a r i$,default
+CentralArabic-16_come-1,,CentralArabic,16_come,ʤa: ʔa,ʤa:_ʔa,dʒ aː ʔ a,,,,,^ʤ a: _ ʔ a$,default
+Mor-16_come-1,,Mor,16_come,ʒa,ʒa,ʒ a,,,,,^ʒ a$,default
+Mlt-16_come-1,,Mlt,16_come,ʤi:,ʤi:,dʒ iː,,,,,^ʤ i:$,default
+Cai-16_come-1,,Cai,16_come,ga,ga,g a,,,,,^g a$,default
+Dms-16_come-1,,Dms,16_come,ʔəʤa,ʔəʤa,ʔ ə dʒ a,,,,,^ʔ ə ʤ a$,default
+Irq-16_come-1,,Irq,16_come,ʤa:,ʤa:,dʒ aː,,,,,^ʤ a:$,default
+Skh-16_come-1,,Skh,16_come,aʦa,aʦa,a ts a,,,,,^a ʦ a$,default
+AqArb-16_come-1,,AqArb,16_come,ʤa:,ʤa:,dʒ aː,,,,,^ʤ a:$,default
+Cyp-16_come-1,,Cyp,16_come,ʤ-y- y,ʤ-y-_y,dʒ y y,,,,,^ʤ - y - _ y$,default
+Glf-16_come-1,,Glf,16_come,ʤa,ʤa,dʒ a,,,,,^ʤ a$,default
+Ymn-16_come-1,,Ymn,16_come,ʤaaʔ,ʤaaʔ,dʒ aː ʔ,,,,,^ʤ aa ʔ$,default
+Nig-16_come-1,,Nig,16_come,ʤa,ʤa,dʒ a,,,,,^ʤ a$,default
+Bux-16_come-1,,Bux,16_come,dƷakki,dƷakki,d ʒ a kː i,,,,,^d Ʒ a kk i$,default
+Nub-16_come-1,,Nub,16_come,ʤa,ʤa,dʒ a,,,,,^ʤ a$,default
+CentralArabic-17_die-1,,CentralArabic,17_die,ma: ta,ma:_ta,m aː t a,,,,,^m a: _ t a$,default
+Mor-17_die-1,,Mor,17_die,mat,mat,m a t,,,,,^m a t$,default
+Mlt-17_die-1,,Mlt,17_die,mi:t,mi:t,m iː t,,,,,^m i: t$,default
+Cai-17_die-1,,Cai,17_die,maa t,maa_t,m aː t,,,,,^m aa _ t$,default
+Dms-17_die-1,,Dms,17_die,ma:t,ma:t,m aː t,,,,,^m a: t$,default
+Irq-17_die-1,,Irq,17_die,ma:t,ma:t,m aː t,,,,,^m a: t$,default
+Skh-17_die-1,,Skh,17_die,ma:t,ma:t,m aː t,,,,,^m a: t$,default
+AqArb-17_die-1,,AqArb,17_die,ma:t,ma:t,m aː t,,,,,^m a: t$,default
+Cyp-17_die-1,,Cyp,17_die,m- w-t,m-_w-t,m w t,,,,,^m - _ w - t$,default
+Glf-17_die-1,,Glf,17_die,maat,maat,m aː t,,,,,^m aa t$,default
+Ymn-17_die-1,,Ymn,17_die,maat,maat,m aː t,,,,,^m aa t$,default
+Nig-17_die-1,,Nig,17_die,ma:t,ma:t,m aː t,,,,,^m a: t$,default
+Bux-17_die-1,,Bux,17_die,maat,maat,m aː t,,,,,^m aa t$,default
+Nub-17_die-1,,Nub,17_die,mutu,mutu,m u t u,,,,,^m u t u$,default
+CentralArabic-18_dog-1,,CentralArabic,18_dog,kal b,kal_b,k a l b,,,,,^k a l _ b$,default
+Mor-18_dog-1,,Mor,18_dog,kel b,kel_b,k e l b,,,,,^k e l _ b$,default
+Mlt-18_dog-1,,Mlt,18_dog,kelb,kelb,k e l b,,,,,^k e l b$,default
+Cai-18_dog-1,,Cai,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Dms-18_dog-1,,Dms,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Irq-18_dog-1,,Irq,18_dog,ʧalib,ʧalib,tʃ a l i b,,,,,^ʧ a l i b$,default
+Skh-18_dog-1,,Skh,18_dog,ʧalb,ʧalb,tʃ a l b,,,,,^ʧ a l b$,default
+AqArb-18_dog-1,,AqArb,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Cyp-18_dog-1,,Cyp,18_dog,k-l-b,k-l-b,k l b,,,,,^k - l - b$,default
+Glf-18_dog-1,,Glf,18_dog,ʧalb,ʧalb,tʃ a l b,,,,,^ʧ a l b$,default
+Ymn-18_dog-1,,Ymn,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Nig-18_dog-1,,Nig,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Bux-18_dog-1,,Bux,18_dog,kalb,kalb,k a l b,,,,,^k a l b$,default
+Nub-18_dog-1,,Nub,18_dog,keli,keli,k e l i,,,,,^k e l i$,default
+CentralArabic-19_drink-1,,CentralArabic,19_drink,ʃari ba,ʃari_ba,ʃ a r i b a,,,,,^ʃ a r i _ b a$,default
+Mor-19_drink-1,,Mor,19_drink,ʃre b,ʃre_b,ʃ r e b,,,,,^ʃ r e _ b$,default
+Mlt-19_drink-1,,Mlt,19_drink,ʃoro b,ʃoro_b,ʃ o r o b,,,,,^ʃ o r o _ b$,default
+Cai-19_drink-1,,Cai,19_drink,ʃirib,ʃirib,ʃ i r i b,,,,,^ʃ i r i b$,default
+Dms-19_drink-1,,Dms,19_drink,ʃəreb,ʃəreb,ʃ ə r e b,,,,,^ʃ ə r e b$,default
+Irq-19_drink-1,,Irq,19_drink,ʃirab,ʃirab,ʃ i r a b,,,,,^ʃ i r a b$,default
+Skh-19_drink-1,,Skh,19_drink,iʃrib,iʃrib,i ʃ r i b,,,,,^i ʃ r i b$,default
+AqArb-19_drink-1,,AqArb,19_drink,ʃərəb,ʃərəb,ʃ ə r ə b,,,,,^ʃ ə r ə b$,default
+Cyp-19_drink-1,,Cyp,19_drink,ʃ-r-b,ʃ-r-b,ʃ r b,,,,,^ʃ - r - b$,default
+Glf-19_drink-1,,Glf,19_drink,ʃarab,ʃarab,ʃ a r a b,,,,,^ʃ a r a b$,default
+Ymn-19_drink-1,,Ymn,19_drink,ʃirib,ʃirib,ʃ i r i b,,,,,^ʃ i r i b$,default
+Nig-19_drink-1,,Nig,19_drink,ʃarab,ʃarab,ʃ a r a b,,,,,^ʃ a r a b$,default
+Bux-19_drink-1,,Bux,19_drink,ʃarab,ʃarab,ʃ a r a b,,,,,^ʃ a r a b$,default
+Nub-19_drink-1,,Nub,19_drink,‘aʃrubu,‘aʃrubu,ʔ a ʃ r u b u,,,,,^‘ a ʃ r u b u$,default
+CentralArabic-20_dry-1,,CentralArabic,20_dry,ja:b is,ja:b_is,j aː b i s,,,,,^j a: b _ i s$,default
+Mor-20_dry-1,,Mor,20_dry,jab es,jab_es,j a b e s,,,,,^j a b _ e s$,default
+Mlt-20_dry-1,,Mlt,20_dry,ni:ʃ ef,ni:ʃ_ef,n iː ʃ e f,,,,,^n i: ʃ _ e f$,default
+Cai-20_dry-1,,Cai,20_dry,na:ʃ if*,na:ʃ_if*,n aː ʃ i f,,,,,^n a: ʃ _ i f *$,default
+Dms-20_dry-1,,Dms,20_dry,na:ʃe f,na:ʃe_f,n aː ʃ e f,,,,,^n a: ʃ e _ f$,default
+Irq-20_dry-1,,Irq,20_dry,na:ʃif,na:ʃif,n aː ʃ i f,,,,,^n a: ʃ i f$,default
+Skh-20_dry-1,,Skh,20_dry,ji:bis,ji:bis,j iː b i s,,,,,^j i: b i s$,default
+AqArb-20_dry-1,,AqArb,20_dry,jeebə s,jeebə_s,j eː b ə s,,,,,^j ee b ə _ s$,default
+Cyp-20_dry-1,,Cyp,20_dry,neʃef ʤ-f-  y,neʃef_ʤ-f-_y,n e ʃ e f dʒ f y,,,,,^n e ʃ e f _ ʤ - f - _ y$,default
+Glf-20_dry-1,,Glf,20_dry,jaabi s/na  aʃif,jaabi_s,j aː b i s,,,,,^j aa b i _ s$,default
+Ymn-20_dry-1,,Ymn,20_dry,jaabi s,jaabi_s,j aː b i s,,,,,^j aa b i _ s$,default
+Nig-20_dry-1,,Nig,20_dry,ja:bis,ja:bis,j aː b i s,,,,,^j a: b i s$,default
+Bux-20_dry-1,,Bux,20_dry,yabs,yabs,j a b s,,,,,^ya bs$,default
+Nub-20_dry-1,,Nub,20_dry,abis,abis,a b i s,,,,,^a b i s$,default
+CentralArabic-21_ear-1,,CentralArabic,21_ear,ʔuð n,ʔuð_n,ʔ u ð n,,,,,^ʔ u ð _ n$,default
+Mor-21_ear-1,,Mor,21_ear,wd en,wd_en,w d e n,,,,,^w d _ e n$,default
+Mlt-21_ear-1,,Mlt,21_ear,wid na,wid_na,w i d n a,,,,,^w i d _ n a$,default
+Cai-21_ear-1,,Cai,21_ear,wid n,wid_n,w i d n,,,,,^w i d _ n$,default
+Dms-21_ear-1,,Dms,21_ear,ʔədən,ʔədən,ʔ ə d ə n,,,,,^ʔ ə d ə n$,default
+Irq-21_ear-1,,Irq,21_ear,ʔiðin,ʔiðin,ʔ i ð i n,,,,,^ʔ i ð i n$,default
+Skh-21_ear-1,,Skh,21_ear,iðn,iðn,i ð n,,,,,^i ð n$,default
+AqArb-21_ear-1,,AqArb,21_ear,ədən,ədən,ə d ə n,,,,,^ə d ə n$,default
+Cyp-21_ear-1,,Cyp,21_ear,iðn  ʔ-ð- n,iðn_ʔ-ð-_n,i ð n ʔ ð n,,,,,^i ð n _ ʔ - ð - _ n$,default
+Glf-21_ear-1,,Glf,21_ear,iðin,iðin,i ð i n,,,,,^i ð i n$,default
+Ymn-21_ear-1,,Ymn,21_ear,ʔiðn,ʔiðn,ʔ i ð n,,,,,^ʔ i ð n$,default
+Nig-21_ear-1,,Nig,21_ear,dˁan,dˁan,dˤ a n,,,,,^dˁ a n$,default
+Bux-21_ear-1,,Bux,21_ear,ʔizən,ʔizən,ʔ i z ə n,,,,,^ʔ i z ə n$,default
+Nub-21_ear-1,,Nub,21_ear,a’dan,a’dan,a dˤ a n,,,,,^a ’d a n$,default
+CentralArabic-22_earthdirt-1,,CentralArabic,22_earthdirt,tur a:b,tur_a:b,t u r aː b,,,,,^t u r _ a: b$,default
+Mor-22_earthdirt-1,,Mor,22_earthdirt,trˁa b,trˁa_b,t rˤ a b,,,,,^t rˁ a _ b$,default
+Mlt-22_earthdirt-1,,Mlt,22_earthdirt,trab,trab,t r a b,,,,,^t r a b$,default
+Cai-22_earthdirt-1,,Cai,22_earthdirt,ardˁ,ardˁ,a r dˤ,,,,,^a r dˁ$,default
+Dms-22_earthdirt-1,,Dms,22_earthdirt,tˁrˁa: b,tˁrˁa:_b,tˤ rˤ aː b,,,,,^tˁ rˁ a: _ b$,default
+Irq-22_earthdirt-1,,Irq,22_earthdirt,tra:b,tra:b,t r aː b,,,,,^t r a: b$,default
+Skh-22_earthdirt-1,,Skh,22_earthdirt,"arðˁ, turbi",arðˁ,a r ðˤ,,,,,^a r ðˁ$,default
+AqArb-22_earthdirt-1,,AqArb,22_earthdirt,ardˁ,ardˁ,a r dˤ,,,,,^a r dˁ$,default
+Cyp-22_earthdirt-1,,Cyp,22_earthdirt,trap t-r-b,trap_t-r-b,t r a p t r b,,,,,^t r a p _ t - r - b$,default
+Glf-22_earthdirt-1,,Glf,22_earthdirt,traab,traab,t r aː b,,,,,^t r aa b$,default
+Ymn-22_earthdirt-1,,Ymn,22_earthdirt,arðˁ,arðˁ,a r ðˤ,,,,,^a r ðˁ$,default
+Nig-22_earthdirt-1,,Nig,22_earthdirt,ardˁ,ardˁ,a r dˤ,,,,,^a r dˁ$,default
+Bux-22_earthdirt-1,,Bux,22_earthdirt,tiin,tiin,t iː n,,,,,^t ii n$,default
+Nub-22_earthdirt-1,,Nub,22_earthdirt,tura,tura,t u r a,,,,,^t u r a$,default
+CentralArabic-23_eat-1,,CentralArabic,23_eat,ʔak ala,ʔak_ala,ʔ a k a l a,,,,,^ʔ a k _ a l a$,default
+Mor-23_eat-1,,Mor,23_eat,kla,kla,k l a,,,,,^k l a$,default
+Mlt-23_eat-1,,Mlt,23_eat,ki:l,ki:l,k iː l,,,,,^k i: l$,default
+Cai-23_eat-1,,Cai,23_eat,akal,akal,a k a l,,,,,^a k a l$,default
+Dms-23_eat-1,,Dms,23_eat,ʔakal,ʔakal,ʔ a k a l,,,,,^ʔ a k a l$,default
+Irq-23_eat-1,,Irq,23_eat,ʔakal,ʔakal,ʔ a k a l,,,,,^ʔ a k a l$,default
+Skh-23_eat-1,,Skh,23_eat,aʧal,aʧal,a tʃ a l,,,,,^a ʧ a l$,default
+AqArb-23_eat-1,,AqArb,23_eat,akal,akal,a k a l,,,,,^a k a l$,default
+Cyp-23_eat-1,,Cyp,23_eat,ʔ-k-l,ʔ-k-l,ʔ k l,,,,,^ʔ - k - l$,default
+Glf-23_eat-1,,Glf,23_eat,ʔakal,ʔakal,ʔ a k a l,,,,,^ʔ a k a l$,default
+Ymn-23_eat-1,,Ymn,23_eat,ʔakal,ʔakal,ʔ a k a l,,,,,^ʔ a k a l$,default
+Nig-23_eat-1,,Nig,23_eat,akal,akal,a k a l,,,,,^a k a l$,default
+Bux-23_eat-1,,Bux,23_eat,ʔukul,ʔukul,ʔ u k u l,,,,,^ʔ u k u l$,default
+Nub-23_eat-1,,Nub,23_eat,‘akulu,‘akulu,ʔ a k u l u,,,,,^‘ a k u l u$,default
+CentralArabic-24_egg-1,,CentralArabic,24_egg,bai dˁat,bai_dˁat,b ai̯ dˤ a t,,,,,^b ai _ dˁ a t$,default
+Mor-24_egg-1,,Mor,24_egg,bidˁ a,bidˁ_a,b i dˤ a,,,,,^b i dˁ _ a$,default
+Mlt-24_egg-1,,Mlt,24_egg,Bajd a,Bajd_a,b a j d a,,,,,^B a j d _ a$,default
+Cai-24_egg-1,,Cai,24_egg,bee dˁa,bee_dˁa,b eː dˤ a,,,,,^b ee _ dˁ a$,default
+Dms-24_egg-1,,Dms,24_egg,beedˁ a,beedˁ_a,b eː dˤ a,,,,,^b ee dˁ _ a$,default
+Irq-24_egg-1,,Irq,24_egg,beeðˁ a,beeðˁ_a,b eː ðˤ a,,,,,^b ee ðˁ _ a$,default
+Skh-24_egg-1,,Skh,24_egg,beeðˁ a,beeðˁ_a,b eː ðˤ a,,,,,^b ee ðˁ _ a$,default
+AqArb-24_egg-1,,AqArb,24_egg,bajdˁ a,bajdˁ_a,b a j dˤ a,,,,,^b a j dˁ _ a$,default
+Cyp-24_egg-1,,Cyp,24_egg,b-y- dˁ,b-y-_dˁ,b y dˤ,,,,,^b - y - _ dˁ$,default
+Glf-24_egg-1,,Glf,24_egg,beedˤ a,beedˤ_a,b eː dˤ a,,,,,^b ee dˤ _ a$,default
+Ymn-24_egg-1,,Ymn,24_egg,bajðˁ ah,bajðˁ_ah,b a j ðˤ a h,,,,,^b a j ðˁ _ a h$,default
+Nig-24_egg-1,,Nig,24_egg,be:dˁe,be:dˁe,b eː dˤ e,,,,,^b e: dˁ e$,default
+Bux-24_egg-1,,Bux,24_egg,bayda,bayda,b ai̯ d a,,,,,^b ay d a$,default
+Nub-24_egg-1,,Nub,24_egg,ma’jai,ma’jai,m a jˤ ai,,,,,^m a ’j ai$,default
+CentralArabic-25_eye-1,,CentralArabic,25_eye,ʕai n,ʕai_n,ʕ ai̯ n,,,,,^ʕ ai _ n$,default
+Mor-25_eye-1,,Mor,25_eye,ʕej n,ʕej_n,ʕ e j n,,,,,^ʕ e j _ n$,default
+Mlt-25_eye-1,,Mlt,25_eye,ʕajn,ʕajn,ʕ a j n,,,,,^ʕ a j n$,default
+Cai-25_eye-1,,Cai,25_eye,ʕee n,ʕee_n,ʕ eː n,,,,,^ʕ ee _ n$,default
+Dms-25_eye-1,,Dms,25_eye,ʕeen,ʕeen,ʕ eː n,,,,,^ʕ ee n$,default
+Irq-25_eye-1,,Irq,25_eye,ʕeen,ʕeen,ʕ eː n,,,,,^ʕ ee n$,default
+Skh-25_eye-1,,Skh,25_eye,ʕeen,ʕeen,ʕ eː n,,,,,^ʕ ee n$,default
+AqArb-25_eye-1,,AqArb,25_eye,ʕajn,ʕajn,ʕ a j n,,,,,^ʕ a j n$,default
+Cyp-25_eye-1,,Cyp,25_eye,ʕayn ʕ-y-  n,ʕayn_ʕ-y-_n,ʕ ai̯ n ʕ y n,,,,,^ʕ ay n _ ʕ - y - _ n$,default
+Glf-25_eye-1,,Glf,25_eye,ʕeen,ʕeen,ʕ eː n,,,,,^ʕ ee n$,default
+Ymn-25_eye-1,,Ymn,25_eye,ʕajn,ʕajn,ʕ a j n,,,,,^ʕ a j n$,default
+Nig-25_eye-1,,Nig,25_eye,e:n,e:n,eː n,,,,,^e: n$,default
+Bux-25_eye-1,,Bux,25_eye,ʔayn,ʔayn,ʔ ai̯ n,,,,,^ʔ ay n$,default
+Nub-25_eye-1,,Nub,25_eye,‘ena,‘ena,ʔ e n a,,,,,^‘ e n a$,default
+CentralArabic-26_fatn-1,,CentralArabic,26_fatn,ʃaħ m,ʃaħ_m,ʃ a ħ m,,,,,^ʃ a ħ _ m$,default
+Mor-26_fatn-1,,Mor,26_fatn,ʃħe m,ʃħe_m,ʃ ħ e m,,,,,^ʃ ħ e _ m$,default
+Mlt-26_fatn-1,,Mlt,26_fatn,ʃaħ am,ʃaħ_am,ʃ a ħ a m,,,,,^ʃ a ħ _ a m$,default
+Cai-26_fatn-1,,Cai,26_fatn,ʃaħ m,ʃaħ_m,ʃ a ħ m,,,,,^ʃ a ħ _ m$,default
+Dms-26_fatn-1,,Dms,26_fatn,ʃaħə m,ʃaħə_m,ʃ a ħ ə m,,,,,^ʃ a ħ ə _ m$,default
+Irq-26_fatn-1,,Irq,26_fatn,ʃaħa m,ʃaħa_m,ʃ a ħ a m,,,,,^ʃ a ħ a _ m$,default
+Skh-26_fatn-1,,Skh,26_fatn,ʃaħm,ʃaħm,ʃ a ħ m,,,,,^ʃ a ħ m$,default
+AqArb-26_fatn-1,,AqArb,26_fatn,"samə n, ʃuma  :n",samə_n,s a m ə n,,,,,^s a m ə _ n$,default
+Cyp-26_fatn-1,,Cyp,26_fatn,s-m- n,s-m-_n,s m n,,,,,^s - m - _ n$,default
+Glf-26_fatn-1,,Glf,26_fatn,dihin,dihin,d i h i n,,,,,^d i h i n$,default
+Nig-26_fatn-1,,Nig,26_fatn,ʃahama,ʃahama,ʃ a h a m a,,,,,^ʃ a h a m a$,default
+Bux-26_fatn-1,,Bux,26_fatn,duhun,duhun,d u h u n,,,,,^d u h u n$,default
+Nub-26_fatn-1,,Nub,26_fatn,dikin,dikin,d i k i n,,,,,^d i k i n$,default
+CentralArabic-27_feather-1,,CentralArabic,27_feather,ri:ʃ at,ri:ʃ_at,r iː ʃ a t,,,,,^r i: ʃ _ a t$,default
+Mor-27_feather-1,,Mor,27_feather,riʃa,riʃa,r i ʃ a,,,,,^r i ʃ a$,default
+Mlt-27_feather-1,,Mlt,27_feather,riʃa,riʃa,r i ʃ a,,,,,^r i ʃ a$,default
+Cai-27_feather-1,,Cai,27_feather,ri:ʃa *,ri:ʃa_*,r iː ʃ a,,,,,^r i: ʃ a _ *$,default
+Dms-27_feather-1,,Dms,27_feather,ri:ʃe,ri:ʃe,r iː ʃ e,,,,,^r i: ʃ e$,default
+Irq-27_feather-1,,Irq,27_feather,ri:ʃa,ri:ʃa,r iː ʃ a,,,,,^r i: ʃ a$,default
+Skh-27_feather-1,,Skh,27_feather,ri:ʃi,ri:ʃi,r iː ʃ i,,,,,^r i: ʃ i$,default
+Glf-27_feather-1,,Glf,27_feather,riiʃa,riiʃa,r iː ʃ a,,,,,^r ii ʃ a$,default
+Ymn-27_feather-1,,Ymn,27_feather,ri:ʃeh,ri:ʃeh,r iː ʃ e h,,,,,^r i: ʃ e h$,default
+Nig-27_feather-1,,Nig,27_feather,su:fa,su:fa,s uː f a,,,,,^s u: f a$,default
+Nub-27_feather-1,,Nub,27_feather,*suu-  teri (hair of bird),*suu-_teri_,s uː t e r i,,,,,^*s uu - _ t e r i _$,default
+CentralArabic-28_fire-1,,CentralArabic,28_fire,na: r,na:_r,n aː r,,,,,^n a: _ r$,default
+Mor-28_fire-1,,Mor,28_fire,ʕafj a,ʕafj_a,ʕ a f j a,,,,,^ʕ a f j _ a$,default
+Mlt-28_fire-1,,Mlt,28_fire,nar,nar,n a r,,,,,^n a r$,default
+Cai-28_fire-1,,Cai,28_fire,na:r,na:r,n aː r,,,,,^n a: r$,default
+Dms-28_fire-1,,Dms,28_fire,nˁa:rˁ,nˁa:rˁ,nˤ aː rˤ,,,,,^nˁ a: rˁ$,default
+Irq-28_fire-1,,Irq,28_fire,na:r,na:r,n aː r,,,,,^n a: r$,default
+Skh-28_fire-1,,Skh,28_fire,na:rˁ,na:rˁ,n aː rˤ,,,,,^n a: rˁ$,default
+AqArb-28_fire-1,,AqArb,28_fire,na:rˁ,na:rˁ,n aː rˤ,,,,,^n a: rˁ$,default
+Cyp-28_fire-1,,Cyp,28_fire,w-q- d,w-q-_d,w q d,,,,,^w - q - _ d$,default
+Glf-28_fire-1,,Glf,28_fire,"dˤaw, naar",dˤaw,dˤ a w,,,,,^dˤ a w$,default
+Ymn-28_fire-1,,Ymn,28_fire,naar,naar,n aː r,,,,,^n aa r$,default
+Nig-28_fire-1,,Nig,28_fire,na:r,na:r,n aː r,,,,,^n a: r$,default
+Bux-28_fire-1,,Bux,28_fire,naar,naar,n aː r,,,,,^n aa r$,default
+Nub-28_fire-1,,Nub,28_fire,nari,nari,n a r i,,,,,^n a r i$,default
+CentralArabic-29_fish-1,,CentralArabic,29_fish,sa ma  k,sa_ma_k,s a m a k,,,,,^s a _ m a _ k$,default
+Mor-29_fish-1,,Mor,29_fish,ħut,ħut,ħ u t,,,,,^ħ u t$,default
+Mlt-29_fish-1,,Mlt,29_fish,Ħut a,Ħut_a,ħ u t a,,,,,^Ħ u t _ a$,default
+Cai-29_fish-1,,Cai,29_fish,sam ak,sam_ak,s a m a k,,,,,^s a m _ a k$,default
+Skh-29_fish-1,,Skh,29_fish,sama ʧi,sama_ʧi,s a m a tʃ i,,,,,^s a m a _ ʧ i$,default
+AqArb-29_fish-1,,AqArb,29_fish,sama k,sama_k,s a m a k,,,,,^s a m a _ k$,default
+Glf-29_fish-1,,Glf,29_fish,sima ʧ,sima_ʧ,s i m a tʃ,,,,,^s i m a _ ʧ$,default
+Ymn-29_fish-1,,Ymn,29_fish,ħuut,ħuut,ħ uː t,,,,,^ħ uu t$,default
+Nig-29_fish-1,,Nig,29_fish,samaka ħu:tˁa,samaka_ħu:tˁa,s a m a k a ħ uː tˤ a,,,,,^s a m a k a _ ħ u: tˁ a$,default
+Bux-29_fish-1,,Bux,29_fish,samak,samak,s a m a k,,,,,^s a m a k$,default
+Nub-29_fish-1,,Nub,29_fish,samaga,samaga,s a m a g a,,,,,^s a m a g a$,default
+CentralArabic-30_fly-1,,CentralArabic,30_fly,tˁa: ra,tˁa:_ra,tˤ aː r a,,,,,^tˁ a: _ r a$,default
+Mor-30_fly-1,,Mor,30_fly,tˁar,tˁar,tˤ a r,,,,,^tˁ a r$,default
+Mlt-30_fly-1,,Mlt,30_fly,tar,tar,t a r,,,,,^t a r$,default
+Cai-30_fly-1,,Cai,30_fly,tˁa:r ˁ,tˁa:r_ˁ,tˤ aː rˤ,,,,,^tˁ a: r_ˁ$,default
+Dms-30_fly-1,,Dms,30_fly,tˁa:r,tˁa:r,tˤ aː r,,,,,^tˁ a: r$,default
+Irq-30_fly-1,,Irq,30_fly,tˁa:r,tˁa:r,tˤ aː r,,,,,^tˁ a: r$,default
+Skh-30_fly-1,,Skh,30_fly,tˁa:r,tˁa:r,tˤ aː r,,,,,^tˁ a: r$,default
+AqArb-30_fly-1,,AqArb,30_fly,tˁ-y- r,tˁ-y-_r,tˤ y r,,,,,^tˁ - y - _ r$,default
+Glf-30_fly-1,,Glf,30_fly,tˤaar,tˤaar,tˤ aː r,,,,,^tˤ aa r$,default
+Ymn-30_fly-1,,Ymn,30_fly,tˁa:r,tˁa:r,tˤ aː r,,,,,^tˁ a: r$,default
+Nig-30_fly-1,,Nig,30_fly,tˁa:r,tˁa:r,tˤ aː r,,,,,^tˁ a: r$,default
+Bux-30_fly-1,,Bux,30_fly,nat’taa,nat’taa,n a tʼ t aː,,,,,^n a t’ t aa$,default
+CentralArabic-31_foot-1,,CentralArabic,31_foot,riʤ l,riʤ_l,r i dʒ l,,,,,^r i ʤ _ l$,default
+Mor-31_foot-1,,Mor,31_foot,rʒel,rʒel,r ʒ e l,,,,,^rʒ e l$,default
+Mlt-31_foot-1,,Mlt,31_foot,si:ʔ,si:ʔ,s iː ʔ,,,,,^s i: ʔ$,default
+Cai-31_foot-1,,Cai,31_foot,rigl,rigl,r i g l,,,,,^r i g l$,default
+Dms-31_foot-1,,Dms,31_foot,rəʤəl,rəʤəl,r ə dʒ ə l,,,,,^r ə ʤ ə l$,default
+Irq-31_foot-1,,Irq,31_foot,riʤil,riʤil,r i dʒ i l,,,,,^r i ʤ i l$,default
+Skh-31_foot-1,,Skh,31_foot,(r)iʦl,iʦl,i ts l,,,,,^i ʦ l$,default
+AqArb-31_foot-1,,AqArb,31_foot,əʤər,əʤər,ə dʒ ə r,,,,,^ə ʤ ə r$,default
+Cyp-31_foot-1,,Cyp,31_foot,iʒr,iʒr,i ʒ r,,,,,^i ʒ r$,default
+Glf-31_foot-1,,Glf,31_foot,riil,riil,r iː l,,,,,^r ii l$,default
+Ymn-31_foot-1,,Ymn,31_foot,riʤl,riʤl,r i dʒ l,,,,,^r i ʤ l$,default
+Nig-31_foot-1,,Nig,31_foot,riʤil,riʤil,r i dʒ i l,,,,,^r i ʤ i l$,default
+Bux-31_foot-1,,Bux,31_foot,ridƷil,ridƷil,r i d ʒ i l,,,,,^r i d Ʒ i l$,default
+Nub-31_foot-1,,Nub,31_foot,kura,kura,k u r a,,,,,^k u r a$,default
+CentralArabic-32_full-1,,CentralArabic,32_full,mal  ʔa:n,mal_ʔa:n,m a l ʔ aː n,,,,,^m a l _ ʔ a: n$,default
+Mor-32_full-1,,Mor,32_full,ʕa me r,ʕa_me_r,ʕ a m e r,,,,,^ʕ a _ m e _ r$,default
+Mlt-32_full-1,,Mlt,32_full,mi mli,mi_mli,m i m l i,,,,,^m i _ m l i$,default
+Cai-32_full-1,,Cai,32_full,malj aan,malj_aan,m a l j aː n,,,,,^m a l j _ aa n$,default
+Dms-32_full-1,,Dms,32_full,mal(j) a:n,mal_a:n,m a l aː n,,,,,^m a l _ a: n$,default
+Irq-32_full-1,,Irq,32_full,"malja: n, matru:  s",malja:_n,m a l j aː n,,,,,^m a l j a: _ n$,default
+Skh-32_full-1,,Skh,32_full,malja: n madm  u:ʦ,malja:_n_madm_u:ʦ,m a l j aː n m a d m uː ts,,,,,^m a l j a: _ n _ m a d m _ u: ʦ$,default
+AqArb-32_full-1,,AqArb,32_full,əmmal a,əmmal_a,ə mː a l a,,,,,^ə mm a l _ a$,default
+Cyp-32_full-1,,Cyp,32_full,mpla n  m-l-',mpla_n_m-l-',m p l a n m l,,,,,^m p l a _ n _ m - l - '$,default
+Glf-32_full-1,,Glf,32_full,matru us,matru_us,m a t r u u s,,,,,^m a t r u _ u s$,default
+Ymn-32_full-1,,Ymn,32_full,matru: s,matru:_s,m a t r uː s,,,,,^m a t r u: _ s$,default
+Nig-32_full-1,,Nig,32_full,malʔan,malʔan,m a l ʔ a n,,,,,^m a l ʔ a n$,default
+Nub-32_full-1,,Nub,32_full,mal’jan,mal’jan,m a lʼ j a n,,,,,^m a l’ j a n$,default
+CentralArabic-33_give-1,,CentralArabic,33_give,ʔaʕt ˁa:,ʔaʕt_ˁa:,ʔ a ʕ tˤ aː,,,,,^ʔaʕt_ˁa: $,default
+Mor-33_give-1,,Mor,33_give,ʕtˁa,ʕtˁa,ʕ tˤ a,,,,,^ʕ tˁ a$,default
+Mlt-33_give-1,,Mlt,33_give,ta,ta,t a,,,,,^t a$,default
+Cai-33_give-1,,Cai,33_give,idda,idda,i dː a,,,,,^i dd a$,default
+Dms-33_give-1,,Dms,33_give,ʕatˁa,ʕatˁa,ʕ a tˤ a,,,,,^ʕ a tˁ a$,default
+Irq-33_give-1,,Irq,33_give,nitˁa,nitˁa,n i tˤ a,,,,,^n i tˁ a$,default
+Skh-33_give-1,,Skh,33_give,intˤa,intˤa,i n tˤ a,,,,,^i n tˤ a$,default
+AqArb-33_give-1,,AqArb,33_give,ʕatˁa,ʕatˁa,ʕ a tˤ a,,,,,^ʕ a tˁ a$,default
+Cyp-33_give-1,,Cyp,33_give,ʕ-tˁ- y,ʕ-tˁ-_y,ʕ tˤ y,,,,,^ʕ - tˁ - _ y$,default
+Glf-33_give-1,,Glf,33_give,ʕatˤa,ʕatˤa,ʕ a tˤ a,,,,,^ʕ a tˤ a$,default
+Ymn-33_give-1,,Ymn,33_give,ʔadd a,ʔadd_a,ʔ a dː a,,,,,^ʔ a dd _ a$,default
+Nig-33_give-1,,Nig,33_give,tˁaʔan,tˁaʔan,tˤ a ʔ a n,,,,,^tˁ a ʔ a n$,default
+Bux-33_give-1,,Bux,33_give,an’taa,an’taa,a n tˤ aː,,,,,^a n ’t aa$,default
+Nub-33_give-1,,Nub,33_give,we’di,we’di,w e dˤ i,,,,,^w e ’d i$,default
+CentralArabic-34_goodadj-1,,CentralArabic,34_goodadj,tˁajj ib,tˁajj_ib,tˤ a jː i b,,,,,^tˁ a jj _ i b$,default
+Mor-34_goodadj-1,,Mor,34_goodadj,me  zja n,me_zja_n,m e z j a n,,,,,^m e _ z j a _ n$,default
+Mlt-34_goodadj-1,,Mlt,34_goodadj,Tajj eb,Tajj_eb,t a jː e b,,,,,^T a jj _ e b$,default
+Cai-34_goodadj-1,,Cai,34_goodadj,kwa jjis,kwa_jjis,kʷ a jː i s,,,,,^kw a _ jj i s$,default
+Dms-34_goodadj-1,,Dms,34_goodadj,mni: ħ,mni:_ħ,m n iː ħ,,,,,^m n i: _ ħ$,default
+Irq-34_goodadj-1,,Irq,34_goodadj,"zeen, xoos",zeen,z eː n,,,,,^z ee n$,default
+Skh-34_goodadj-1,,Skh,34_goodadj,mali: ħ,mali:_ħ,m a l iː ħ,,,,,^m a l i: _ ħ$,default
+AqArb-34_goodadj-1,,AqArb,34_goodadj,kəwa jjəs,kəwa_jjəs,k ə w a jː ə s,,,,,^k ə w a _ jj ə s$,default
+Cyp-34_goodadj-1,,Cyp,34_goodadj,k-y- s,k-y-_s,k y s,,,,,^k - y - _ s$,default
+Glf-34_goodadj-1,,Glf,34_goodadj,zeen,zeen,z eː n,,,,,^z ee n$,default
+Ymn-34_goodadj-1,,Ymn,34_goodadj,"tˁajji b, naaħiy",tˁajji_b,tˤ a jː i b,,,,,^tˁ a jj i _ b$,default
+Nig-34_goodadj-1,,Nig,34_goodadj,sa/eme,sa,s a,,,,,^s a$,default
+Bux-34_goodadj-1,,Bux,34_goodadj,zeen,zeen,z eː n,,,,,^z ee n$,default
+Nub-34_goodadj-1,,Nub,34_goodadj,kweis,kweis,kʷ ei̯ s,,,,,^kw ei s$,default
+CentralArabic-35_green-1,,CentralArabic,35_green,ʔax dˁa  r,ʔax_dˁa_r,ʔ a x dˤ a r,,,,,^ʔ a x _ dˁ a _ r$,default
+Mor-35_green-1,,Mor,35_green,xdˁ er,xdˁ_er,x dˤ e r,,,,,^x dˁ _ e r$,default
+Mlt-35_green-1,,Mlt,35_green,aħd ar,aħd_ar,a ħ d a r,,,,,^a ħ d _ a r$,default
+Cai-35_green-1,,Cai,35_green,ʔax dˁar,ʔax_dˁar,ʔ a x dˤ a r,,,,,^ʔ a x _ dˁ a r$,default
+Dms-35_green-1,,Dms,35_green,ʔaxdˁ  ar,ʔaxdˁ_ar,ʔ a x dˤ a r,,,,,^ʔ a x dˁ _ a r$,default
+Irq-35_green-1,,Irq,35_green,ʔaxðˁ  ar,ʔaxðˁ_ar,ʔ a x ðˤ a r,,,,,^ʔ a x ðˁ _ a r$,default
+Skh-35_green-1,,Skh,35_green,ʔaxðˁ  ar,ʔaxðˁ_ar,ʔ a x ðˤ a r,,,,,^ʔ a x ðˁ _ a r$,default
+AqArb-35_green-1,,AqArb,35_green,axdˁa r,axdˁa_r,a x dˤ a r,,,,,^a x dˁ a _ r$,default
+Cyp-35_green-1,,Cyp,35_green,x- dˁ-r,x-_dˁ-r,x dˤ r,,,,,^x - _ dˁ - r$,default
+Glf-35_green-1,,Glf,35_green,ʔaxdˤ  ar,ʔaxdˤ_ar,ʔ a x dˤ a r,,,,,^ʔ a x dˤ _ a r$,default
+Ymn-35_green-1,,Ymn,35_green,ʔaxðˁ  ar,ʔaxðˁ_ar,ʔ a x ðˤ a r,,,,,^ʔ a x ðˁ _ a r$,default
+Nig-35_green-1,,Nig,35_green,axadˁar,axadˁar,a x a dˤ a r,,,,,^a x a dˁ a r$,default
+Bux-35_green-1,,Bux,35_green,ʔaxzar,ʔaxzar,ʔ a x z a r,,,,,^ʔ a x z a r$,default
+Nub-35_green-1,,Nub,35_green,*manjan,*manjan,m a n j a n,,,,,^* m a n j a n$,default
+CentralArabic-36_hair-1,,CentralArabic,36_hair,ʃaʕr,ʃaʕr,ʃ a ʕ r,,,,,^ʃ a ʕ r$,default
+Mor-36_hair-1,,Mor,36_hair,ʃʕer,ʃʕer,ʃ ʕ e r,,,,,^ʃ ʕ e r$,default
+Mlt-36_hair-1,,Mlt,36_hair,ʃaʕa r,ʃaʕa_r,ʃ a ʕ a r,,,,,^ʃ a ʕ a _ r$,default
+Cai-36_hair-1,,Cai,36_hair,ʃaʕr,ʃaʕr,ʃ a ʕ r,,,,,^ʃ a ʕ r$,default
+Dms-36_hair-1,,Dms,36_hair,ʃaʕər,ʃaʕər,ʃ a ʕ ə r,,,,,^ʃ a ʕ ə r$,default
+Irq-36_hair-1,,Irq,36_hair,ʃaʕra,ʃaʕra,ʃ a ʕ r a,,,,,^ʃ a ʕ r a$,default
+Skh-36_hair-1,,Skh,36_hair,ʃaʕra,ʃaʕra,ʃ a ʕ r a,,,,,^ʃ a ʕ r a$,default
+Cyp-36_hair-1,,Cyp,36_hair,ʃaxve ʃ-ʕ-f,ʃaxve_ʃ-ʕ-f,ʃ a x v e ʃ ʕ f,,,,,^ʃ a x v e _ ʃ - ʕ - f$,default
+Glf-36_hair-1,,Glf,36_hair,ʃaʕar,ʃaʕar,ʃ a ʕ a r,,,,,^ʃ a ʕ a r$,default
+Ymn-36_hair-1,,Ymn,36_hair,ʃaʕra,ʃaʕra,ʃ a ʕ r a,,,,,^ʃ a ʕ r a$,default
+Nig-36_hair-1,,Nig,36_hair,ʃiʔir,ʃiʔir,ʃ i ʔ i r,,,,,^ʃ i ʔ i r$,default
+Bux-36_hair-1,,Bux,36_hair,ʃar’ʕas,ʃar’ʕas,ʃ a r ʕ a s,,,,,^ʃ a r ’ʕ a s$,default
+Nub-36_hair-1,,Nub,36_hair,su,su,s u,,,,,^s u$,default
+CentralArabic-37_hand-1,,CentralArabic,37_hand,jad,jad,j a d,,,,,^j a d$,default
+Mor-37_hand-1,,Mor,37_hand,idd,idd,i dː,,,,,^i dd$,default
+Mlt-37_hand-1,,Mlt,37_hand,id,id,i d,,,,,^i d$,default
+Cai-37_hand-1,,Cai,37_hand,i:d,i:d,iː d,,,,,^i: d$,default
+Dms-37_hand-1,,Dms,37_hand,ʔi:d,ʔi:d,ʔ iː d,,,,,^ʔ i: d$,default
+Irq-37_hand-1,,Irq,37_hand,ʔi:d,ʔi:d,ʔ iː d,,,,,^ʔ i: d$,default
+Skh-37_hand-1,,Skh,37_hand,eed,eed,eː d,,,,,^ee d$,default
+AqArb-37_hand-1,,AqArb,37_hand,i:d,i:d,iː d,,,,,^i: d$,default
+Cyp-37_hand-1,,Cyp,37_hand,ity-d,ity-d,i t y d,,,,,^i t y - d$,default
+Glf-37_hand-1,,Glf,37_hand,yad,yad,j a d,,,,,^ya d$,default
+Ymn-37_hand-1,,Ymn,37_hand,yad,yad,j a d,,,,,^ya d$,default
+Nig-37_hand-1,,Nig,37_hand,i:d,i:d,iː d,,,,,^i: d$,default
+Bux-37_hand-1,,Bux,37_hand,yad,yad,j a d,,,,,^ya d$,default
+Nub-37_hand-1,,Nub,37_hand,ida,ida,i d a,,,,,^i d a$,default
+CentralArabic-38_head-1,,CentralArabic,38_head,raʔ s,raʔ_s,r a ʔ s,,,,,^r a ʔ _ s$,default
+Mor-38_head-1,,Mor,38_head,rˁas ˁ,rˁas_ˁ,rˤ a sˁ,,,,,^rˁ a s_ˁ $,default
+Mlt-38_head-1,,Mlt,38_head,ras,ras,r a s,,,,,^r a s$,default
+Cai-38_head-1,,Cai,38_head,rˁaa s,rˁaa_s,rˤ aː s,,,,,^rˁ aa _ s$,default
+Dms-38_head-1,,Dms,38_head,ra:s,ra:s,r aː s,,,,,^r a: s$,default
+Irq-38_head-1,,Irq,38_head,ra:s,ra:s,r aː s,,,,,^r a: s$,default
+Skh-38_head-1,,Skh,38_head,rˁa:s,rˁa:s,rˤ aː s,,,,,^rˁ a: s$,default
+AqArb-38_head-1,,AqArb,38_head,rˁa:s,rˁa:s,rˤ aː s,,,,,^rˁ a: s$,default
+Cyp-38_head-1,,Cyp,38_head,m-x- x,m-x-_x,m x x,,,,,^m - x - _ x$,default
+Glf-38_head-1,,Glf,38_head,raas,raas,r aː s,,,,,^r aa s$,default
+Ymn-38_head-1,,Ymn,38_head,raʔs,raʔs,r a ʔ s,,,,,^r a ʔs$,default
+Nig-38_head-1,,Nig,38_head,ra:s,ra:s,r aː s,,,,,^r a: s$,default
+Bux-38_head-1,,Bux,38_head,ṛaaṣ,ṛaaṣ,ṛ/r aː ṣ/s,,,,,^ṛ aa ṣ$,default
+Nub-38_head-1,,Nub,38_head,ras,ras,r a s,,,,,^r a s$,default
+CentralArabic-39_hear-1,,CentralArabic,39_hear,sa miʕ  a,sa_miʕ_a,s a m i ʕ a,,,,,^s a _ m i ʕ _ a$,default
+Mor-39_hear-1,,Mor,39_hear,sm eʕ,sm_eʕ,s m e ʕ,,,,,^s m _ e ʕ$,default
+Mlt-39_hear-1,,Mlt,39_hear,sam a’,sam_a’,s a m a ʔ,,,,,^s a m _ a ’$,default
+Cai-39_hear-1,,Cai,39_hear,simi ʕ,simi_ʕ,s i m i ʕ,,,,,^s i m i _ ʕ$,default
+Dms-39_hear-1,,Dms,39_hear,səme ʕ,səme_ʕ,s ə m e ʕ,,,,,^s ə m e _ ʕ$,default
+Irq-39_hear-1,,Irq,39_hear,sima ʕ,sima_ʕ,s i m a ʕ,,,,,^s i m a _ ʕ$,default
+Skh-39_hear-1,,Skh,39_hear,ismiʕ,ismiʕ,i s m i ʕ,,,,,^i s m i ʕ$,default
+AqArb-39_hear-1,,AqArb,39_hear,səmə ʕ,səmə_ʕ,s ə m ə ʕ,,,,,^s ə m ə _ ʕ$,default
+Cyp-39_hear-1,,Cyp,39_hear,s-m- ʕ,s-m-_ʕ,s m ʕ,,,,,^s - m - _ ʕ$,default
+Glf-39_hear-1,,Glf,39_hear,sima ʕ,sima_ʕ,s i m a ʕ,,,,,^s i m a _ ʕ$,default
+Ymn-39_hear-1,,Ymn,39_hear,simiʕ *,simiʕ_*,s i m i ʕ,,,,,^s i m i ʕ _ *$,default
+Nig-39_hear-1,,Nig,39_hear,simi,simi,s i m i,,,,,^s i m i$,default
+Bux-39_hear-1,,Bux,39_hear,samaʕ,samaʕ,s a m a ʕ,,,,,^s a m a ʕ$,default
+Nub-39_hear-1,,Nub,39_hear,‘asma,‘asma,ʔ a s m a,,,,,^‘ a s m a$,default
+CentralArabic-40_heart-1,,CentralArabic,40_heart,qal b,qal_b,q a l b,,,,,^q a l _ b$,default
+Mor-40_heart-1,,Mor,40_heart,qel b,qel_b,q e l b,,,,,^q e l _ b$,default
+Mlt-40_heart-1,,Mlt,40_heart,ʔalb,ʔalb,ʔ a l b,,,,,^ʔ a l b$,default
+Cai-40_heart-1,,Cai,40_heart,ʔalb,ʔalb,ʔ a l b,,,,,^ʔ a l b$,default
+Dms-40_heart-1,,Dms,40_heart,ʔalb,ʔalb,ʔ a l b,,,,,^ʔ a l b$,default
+Irq-40_heart-1,,Irq,40_heart,qalb,qalb,q a l b,,,,,^q a l b$,default
+Skh-40_heart-1,,Skh,40_heart,kalˤb,kalˤb,k a lˤ b,,,,,^k a lˤ b$,default
+AqArb-40_heart-1,,AqArb,40_heart,fa:d,fa:d,f aː d,,,,,^f a: d$,default
+Cyp-40_heart-1,,Cyp,40_heart,kilep,kilep,k i l e p,,,,,^k i l e p$,default
+Glf-40_heart-1,,Glf,40_heart,galb,galb,g a l b,,,,,^g a l b$,default
+Ymn-40_heart-1,,Ymn,40_heart,galb,galb,g a l b,,,,,^g a l b$,default
+Nig-40_heart-1,,Nig,40_heart,galib,galib,g a l i b,,,,,^g a l i b$,default
+Bux-40_heart-1,,Bux,40_heart,qalb,qalb,q a l b,,,,,^q a l b$,default
+Nub-40_heart-1,,Nub,40_heart,gelba,gelba,g e l b a,,,,,^g e l b a$,default
+CentralArabic-41_horn-1,,CentralArabic,41_horn,qar  n,qar_n,q a r n,,,,,^q a r _ n$,default
+Mor-41_horn-1,,Mor,41_horn,qer  ˁn,qer_ˁn,q e rˤ n,,,,,^q e r_ˁ n$,default
+Mlt-41_horn-1,,Mlt,41_horn,ʔarn,ʔarn,ʔ a r n,,,,,^ʔ a r n$,default
+Cai-41_horn-1,,Cai,41_horn,ʔarn,ʔarn,ʔ a r n,,,,,^ʔ a r n$,default
+Dms-41_horn-1,,Dms,41_horn,ʔarən,ʔarən,ʔ a r ə n,,,,,^ʔ a r ə n$,default
+Irq-41_horn-1,,Irq,41_horn,girin,girin,g i r i n,,,,,^g i r i n$,default
+Skh-41_horn-1,,Skh,41_horn,girin,girin,g i r i n,,,,,^g i r i n$,default
+Cyp-41_horn-1,,Cyp,41_horn,korn  e,korn_e,k o r n e,,,,,^k o r n _ e$,default
+Glf-41_horn-1,,Glf,41_horn,garn,garn,g a r n,,,,,^g a r n$,default
+Ymn-41_horn-1,,Ymn,41_horn,garn*,garn*,g a r n,,,,,^g a r n *$,default
+Nig-41_horn-1,,Nig,41_horn,garn,garn,g a r n,,,,,^g a r n$,default
+Bux-41_horn-1,,Bux,41_horn,ʃɔx,ʃɔx,ʃ ɔ x,,,,,^ʃ ɔ x$,default
+Nub-41_horn-1,,Nub,41_horn,*gurun,*gurun,g u r u n,,,,,^* g u r u n$,default
+CentralArabic-42_i-1,,CentralArabic,42_i,ʔan a:,ʔan_a:,ʔ a n aː,,,,,^ʔ a n _ a:$,default
+Mor-42_i-1,,Mor,42_i,ana,ana,a n a,,,,,^a n a$,default
+Mlt-42_i-1,,Mlt,42_i,ji:n,ji:n,j iː n,,,,,^j i: n$,default
+Cai-42_i-1,,Cai,42_i,ana,ana,a n a,,,,,^a n a$,default
+Dms-42_i-1,,Dms,42_i,ʔana,ʔana,ʔ a n a,,,,,^ʔ a n a$,default
+Irq-42_i-1,,Irq,42_i,ʔa:ni,ʔa:ni,ʔ aː n i,,,,,^ʔ a: n i$,default
+Skh-42_i-1,,Skh,42_i,ana,ana,a n a,,,,,^a n a$,default
+AqArb-42_i-1,,AqArb,42_i,ana,ana,a n a,,,,,^a n a$,default
+Cyp-42_i-1,,Cyp,42_i,ʔ-n- a,ʔ-n-_a,ʔ n a,,,,,^ʔ - n - _ a$,default
+Glf-42_i-1,,Glf,42_i,ana,ana,a n a,,,,,^a n a$,default
+Ymn-42_i-1,,Ymn,42_i,ʔana,ʔana,ʔ a n a,,,,,^ʔ a n a$,default
+Nig-42_i-1,,Nig,42_i,ana,ana,a n a,,,,,^a n a$,default
+Bux-42_i-1,,Bux,42_i,anaa,anaa,a n aː,,,,,^a n aa$,default
+Nub-42_i-1,,Nub,42_i,‘ana,‘ana,ʔ a n a,,,,,^‘ a n a$,default
+CentralArabic-43_kill-1,,CentralArabic,43_kill,qat ala,qat_ala,q a t a l a,,,,,^q a t _ a l a$,default
+Mor-43_kill-1,,Mor,43_kill,qtel,qtel,q t e l,,,,,^q t e l$,default
+Mlt-43_kill-1,,Mlt,43_kill,ʔate l,ʔate_l,ʔ a t e l,,,,,^ʔ a t e _ l$,default
+Cai-43_kill-1,,Cai,43_kill,ma  wwi t,ma_wwi_t,m a wː i t,,,,,^m a _ ww i _ t$,default
+Dms-43_kill-1,,Dms,43_kill,ʔatal,ʔatal,ʔ a t a l,,,,,^ʔ a t a l$,default
+Irq-43_kill-1,,Irq,43_kill,kital,kital,k i t a l,,,,,^k i t a l$,default
+Skh-43_kill-1,,Skh,43_kill,katal,katal,k a t a l,,,,,^k a t a l$,default
+AqArb-43_kill-1,,AqArb,43_kill,qatal,qatal,q a t a l,,,,,^q a t a l$,default
+Cyp-43_kill-1,,Cyp,43_kill,q-t-l,q-t-l,q t l,,,,,^q - t - l$,default
+Glf-43_kill-1,,Glf,43_kill,gital,gital,g i t a l,,,,,^g i t a l$,default
+Ymn-43_kill-1,,Ymn,43_kill,gatal,gatal,g a t a l,,,,,^g a t a l$,default
+Nig-43_kill-1,,Nig,43_kill,katal,katal,k a t a l,,,,,^k a t a l$,default
+Bux-43_kill-1,,Bux,43_kill,qa’tal,qa’tal,q a tˤ a l,,,,,^q a ’t a l$,default
+Nub-43_kill-1,,Nub,43_kill,katul,katul,k a t u l,,,,,^k a t u l$,default
+CentralArabic-44_knee-1,,CentralArabic,44_knee,ruk bat,ruk_bat,r u k b a t,,,,,^r u k _ b a t$,default
+Mor-44_knee-1,,Mor,44_knee,rok ba,rok_ba,r o k b a,,,,,^r o k _ b a$,default
+Mlt-44_knee-1,,Mlt,44_knee,rko bba,rko_bba,r k o bː a,,,,,^r k o _ bb a$,default
+Cai-44_knee-1,,Cai,44_knee,ruk ba*,ruk_ba*,r u k b a,,,,,^r u k _ b a *$,default
+Dms-44_knee-1,,Dms,44_knee,rəkb e,rəkb_e,r ə k b e,,,,,^r ə k b _ e$,default
+Irq-44_knee-1,,Irq,44_knee,rukb a,rukb_a,r u k b a,,,,,^r u k b _ a$,default
+Skh-44_knee-1,,Skh,44_knee,rˤuʧb i,rˤuʧb_i,rˤ u tʃ b i,,,,,^rˤ u ʧ b _ i$,default
+Glf-44_knee-1,,Glf,44_knee,rikba,rikba,r i k b a,,,,,^r i k b a$,default
+Ymn-44_knee-1,,Ymn,44_knee,rukbi h*,rukbi_h*,r u k b i h,,,,,^r u k b i _ h *$,default
+Nig-44_knee-1,,Nig,44_knee,rukuba,rukuba,r u k u b a,,,,,^r u k u b a$,default
+Nub-44_knee-1,,Nub,44_knee,*rukuba,*rukuba,r u k u b a,,,,,^* r u k u b a$,default
+CentralArabic-45_know-1,,CentralArabic,45_know,ʕar  afa,ʕar_afa,ʕ a r a f a,,,,,^ʕ a r _ a f a$,default
+Mor-45_know-1,,Mor,45_know,ʕrˁe  f,ʕrˁe_f,ʕ rˤ e f,,,,,^ʕ rˁ e _ f$,default
+Mlt-45_know-1,,Mlt,45_know,jaf,jaf,j a f,,,,,^j a f$,default
+Cai-45_know-1,,Cai,45_know,ʕirif,ʕirif,ʕ i r i f,,,,,^ʕ i r i f$,default
+Dms-45_know-1,,Dms,45_know,ʕəref,ʕəref,ʕ ə r e f,,,,,^ʕ ə r e f$,default
+Irq-45_know-1,,Irq,45_know,ʕiraf,ʕiraf,ʕ i r a f,,,,,^ʕ i r a f$,default
+Skh-45_know-1,,Skh,45_know,ʕarˤaf,ʕarˤaf,ʕ a rˤ a f,,,,,^ʕ a rˤ a f$,default
+AqArb-45_know-1,,AqArb,45_know,ʕərəf,ʕərəf,ʕ ə r ə f,,,,,^ʕ ə r ə f$,default
+Cyp-45_know-1,,Cyp,45_know,ʕ-r-f,ʕ-r-f,ʕ r f,,,,,^ʕ - r - f$,default
+Glf-45_know-1,,Glf,45_know,"ʕaraf,  dara",ʕaraf,ʕ a r a f,,,,,^ʕ a r a f$,default
+Ymn-45_know-1,,Ymn,45_know,diri  ʕaraf,diri_ʕaraf,d i r i ʕ a r a f,,,,,^d i r i _ ʕ a r a f$,default
+Nig-45_know-1,,Nig,45_know,ʕirif,ʕirif,ʕ i r i f,,,,,^ʕ i r i f$,default
+Bux-45_know-1,,Bux,45_know,ʔaraf,ʔaraf,ʔ a r a f,,,,,^ʔ a r a f$,default
+Nub-45_know-1,,Nub,45_know,‘arufu,‘arufu,ʔ a r u f u,,,,,^‘ a r u f u$,default
+CentralArabic-46_leaf-1,,CentralArabic,46_leaf,war aqa  t,war_aqa_t,w a r a q a t,,,,,^w a r _ a q a _ t$,default
+Mor-46_leaf-1,,Mor,46_leaf,wer qa,wer_qa,w e r q a,,,,,^w e r _ q a$,default
+Mlt-46_leaf-1,,Mlt,46_leaf,wer ʔa,wer_ʔa,w e r ʔ a,,,,,^w e r _ ʔ a$,default
+Cai-46_leaf-1,,Cai,46_leaf,war ʔa*,war_ʔa*,w a r ʔ a,,,,,^w a r _ ʔ a *$,default
+Dms-46_leaf-1,,Dms,46_leaf,wara ʔa,wara_ʔa,w a r a ʔ a,,,,,^w a r a _ ʔ a$,default
+Irq-46_leaf-1,,Irq,46_leaf,warg a,warg_a,w a r g a,,,,,^w a r g _ a$,default
+Skh-46_leaf-1,,Skh,46_leaf,wara ka,wara_ka,w a r a k a,,,,,^w a r a _ k a$,default
+AqArb-46_leaf-1,,AqArb,46_leaf,wara qa,wara_qa,w a r a q a,,,,,^w a r a _ q a$,default
+Glf-46_leaf-1,,Glf,46_leaf,wriga,wriga,w r i g a,,,,,^w r i g a$,default
+Ymn-46_leaf-1,,Ymn,46_leaf,wara gih*,wara_gih*,w a r a g i h,,,,,^w a r a _ g i h *$,default
+Nig-46_leaf-1,,Nig,46_leaf,waraga,waraga,w a r a g a,,,,,^w a r a g a$,default
+Bux-46_leaf-1,,Bux,46_leaf,varaq,varaq,v a r a q,,,,,^v a r a q$,default
+Nub-46_leaf-1,,Nub,46_leaf,korofo,korofo,k o r o f o,,,,,^k o r o f o$,default
+CentralArabic-47_lie-1,,CentralArabic,47_lie,raq ada,raq_ada,r a q a d a,,,,,^r a q _ a d a$,default
+Mor-47_lie-1,,Mor,47_lie,ttm ed,ttm_ed,tː m e d,,,,,^tt m _ e d$,default
+Mlt-47_lie-1,,Mlt,47_lie,mte dd,mte_dd,m t e dː,,,,,^m t e _ dd$,default
+Cai-47_lie-1,,Cai,47_lie,itma ddad  *,itma_ddad_*,i t m a dː a d,,,,,^i t m a _ dd a d _ *$,default
+Dms-47_lie-1,,Dms,47_lie,tlaʔʔa h,tlaʔʔa_h,t l a ʔː a h,,,,,^t l a ʔʔ a _ h$,default
+Irq-47_lie-1,,Irq,47_lie,tmadd ad,tmadd_ad,t m a dː a d,,,,,^t m a dd _ a d$,default
+Skh-47_lie-1,,Skh,47_lie,tʦall as,tʦall_as,t ts a lː a s,,,,,^t ʦ a ll _ a s$,default
+Glf-47_lie-1,,Glf,47_lie,tamad dad,tamad_dad,t a m a d d a d,,,,,^t a m a d _ d a d$,default
+Ymn-47_lie-1,,Ymn,47_lie,ragad*,ragad*,r a g a d,,,,,^r a g a d *$,default
+Nig-47_lie-1,,Nig,47_lie,ragad,ragad,r a g a d,,,,,^r a g a d$,default
+Bux-47_lie-1,,Bux,47_lie,daaʕa,daaʕa,d aː ʕ a,,,,,^d aa ʕ a$,default
+CentralArabic-48_liver-1,,CentralArabic,48_liver,kab id,kab_id,k a b i d,,,,,^k a b _ i d$,default
+Mor-48_liver-1,,Mor,48_liver,keb da,keb_da,k e b d a,,,,,^k e b _ d a$,default
+Mlt-48_liver-1,,Mlt,48_liver,fwi:d,fwi:d,f w iː d,,,,,^fw i: d$,default
+Cai-48_liver-1,,Cai,48_liver,kibda*,kibda*,k i b d a,,,,,^k i b d a *$,default
+Dms-48_liver-1,,Dms,48_liver,kəbəd,kəbəd,k ə b ə d,,,,,^k ə b ə d$,default
+Irq-48_liver-1,,Irq,48_liver,kabda,kabda,k a b d a,,,,,^k a b d a$,default
+Cyp-48_liver-1,,Cyp,48_liver,q-sˁ-b,q-sˁ-b,q sˤ b,,,,,^q - sˁ - b$,default
+Glf-48_liver-1,,Glf,48_liver,ʧibd,ʧibd,tʃ i b d,,,,,^ʧ i b d$,default
+Ymn-48_liver-1,,Ymn,48_liver,kabdih*,kabdih*,k a b d i h,,,,,^k a b d i h *$,default
+Nig-48_liver-1,,Nig,48_liver,kibde,kibde,k i b d e,,,,,^k i b d e$,default
+Bux-48_liver-1,,Bux,48_liver,kabda,kabda,k a b d a,,,,,^k a b d a$,default
+Nub-48_liver-1,,Nub,48_liver,*koobda,*koobda,k oː b d a,,,,,^* k oo b d a$,default
+CentralArabic-49_long-1,,CentralArabic,49_long,tˁa wi:l,tˁa_wi:l,tˤ a w iː l,,,,,^tˁ a _ w i: l$,default
+Mor-49_long-1,,Mor,49_long,tˁwi l,tˁwi_l,tˤ w i l,,,,,^tˁw i _ l$,default
+Mlt-49_long-1,,Mlt,49_long,twil,twil,t w i l,,,,,^tw i l$,default
+Cai-49_long-1,,Cai,49_long,tˁaw i:l,tˁaw_i:l,tˤ a w iː l,,,,,^tˁ a w _ i: l$,default
+Dms-49_long-1,,Dms,49_long,tˁawi: l,tˁawi:_l,tˤ a w iː l,,,,,^tˁ a w i: _ l$,default
+Irq-49_long-1,,Irq,49_long,tˁuwi: l,tˁuwi:_l,tˤ u w iː l,,,,,^tˁ u w i: _ l$,default
+Skh-49_long-1,,Skh,49_long,tˁawi: l,tˁawi:_l,tˤ a w iː l,,,,,^tˁ a w i: _ l$,default
+AqArb-49_long-1,,AqArb,49_long,tˁ-w- l,tˁ-w-_l,tˤ w l,,,,,^tˁ - w - _ l$,default
+Cyp-49_long-1,,Cyp,49_long,tˁ-w- l,tˁ-w-_l,tˤ w l,,,,,^tˁ - w - _ l$,default
+Glf-49_long-1,,Glf,49_long,tˤawii l,tˤawii_l,tˤ a w iː l,,,,,^tˤ a w ii _ l$,default
+Ymn-49_long-1,,Ymn,49_long,tˁawi: l,tˁawi:_l,tˤ a w iː l,,,,,^tˁ a w i: _ l$,default
+Nig-49_long-1,,Nig,49_long,tˁawil,tˁawil,tˤ a w i l,,,,,^tˁ a w i l$,default
+Bux-49_long-1,,Bux,49_long,ta’viil,ta’viil,t a vˤ iː l,,,,,^t a ’v ii l$,default
+Nub-49_long-1,,Nub,49_long,towil,towil,t o w i l,,,,,^t o w i l$,default
+CentralArabic-50_louse-1,,CentralArabic,50_louse,qa mla  h,qa_mla_h,q a m l a h,,,,,^q a _ m l a _ h$,default
+Mor-50_louse-1,,Mor,50_louse,qe mla,qe_mla,q e m l a,,,,,^q e _ m l a$,default
+Mlt-50_louse-1,,Mlt,50_louse,ʔam la,ʔam_la,ʔ a m l a,,,,,^ʔ a m _ l a$,default
+Cai-50_louse-1,,Cai,50_louse,ʔam la*,ʔam_la*,ʔ a m l a,,,,,^ʔ a m _ l a *$,default
+Dms-50_louse-1,,Dms,50_louse,ʔaml e,ʔaml_e,ʔ a m l e,,,,,^ʔ a m l _ e$,default
+Irq-50_louse-1,,Irq,50_louse,gamlˁ a,gamlˁ_a,g a m lˤ a,,,,,^g a m lˁ _ a$,default
+Skh-50_louse-1,,Skh,50_louse,kamlˤ,kamlˤ,k a m lˤ,,,,,^k a m lˤ$,default
+Cyp-50_louse-1,,Cyp,50_louse,q-m- l,q-m-_l,q m l,,,,,^q - m - _ l$,default
+Glf-50_louse-1,,Glf,50_louse,gaml a,gaml_a,g a m l a,,,,,^g a m l _ a$,default
+Ymn-50_louse-1,,Ymn,50_louse,gaml eh,gaml_eh,g a m l e h,,,,,^g a m l _ e h$,default
+Bux-50_louse-1,,Bux,50_louse,qamla,qamla,q a m l a,,,,,^q a m l a$,default
+CentralArabic-51_man-1,,CentralArabic,51_man,ra ʤu  l,ra_ʤu_l,r a dʒ u l,,,,,^r a _ ʤ u _ l$,default
+Mor-51_man-1,,Mor,51_man,rˁaʒ el,rˁaʒ_el,rˤ a ʒ e l,,,,,^rˁ a ʒ _ e l$,default
+Mlt-51_man-1,,Mlt,51_man,raʤ el,raʤ_el,r a dʒ e l,,,,,^r a ʤ _ e l$,default
+Cai-51_man-1,,Cai,51_man,rˁa: gil,rˁa:_gil,rˤ aː g i l,,,,,^rˁ a: _ g i l$,default
+Dms-51_man-1,,Dms,51_man,rəʤʤ a:l,rəʤʤ_a:l,r ə dʒː aː l,,,,,^r ə ʤʤ _ a: l$,default
+Irq-51_man-1,,Irq,51_man,riʤʤ a:l,riʤʤ_a:l,r i dʒː aː l,,,,,^r i ʤʤ _ a: l$,default
+Skh-51_man-1,,Skh,51_man,zala mi,zala_mi,z a l a m i,,,,,^z a l a _ m i$,default
+AqArb-51_man-1,,AqArb,51_man,raʤə l,raʤə_l,r a dʒ ə l,,,,,^r a ʤ ə _ l$,default
+Cyp-51_man-1,,Cyp,51_man,Intsa n,Intsa_n,i n ts a n,,,,,^I n ts a _ n$,default
+Glf-51_man-1,,Glf,51_man,rayya al,rayya_al,r a jː a a l,,,,,^r ayya _ a l$,default
+Ymn-51_man-1,,Ymn,51_man,raʤʤ a:l,raʤʤ_a:l,r a dʒː aː l,,,,,^r a ʤʤ _ a: l$,default
+Nig-51_man-1,,Nig,51_man,raʤil,raʤil,r a dʒ i l,,,,,^r a ʤ i l$,default
+Bux-51_man-1,,Bux,51_man,"‘zaaker, ra’Ʒul",‘zaaker,ʔ z aː k e r,,,,,^‘ z aa k e r$,default
+Nub-51_man-1,,Nub,51_man,ragi,ragi,r a g i,,,,,^r a g i$,default
+CentralArabic-52_many-1,,CentralArabic,52_many,kaθ i:r,kaθ_i:r,k a θ iː r,,,,,^k a θ _ i: r$,default
+Mor-52_many-1,,Mor,52_many,bez zaf,bez_zaf,b e z z a f,,,,,^b e z _ z a f$,default
+Mlt-52_many-1,,Mlt,52_many,ħaf na,ħaf_na,ħ a f n a,,,,,^ħ a f _ n a$,default
+Cai-52_many-1,,Cai,52_many,kitii r,kitii_r,k i t iː r,,,,,^k i t ii _ r$,default
+Dms-52_many-1,,Dms,52_many,kti:r,kti:r,k t iː r,,,,,^k t i: r$,default
+Irq-52_many-1,,Irq,52_many,hwa:j a,hwa:j_a,h w aː j a,,,,,^hw a: j _ a$,default
+Skh-52_many-1,,Skh,52_many,ʧθi:r,ʧθi:r,tʃ θ iː r,,,,,^ʧ θ i: r$,default
+AqArb-52_many-1,,AqArb,52_many,kəti:r,kəti:r,k ə t iː r,,,,,^k ə t i: r$,default
+Cyp-52_many-1,,Cyp,52_many,xtir,xtir,x t i r,,,,,^x t i r$,default
+Glf-52_many-1,,Glf,52_many,waa ʤid,waa_ʤid,w aː dʒ i d,,,,,^w aa _ ʤ i d$,default
+Ymn-52_many-1,,Ymn,52_many,kaθi: r,kaθi:_r,k a θ iː r,,,,,^k a θ i: _ r$,default
+Nig-52_many-1,,Nig,52_many,kati:r,kati:r,k a t iː r,,,,,^k a t i: r$,default
+Bux-52_many-1,,Bux,52_many,ka’siir,ka’siir,k a ʔ iː r,,,,,^k a ’s ii r$,default
+Nub-52_many-1,,Nub,52_many,*milan,*milan,m i l a n,,,,,^* m i l a n$,default
+CentralArabic-53_meat-1,,CentralArabic,53_meat,laħ m,laħ_m,l a ħ m,,,,,^l a ħ _ m$,default
+Mor-53_meat-1,,Mor,53_meat,lħa m,lħa_m,l ħ a m,,,,,^l ħ a _ m$,default
+Mlt-53_meat-1,,Mlt,53_meat,laħa m,laħa_m,l a ħ a m,,,,,^l a ħ a _ m$,default
+Cai-53_meat-1,,Cai,53_meat,laħ ma,laħ_ma,l a ħ m a,,,,,^l a ħ _ m a$,default
+Irq-53_meat-1,,Irq,53_meat,laħa m,laħa_m,l a ħ a m,,,,,^l a ħ a _ m$,default
+Skh-53_meat-1,,Skh,53_meat,laħm,laħm,l a ħ m,,,,,^l a ħ m$,default
+AqArb-53_meat-1,,AqArb,53_meat,laħə m,laħə_m,l a ħ ə m,,,,,^l a ħ ə _ m$,default
+Cyp-53_meat-1,,Cyp,53_meat,l-ħ- m,l-ħ-_m,l ħ m,,,,,^l - ħ - _ m$,default
+Glf-53_meat-1,,Glf,53_meat,laħa m,laħa_m,l a ħ a m,,,,,^l a ħ a _ m$,default
+Ymn-53_meat-1,,Ymn,53_meat,laħm,laħm,l a ħ m,,,,,^l a ħ m$,default
+Nig-53_meat-1,,Nig,53_meat,la:ma,la:ma,l aː m a,,,,,^l a: m a$,default
+Bux-53_meat-1,,Bux,53_meat,læħəm,læħəm,l æ ħ ə m,,,,,^l æ ħ ə m$,default
+Nub-53_meat-1,,Nub,53_meat,la:m,la:m,l aː m,,,,,^l a: m$,default
+CentralArabic-54_moon-1,,CentralArabic,54_moon,qa ma  r,qa_ma_r,q a m a r,,,,,^q a _ m a _ r$,default
+Mor-54_moon-1,,Mor,54_moon,ga mrˁ  a,ga_mrˁ_a,g a m rˤ a,,,,,^g a _ m rˁ _ a$,default
+Mlt-54_moon-1,,Mlt,54_moon,ʔam ar,ʔam_ar,ʔ a m a r,,,,,^ʔ a m _ a r$,default
+Cai-54_moon-1,,Cai,54_moon,ʔam ar,ʔam_ar,ʔ a m a r,,,,,^ʔ a m _ a r$,default
+Dms-54_moon-1,,Dms,54_moon,ʔama rˁ,ʔama_rˁ,ʔ a m a rˤ,,,,,^ʔ a m a _ rˁ$,default
+Irq-54_moon-1,,Irq,54_moon,gum ar,gum_ar,g u m a r,,,,,^g u m _ a r$,default
+Skh-54_moon-1,,Skh,54_moon,kama rˤ,kama_rˤ,k a m a rˤ,,,,,^k a m a _ rˤ$,default
+Cyp-54_moon-1,,Cyp,54_moon,q-m- r,q-m-_r,q m r,,,,,^q - m - _ r$,default
+Glf-54_moon-1,,Glf,54_moon,gama r,gama_r,g a m a r,,,,,^g a m a _ r$,default
+Ymn-54_moon-1,,Ymn,54_moon,gama r,gama_r,g a m a r,,,,,^g a m a _ r$,default
+Nig-54_moon-1,,Nig,54_moon,gamar,gamar,g a m a r,,,,,^g a m a r$,default
+Bux-54_moon-1,,Bux,54_moon,qamar,qamar,q a m a r,,,,,^q a m a r$,default
+Nub-54_moon-1,,Nub,54_moon,*ʃa(h)ari,*ʃaari,ʃ aː r i,,,,,^*ʃ aa r i$,default
+CentralArabic-55_mountain-1,,CentralArabic,55_mountain,ʤa bal,ʤa_bal,dʒ a b a l,,,,,^ʤ a _ b a l$,default
+Mor-55_mountain-1,,Mor,55_mountain,ʒbe l,ʒbe_l,ʒ b e l,,,,,^ʒ b e _ l$,default
+Mlt-55_mountain-1,,Mlt,55_mountain,mu nta  nja,mu_nta_nja,m u n t a n j a,,,,,^m u _ n t a _ n j a$,default
+Cai-55_mountain-1,,Cai,55_mountain,gab al*,gab_al*,g a b a l,,,,,^g a b _ a l *$,default
+Dms-55_mountain-1,,Dms,55_mountain,ʤab al,ʤab_al,dʒ a b a l,,,,,^ʤ a b _ a l$,default
+Irq-55_mountain-1,,Irq,55_mountain,ʤiba l,ʤiba_l,dʒ i b a l,,,,,^ʤ i b a _ l$,default
+Skh-55_mountain-1,,Skh,55_mountain,ʦaba l,ʦaba_l,ts a b a l,,,,,^ʦ a b a _ l$,default
+AqArb-55_mountain-1,,AqArb,55_mountain,ʤab al,ʤab_al,dʒ a b a l,,,,,^ʤ a b _ a l$,default
+Cyp-55_mountain-1,,Cyp,55_mountain,ʒipel,ʒipel,ʒ i p e l,,,,,^ʒ i p e l$,default
+Glf-55_mountain-1,,Glf,55_mountain,ʤiba l,ʤiba_l,dʒ i b a l,,,,,^ʤ i b a _ l$,default
+Ymn-55_mountain-1,,Ymn,55_mountain,ʤab al*,ʤab_al*,dʒ a b a l,,,,,^ʤ a b _ a l *$,default
+Nig-55_mountain-1,,Nig,55_mountain,haʤar,haʤar,h a dʒ a r,,,,,^h a ʤ a r$,default
+Bux-55_mountain-1,,Bux,55_mountain,dƷabal,dƷabal,d ʒ a b a l,,,,,^d Ʒ a b a l$,default
+Nub-55_mountain-1,,Nub,55_mountain,ʤebel,ʤebel,dʒ e b e l,,,,,^ʤ e b e l$,default
+CentralArabic-56_mouth-1,,CentralArabic,56_mouth,fam,fam,f a m,,,,,^f a m$,default
+Mor-56_mouth-1,,Mor,56_mouth,fo mm,fo_mm,f o mː,,,,,^f o _ mm$,default
+Mlt-56_mouth-1,,Mlt,56_mouth,ħalʔ,ħalʔ,ħ a l ʔ,,,,,^ħ a l ʔ$,default
+Cai-56_mouth-1,,Cai,56_mouth,buʔ ʔ,buʔ_ʔ,b u ʔ ʔ,,,,,^b u ʔ _ ʔ$,default
+Dms-56_mouth-1,,Dms,56_mouth,təm m,təm_m,t ə m m,,,,,^t ə m _ m$,default
+Irq-56_mouth-1,,Irq,56_mouth,ħaliq,ħaliq,ħ a l i q,,,,,^ħ a l i q$,default
+Skh-56_mouth-1,,Skh,56_mouth,"ħalk, bu:z",ħalk,ħ a l k,,,,,^ħ a l k$,default
+AqArb-56_mouth-1,,AqArb,56_mouth,təm m,təm_m,t ə m m,,,,,^t ə m _ m$,default
+Cyp-56_mouth-1,,Cyp,56_mouth,*xan k  ħ-n- k,*xan_k_ħ-n-_k,x a n k ħ n k,,,,,^* x a n _ k _ ħ - n - _ k$,default
+Glf-56_mouth-1,,Glf,56_mouth,"ħalʤ , buuz",ħalʤ,ħ a l dʒ,,,,,^ħ a l ʤ$,default
+Ymn-56_mouth-1,,Ymn,56_mouth,fum m*,fum_m*,f u m m,,,,,^f u m _ m *$,default
+Nig-56_mouth-1,,Nig,56_mouth,gaddu:ma,gaddu:ma,g a dː uː m a,,,,,^g a dd u: m a$,default
+Bux-56_mouth-1,,Bux,56_mouth,bæb,bæb,b æ b,,,,,^b æ b$,default
+Nub-56_mouth-1,,Nub,56_mouth,*kasma,*kasma,k a s m a,,,,,^* k a s m a$,default
+CentralArabic-57_name-1,,CentralArabic,57_name,ism,ism,i s m,,,,,^i s m$,default
+Mor-57_name-1,,Mor,57_name,smi  ja,smi_ja,s m i j a,,,,,^s m i _ j a$,default
+Mlt-57_name-1,,Mlt,57_name,ise  m,ise_m,i s e m,,,,,^i s e _ m$,default
+Cai-57_name-1,,Cai,57_name,ism,ism,i s m,,,,,^i s m$,default
+Dms-57_name-1,,Dms,57_name,ʔəsə  m,ʔəsə_m,ʔ ə s ə m,,,,,^ʔ ə s ə _ m$,default
+Irq-57_name-1,,Irq,57_name,ʔisim,ʔisim,ʔ i s i m,,,,,^ʔ i s i m$,default
+Skh-57_name-1,,Skh,57_name,ism,ism,i s m,,,,,^i s m$,default
+AqArb-57_name-1,,AqArb,57_name,əsəm,əsəm,ə s ə m,,,,,^ə s ə m$,default
+Cyp-57_name-1,,Cyp,57_name,ʔ-s-  m,ʔ-s-_m,ʔ s m,,,,,^ʔ - s - _ m$,default
+Glf-57_name-1,,Glf,57_name,isim,isim,i s i m,,,,,^i s i m$,default
+Ymn-57_name-1,,Ymn,57_name,ʔism,ʔism,ʔ i s m,,,,,^ʔ i s m$,default
+Nig-57_name-1,,Nig,57_name,isim,isim,i s i m,,,,,^i s i m$,default
+Bux-57_name-1,,Bux,57_name,ʔisim,ʔisim,ʔ i s i m,,,,,^ʔ i s i m$,default
+Nub-57_name-1,,Nub,57_name,*asma,*asma,a s m a,,,,,^* a s m a$,default
+CentralArabic-58_neck-1,,CentralArabic,58_neck,ʕunq,ʕunq,ʕ u n q,,,,,^ʕ u n q$,default
+Mor-58_neck-1,,Mor,58_neck,ʕenq,ʕenq,ʕ e n q,,,,,^ʕ e n q$,default
+Mlt-58_neck-1,,Mlt,58_neck,ʕonʔ,ʕonʔ,ʕ o n ʔ,,,,,^ʕ o n ʔ$,default
+Cai-58_neck-1,,Cai,58_neck,raʔaba*,raʔaba*,r a ʔ a b a,,,,,^r a ʔ a b a *$,default
+Dms-58_neck-1,,Dms,58_neck,raʔbe,raʔbe,r a ʔ b e,,,,,^r a ʔ b e$,default
+Irq-58_neck-1,,Irq,58_neck,rugba,rugba,r u g b a,,,,,^r u g b a$,default
+Skh-58_neck-1,,Skh,58_neck,rakaba,rakaba,r a k a b a,,,,,^r a k a b a$,default
+Cyp-58_neck-1,,Cyp,58_neck,r-q-b,r-q-b,r q b,,,,,^r - q - b$,default
+Glf-58_neck-1,,Glf,58_neck,rguba,rguba,r g u b a,,,,,^r g u b a$,default
+Ymn-58_neck-1,,Ymn,58_neck,rugbeh,rugbeh,r u g b e h,,,,,^r u g b e h$,default
+Nig-58_neck-1,,Nig,58_neck,ragaba,ragaba,r a g a b a,,,,,^r a g a b a$,default
+Nub-58_neck-1,,Nub,58_neck,*ragabtu,*ragabtu,r a g a b t u,,,,,^* r a g a b t u$,default
+CentralArabic-59_new-1,,CentralArabic,59_new,ʤa di:d,ʤa_di:d,dʒ a d iː d,,,,,^ʤ a _ d i: d$,default
+Mor-59_new-1,,Mor,59_new,ʒdi d,ʒdi_d,ʒ d i d,,,,,^ʒ d i _ d$,default
+Mlt-59_new-1,,Mlt,59_new,ʤdi da,ʤdi_da,dʒ d i d a,,,,,^ʤ d i _ d a$,default
+Cai-59_new-1,,Cai,59_new,gidii d,gidii_d,g i d iː d,,,,,^g i d ii _ d$,default
+Dms-59_new-1,,Dms,59_new,ʤdi: d,ʤdi:_d,dʒ d iː d,,,,,^ʤ d i: _ d$,default
+Irq-59_new-1,,Irq,59_new,ʤidi: d,ʤidi:_d,dʒ i d iː d,,,,,^ʤ i d i: _ d$,default
+Skh-59_new-1,,Skh,59_new,ʦadi: d,ʦadi:_d,ts a d iː d,,,,,^ʦ a d i: _ d$,default
+AqArb-59_new-1,,AqArb,59_new,ʤədi :d,ʤədi_:d,dʒ ə d iː d,,,,,^ʤ ə d i_: d$,default
+Cyp-59_new-1,,Cyp,59_new,ʒtit ʤ-  d-d,ʒtit_ʤ-_d-d,ʒ t i t dʒ d d,,,,,^ʒ t i t _ ʤ - _ d - d$,default
+Glf-59_new-1,,Glf,59_new,ʤadi id,ʤadi_id,dʒ a d i i d,,,,,^ʤ a d i _ i d$,default
+Ymn-59_new-1,,Ymn,59_new,ʤadi :d,ʤadi_:d,dʒ a d iː d,,,,,^ʤ a d i_: d$,default
+Nig-59_new-1,,Nig,59_new,ʤadi:d,ʤadi:d,dʒ a d iː d,,,,,^ʤ a d i: d$,default
+Bux-59_new-1,,Bux,59_new,dƷadiid,dƷadiid,d ʒ a d iː d,,,,,^d Ʒ a d ii d$,default
+Nub-59_new-1,,Nub,59_new,ʤedid,ʤedid,dʒ e d i d,,,,,^ʤ e d i d$,default
+CentralArabic-60_night-1,,CentralArabic,60_night,lail ah,lail_ah,l ai̯ l a h,,,,,^l ai l _ a h$,default
+Mor-60_night-1,,Mor,60_night,lila,lila,l i l a,,,,,^l i l a$,default
+Mlt-60_night-1,,Mlt,60_night,lejl,lejl,l e j l,,,,,^l e j l$,default
+Cai-60_night-1,,Cai,60_night,leel a,leel_a,l eː l a,,,,,^l ee l _ a$,default
+Dms-60_night-1,,Dms,60_night,leele,leele,l eː l e,,,,,^l ee l e$,default
+Irq-60_night-1,,Irq,60_night,leela,leela,l eː l a,,,,,^l ee l a$,default
+Skh-60_night-1,,Skh,60_night,leeli,leeli,l eː l i,,,,,^l ee l i$,default
+AqArb-60_night-1,,AqArb,60_night,lajl,lajl,l a j l,,,,,^l a j l$,default
+Cyp-60_night-1,,Cyp,60_night,l-y-l,l-y-l,l y l,,,,,^l - y - l$,default
+Glf-60_night-1,,Glf,60_night,leel,leel,l eː l,,,,,^l ee l$,default
+Ymn-60_night-1,,Ymn,60_night,lajl,lajl,l a j l,,,,,^l a j l$,default
+Nig-60_night-1,,Nig,60_night,le:le,le:le,l eː l e,,,,,^l e: l e$,default
+Bux-60_night-1,,Bux,60_night,layl,layl,l ai̯ l,,,,,^l ay l$,default
+CentralArabic-61_nose-1,,CentralArabic,61_nose,ʔun f,ʔun_f,ʔ u n f,,,,,^ʔ u n _ f$,default
+Mor-61_nose-1,,Mor,61_nose,nif,nif,n i f,,,,,^n i f$,default
+Mlt-61_nose-1,,Mlt,61_nose,imni  :ħer,imni_:ħer,i m n iː ħ e r,,,,,^i m n i_: ħ e r$,default
+Cai-61_nose-1,,Cai,61_nose,man axii  r*,man_axii_r*,m a n a x iː r,,,,,^m a n _ a x ii _ r *$,default
+Dms-61_nose-1,,Dms,61_nose,ʔənf,ʔənf,ʔ ə n f,,,,,^ʔ ə n f$,default
+Irq-61_nose-1,,Irq,61_nose,xaʃi m,xaʃi_m,x a ʃ i m,,,,,^x a ʃ i _ m$,default
+Skh-61_nose-1,,Skh,61_nose,xiʃm,xiʃm,x i ʃ m,,,,,^x i ʃ m$,default
+AqArb-61_nose-1,,AqArb,61_nose,ənf,ənf,ə n f,,,,,^ə n f$,default
+Cyp-61_nose-1,,Cyp,61_nose,maxu r  n-x-r,maxu_r_n-x-r,m a x u r n x r,,,,,^m a x u _ r _ n - x - r$,default
+Glf-61_nose-1,,Glf,61_nose,xaʃi m,xaʃi_m,x a ʃ i m,,,,,^x a ʃ i _ m$,default
+Ymn-61_nose-1,,Ymn,61_nose,nuxr eh,nuxr_eh,n u x r e h,,,,,^n u x r _ e h$,default
+Nig-61_nose-1,,Nig,61_nose,munxur,munxur,m u n x u r,,,,,^m u n x u r$,default
+Bux-61_nose-1,,Bux,61_nose,ʔanf,ʔanf,ʔ a n f,,,,,^ʔ a n f$,default
+Nub-61_nose-1,,Nub,61_nose,*nyanga ratu,*nyanga_ratu,n j a n g a r a t u,,,,,^* n ya n g a _ r a t u$,default
+CentralArabic-62_not-1,,CentralArabic,62_not,la:,la:,l aː,,,,,^l a:$,default
+Mor-62_not-1,,Mor,62_not,ma -ʃ,ma_-ʃ,m a ʃ,,,,,^m a _ - ʃ$,default
+Mlt-62_not-1,,Mlt,62_not,mh uʃ,mh_uʃ,mʰ u ʃ,,,,,^mh _ u ʃ$,default
+Cai-62_not-1,,Cai,62_not,mi ʃ,mi_ʃ,m i ʃ,,,,,^m i _ ʃ$,default
+Dms-62_not-1,,Dms,62_not,ma:,ma:,m aː,,,,,^m a:$,default
+Irq-62_not-1,,Irq,62_not,mu:,mu:,m uː,,,,,^m u:$,default
+Skh-62_not-1,,Skh,62_not,ma:,ma:,m aː,,,,,^m a:$,default
+AqArb-62_not-1,,AqArb,62_not,ma:,ma:,m aː,,,,,^m a:$,default
+Cyp-62_not-1,,Cyp,62_not,l-ʔ,l-ʔ,l ʔ,,,,,^l - ʔ$,default
+Glf-62_not-1,,Glf,62_not,ma/ mu,ma,m a,,,,,^m a$,default
+Ymn-62_not-1,,Ymn,62_not,ma:,ma:,m aː,,,,,^m a:$,default
+Nig-62_not-1,,Nig,62_not,mi/a,mi,m i,,,,,^m i$,default
+Nub-62_not-1,,Nub,62_not,ma,ma,m a,,,,,^m a$,default
+CentralArabic-63_one-1,,CentralArabic,63_one,ʔaħ ad,ʔaħ_ad,ʔ a ħ a d,,,,,^ʔ a ħ _ a d$,default
+Mor-63_one-1,,Mor,63_one,wa ħed,wa_ħed,w a ħ e d,,,,,^w a _ ħ e d$,default
+Mlt-63_one-1,,Mlt,63_one,wi:ħ ed,wi:ħ_ed,w iː ħ e d,,,,,^w i: ħ _ e d$,default
+Cai-63_one-1,,Cai,63_one,wa: ħid,wa:_ħid,w aː ħ i d,,,,,^w a: _ ħ i d$,default
+Dms-63_one-1,,Dms,63_one,wa:ħ ed,wa:ħ_ed,w aː ħ e d,,,,,^w a: ħ _ e d$,default
+Irq-63_one-1,,Irq,63_one,wa:ħi d,wa:ħi_d,w aː ħ i d,,,,,^w a: ħ i _ d$,default
+Skh-63_one-1,,Skh,63_one,weeħ di,weeħ_di,w eː ħ d i,,,,,^w ee ħ _ d i$,default
+AqArb-63_one-1,,AqArb,63_one,weeħ əd,weeħ_əd,w eː ħ ə d,,,,,^w ee ħ _ ə d$,default
+Cyp-63_one-1,,Cyp,63_one,"exen, exte  w-ħ- d",exen,e x e n,,,,,^e x e n$,default
+Glf-63_one-1,,Glf,63_one,waaħ id,waaħ_id,w aː ħ i d,,,,,^w aa ħ _ i d$,default
+Ymn-63_one-1,,Ymn,63_one,wa:ħi d,wa:ħi_d,w aː ħ i d,,,,,^w a: ħ i _ d$,default
+Nig-63_one-1,,Nig,63_one,wa:hid,wa:hid,w aː h i d,,,,,^w a: h i d$,default
+Bux-63_one-1,,Bux,63_one,waaħid,waaħid,w aː ħ i d,,,,,^w aa ħ i d$,default
+Nub-63_one-1,,Nub,63_one,wai,wai,w ai,,,,,^w ai$,default
+CentralArabic-64_person-1,,CentralArabic,64_person,ʔins a:n,ʔins_a:n,ʔ i n s aː n,,,,,^ʔ i ns _ a: n$,default
+Mor-64_person-1,,Mor,64_person,sije d,sije_d,s i j e d,,,,,^s i j e _ d$,default
+Mlt-64_person-1,,Mlt,64_person,pers una,pers_una,p e r s u n a,,,,,^p e rs _ u n a$,default
+Cai-64_person-1,,Cai,64_person,ʃaxs ˁ*,ʃaxs_ˁ*,ʃ a x sˁ,,,,,^ʃaxs_ˁ* $,default
+Dms-64_person-1,,Dms,64_person,zala me,zala_me,z a l a m e,,,,,^z a l a _ m e$,default
+Irq-64_person-1,,Irq,64_person,ʃaxisˁ,ʃaxisˁ,ʃ a x i sˤ,,,,,^ʃ a x i sˁ$,default
+Skh-64_person-1,,Skh,64_person,insa: n a:da  mi,insa:_n_a:da_mi,i n s aː n aː d a m i,,,,,^i ns a: _ n _ a: d a _ m i$,default
+AqArb-64_person-1,,AqArb,64_person,nafar  ˁ,nafar_ˁ,n a f a rˤ,,,,,^n a f a r_ˁ$,default
+Cyp-64_person-1,,Cyp,64_person,insan  ʔ-n-s,insan_ʔ-n-s,i n s a n ʔ n s,,,,,^i ns a n _ ʔ - n - s$,default
+Glf-64_person-1,,Glf,64_person,nafar,nafar,n a f a r,,,,,^n a f a r$,default
+Ymn-64_person-1,,Ymn,64_person,ʃaybe h?,ʃaybe_h?,ʃ ai̯ b e h,,,,,^ʃ ay b e _ h ?$,default
+Nig-64_person-1,,Nig,64_person,na:di/u m,na:di,n aː d i,,,,,^n a: d i$,default
+Bux-64_person-1,,Bux,64_person,adami,adami,a d a m i,,,,,^a d a m i$,default
+Nub-64_person-1,,Nub,64_person,"azol  (EAzol, p.210)",azol_,a z o l,,,,,^a z o l _$,default
+CentralArabic-65_rain-1,,CentralArabic,65_rain,mat ˁar,mat_ˁar,m a t ʕ a r,,,,,^m a t _ˁa r$,default
+Mor-65_rain-1,,Mor,65_rain,ʃta,ʃta,ʃ t a,,,,,^ʃ t a$,default
+Mlt-65_rain-1,,Mlt,65_rain,ʃita,ʃita,ʃ i t a,,,,,^ʃ i t a$,default
+Cai-65_rain-1,,Cai,65_rain,mat ˁar,mat_ˁar,m a t ʕ a r,,,,,^m a t _ˁa r$,default
+Dms-65_rain-1,,Dms,65_rain,mˁatˁ arˁ,mˁatˁ_arˁ,mˤ a tˤ a rˤ,,,,,^mˁ a tˁ _ a rˁ$,default
+Irq-65_rain-1,,Irq,65_rain,mutˁ ar,mutˁ_ar,m u tˤ a r,,,,,^m u tˁ _ a r$,default
+Skh-65_rain-1,,Skh,65_rain,matˁ ar,matˁ_ar,m a tˤ a r,,,,,^m a tˁ _ a r$,default
+AqArb-65_rain-1,,AqArb,65_rain,matˁ ar,matˁ_ar,m a tˤ a r,,,,,^m a tˁ _ a r$,default
+Cyp-65_rain-1,,Cyp,65_rain,ʃ-t-y,ʃ-t-y,ʃ t y,,,,,^ʃ - t - y$,default
+Glf-65_rain-1,,Glf,65_rain,matˤ ar,matˤ_ar,m a tˤ a r,,,,,^m a tˤ _ a r$,default
+Ymn-65_rain-1,,Ymn,65_rain,matˁ ar,matˁ_ar,m a tˤ a r,,,,,^m a tˁ _ a r$,default
+Nig-65_rain-1,,Nig,65_rain,almatˁara,almatˁara,a l m a tˤ a r a,,,,,^a l m a tˁ a r a$,default
+Bux-65_rain-1,,Bux,65_rain,mata’ra,mata’ra,m a t a rˤ a,,,,,^m a t a ’r a$,default
+Nub-65_rain-1,,Nub,65_rain,matara,matara,m a t a r a,,,,,^m a t a r a$,default
+CentralArabic-66_red-1,,CentralArabic,66_red,ʔaħ ma r,ʔaħ_ma_r,ʔ a ħ m a r,,,,,^ʔ a ħ _ m a _ r$,default
+Mor-66_red-1,,Mor,66_red,ħm erˁ,ħm_erˁ,ħ m e rˤ,,,,,^ħ m _ e rˁ$,default
+Mlt-66_red-1,,Mlt,66_red,aħm ar,aħm_ar,a ħ m a r,,,,,^a ħ m _ a r$,default
+Cai-66_red-1,,Cai,66_red,aħm ar,aħm_ar,a ħ m a r,,,,,^a ħ m _ a r$,default
+Dms-66_red-1,,Dms,66_red,ʔaħm ar,ʔaħm_ar,ʔ a ħ m a r,,,,,^ʔ a ħ m _ a r$,default
+Irq-66_red-1,,Irq,66_red,ʔaħm ar,ʔaħm_ar,ʔ a ħ m a r,,,,,^ʔ a ħ m _ a r$,default
+Skh-66_red-1,,Skh,66_red,ʔaħm arˁ,ʔaħm_arˁ,ʔ a ħ m a rˤ,,,,,^ʔ a ħ m _ a rˁ$,default
+AqArb-66_red-1,,AqArb,66_red,aħma r,aħma_r,a ħ m a r,,,,,^a ħ m a _ r$,default
+Cyp-66_red-1,,Cyp,66_red,axma r  ħ-m-  r,axma_r_ħ-m-_r,a x m a r ħ m r,,,,,^a x m a _ r _ ħ - m - _ r$,default
+Glf-66_red-1,,Glf,66_red,ʔaħm ar,ʔaħm_ar,ʔ a ħ m a r,,,,,^ʔ a ħ m _ a r$,default
+Ymn-66_red-1,,Ymn,66_red,ʔaħm ar,ʔaħm_ar,ʔ a ħ m a r,,,,,^ʔ a ħ m _ a r$,default
+Nig-66_red-1,,Nig,66_red,e:mar,e:mar,eː m a r,,,,,^e: m a r$,default
+Bux-66_red-1,,Bux,66_red,ʔaħmar,ʔaħmar,ʔ a ħ m a r,,,,,^ʔ a ħ m a r$,default
+Nub-66_red-1,,Nub,66_red,‘amer,‘amer,ʔ a m e r,,,,,^‘ a m e r$,default
+CentralArabic-67_road-1,,CentralArabic,67_road,tˁari:q,tˁari:q,tˤ a r iː q,,,,,^tˁ a r i: q$,default
+Mor-67_road-1,,Mor,67_road,tˁrˁiq,tˁrˁiq,tˤ rˤ i q,,,,,^tˁ rˁ i q$,default
+Mlt-67_road-1,,Mlt,67_road,triʔ,triʔ,t r i ʔ,,,,,^t r i ʔ$,default
+Cai-67_road-1,,Cai,67_road,tˁari:ʔ,tˁari:ʔ,tˤ a r iː ʔ,,,,,^tˁ a r i: ʔ$,default
+Dms-67_road-1,,Dms,67_road,tˁari:ʔ,tˁari:ʔ,tˤ a r iː ʔ,,,,,^tˁ a r i: ʔ$,default
+Irq-67_road-1,,Irq,67_road,tˁari:q,tˁari:q,tˤ a r iː q,,,,,^tˁ a r i: q$,default
+Skh-67_road-1,,Skh,67_road,tˁari:k,tˁari:k,tˤ a r iː k,,,,,^tˁ a r i: k$,default
+AqArb-67_road-1,,AqArb,67_road,tˁareeq,tˁareeq,tˤ a r eː q,,,,,^tˁ a r ee q$,default
+Cyp-67_road-1,,Cyp,67_road,trup (pl)  d-r- b,trup__d-r-_b,t r u p d r b,,,,,^t r u p __ d - r - _ b$,default
+Glf-67_road-1,,Glf,67_road,tˤariig,tˤariig,tˤ a r iː g,,,,,^tˤ a r ii g$,default
+Ymn-67_road-1,,Ymn,67_road,tˁari:g,tˁari:g,tˤ a r iː g,,,,,^tˁ a r i: g$,default
+Bux-67_road-1,,Bux,67_road,darb,darb,d a r b,,,,,^d a r b$,default
+Nub-67_road-1,,Nub,67_road,*siika,*siika,s iː k a,,,,,^*s ii k a$,default
+CentralArabic-68_root-1,,CentralArabic,68_root,ʤa ðr,ʤa_ðr,dʒ a ð r,,,,,^ʤ a _ ð r$,default
+Mor-68_root-1,,Mor,68_root,ʒde r,ʒde_r,ʒ d e r,,,,,^ʒ d e _ r$,default
+Mlt-68_root-1,,Mlt,68_root,ʕerʔ,ʕerʔ,ʕ e r ʔ,,,,,^ʕ e r ʔ$,default
+Dms-68_root-1,,Dms,68_root,ʃərəʃ,ʃərəʃ,ʃ ə r ə ʃ,,,,,^ʃ ə r ə ʃ$,default
+Irq-68_root-1,,Irq,68_root,ʕirig,ʕirig,ʕ i r i g,,,,,^ʕ i r i g$,default
+Skh-68_root-1,,Skh,68_root,"gaʕr,  ʃirʃ ʦidir",gaʕr,g a ʕ r,,,,,^g a ʕ r$,default
+AqArb-68_root-1,,AqArb,68_root,ʕəroo q,ʕəroo_q,ʕ ə r oː q,,,,,^ʕ ə r oo _ q$,default
+Glf-68_root-1,,Glf,68_root,jiðir,jiðir,j i ð i r,,,,,^j i ð i r$,default
+Ymn-68_root-1,,Ymn,68_root,ʕirgin **,ʕirgin_**,ʕ i r g i n,,,,,^ʕ i r g i n _ **$,default
+Nig-68_root-1,,Nig,68_root,Irg,Irg,i r g,,,,,^I r g$,default
+Nub-68_root-1,,Nub,68_root,asab,asab,a s a b,,,,,^a s a b$,default
+CentralArabic-69_round-1,,CentralArabic,69_round,mud aww ar,mud_aww_ar,m u d a wː a r,,,,,^m u d _ a ww _ a r$,default
+Mor-69_round-1,,Mor,69_round,mdˁ uww er,mdˁ_uww_er,m dˤ u wː e r,,,,,^m dˁ _ u ww _ e r$,default
+Mlt-69_round-1,,Mlt,69_round,Ton d,Ton_d,t o n d,,,,,^T o n _ d$,default
+Cai-69_round-1,,Cai,69_round,mid aww  ar*,mid_aww_ar*,m i d a wː a r,,,,,^m i d _ a ww _ a r *$,default
+Dms-69_round-1,,Dms,69_round,mdaw war,mdaw_war,m d a w w a r,,,,,^m d a w _ w a r$,default
+Irq-69_round-1,,Irq,69_round,mdaw war,mdaw_war,m d a w w a r,,,,,^m d a w _ w a r$,default
+Skh-69_round-1,,Skh,69_round,mda wwar  ˁ,mda_wwar_ˁ,m d a wː a rˤ,,,,,^m d a _ ww a r_ˁ$,default
+AqArb-69_round-1,,AqArb,69_round,məda wwər  ˁ,məda_wwər_ˁ,m ə d a wː ə rˤ,,,,,^m ə d a _ ww ə r_ˁ$,default
+Glf-69_round-1,,Glf,69_round,muda wwar,muda_wwar,m u d a wː a r,,,,,^m u d a _ ww a r$,default
+Ymn-69_round-1,,Ymn,69_round,muda wwar*,muda_wwar*,m u d a wː a r,,,,,^m u d a _ ww a r *$,default
+Nig-69_round-1,,Nig,69_round,da:jir,da:jir,d aː j i r,,,,,^d a: j i r$,default
+CentralArabic-70_sand-1,,CentralArabic,70_sand,ra ml,ra_ml,r a m l,,,,,^r a _ m l$,default
+Mor-70_sand-1,,Mor,70_sand,rˁe mla,rˁe_mla,rˤ e m l a,,,,,^rˁ e _ m l a$,default
+Mlt-70_sand-1,,Mlt,70_sand,ram el,ram_el,r a m e l,,,,,^r a m _ e l$,default
+Cai-70_sand-1,,Cai,70_sand,ram l*,ram_l*,r a m l,,,,,^r a m _ l *$,default
+Dms-70_sand-1,,Dms,70_sand,raməl,raməl,r a m ə l,,,,,^r a m ə l$,default
+Irq-70_sand-1,,Irq,70_sand,ramu lˁ,ramu_lˁ,r a m u lˤ,,,,,^r a m u _ lˁ$,default
+Skh-70_sand-1,,Skh,70_sand,ramlˁ,ramlˁ,r a m lˤ,,,,,^r a m lˁ$,default
+Glf-70_sand-1,,Glf,70_sand,ramil,ramil,r a m i l,,,,,^r a m i l$,default
+Nig-70_sand-1,,Nig,70_sand,keesa,keesa,k eː s a,,,,,^k ee s a$,default
+Nub-70_sand-1,,Nub,70_sand,lumra,lumra,l u m r a,,,,,^l u m r a$,default
+CentralArabic-71_say-1,,CentralArabic,71_say,qa:l a,qa:l_a,q aː l a,,,,,^q a: l _ a$,default
+Mor-71_say-1,,Mor,71_say,q(g )al,qal,q a l,,,,,^q a l$,default
+Mlt-71_say-1,,Mlt,71_say,ʔal,ʔal,ʔ a l,,,,,^ʔ a l$,default
+Cai-71_say-1,,Cai,71_say,ʔa:l*,ʔa:l*,ʔ aː l,,,,,^ʔ a: l *$,default
+Dms-71_say-1,,Dms,71_say,ʔa:l,ʔa:l,ʔ aː l,,,,,^ʔ a: l$,default
+Irq-71_say-1,,Irq,71_say,ga:l,ga:l,g aː l,,,,,^g a: l$,default
+Skh-71_say-1,,Skh,71_say,ka:lˤ,ka:lˤ,k aː lˤ,,,,,^k a: lˤ$,default
+AqArb-71_say-1,,AqArb,71_say,qa:l,qa:l,q aː l,,,,,^q a: l$,default
+Cyp-71_say-1,,Cyp,71_say,q-w- l,q-w-_l,q w l,,,,,^q - w - _ l$,default
+Glf-71_say-1,,Glf,71_say,gaal,gaal,g aː l,,,,,^g aa l$,default
+Ymn-71_say-1,,Ymn,71_say,ga:l,ga:l,g aː l,,,,,^g a: l$,default
+Nig-71_say-1,,Nig,71_say,ga:l,ga:l,g aː l,,,,,^g a: l$,default
+Bux-71_say-1,,Bux,71_say,qɔɔl,qɔɔl,q ɔː l,,,,,^q ɔɔ l$,default
+Nub-71_say-1,,Nub,71_say,ke lemu,ke_lemu,k e l e m u,,,,,^k e _ l e m u$,default
+CentralArabic-72_see-1,,CentralArabic,72_see,raʔ a:,raʔ_a:,r a ʔ aː,,,,,^r a ʔ _ a:$,default
+Mor-72_see-1,,Mor,72_see,ʃaf,ʃaf,ʃ a f,,,,,^ʃ a f$,default
+Mlt-72_see-1,,Mlt,72_see,ra,ra,r a,,,,,^r a$,default
+Cai-72_see-1,,Cai,72_see,ʃa:f,ʃa:f,ʃ aː f,,,,,^ʃ a: f$,default
+Dms-72_see-1,,Dms,72_see,ʃa:f,ʃa:f,ʃ aː f,,,,,^ʃ a: f$,default
+Irq-72_see-1,,Irq,72_see,ʃa:f,ʃa:f,ʃ aː f,,,,,^ʃ a: f$,default
+Skh-72_see-1,,Skh,72_see,"ʃa:f, tˤass",ʃa:f,ʃ aː f,,,,,^ʃ a: f$,default
+AqArb-72_see-1,,AqArb,72_see,arˁa,arˁa,a rˤ a,,,,,^a rˁ a$,default
+Cyp-72_see-1,,Cyp,72_see,q-ʃ-ʕ,q-ʃ-ʕ,q ʃ ʕ,,,,,^q - ʃ - ʕ$,default
+Glf-72_see-1,,Glf,72_see,ʃaaf,ʃaaf,ʃ aː f,,,,,^ʃ aa f$,default
+Ymn-72_see-1,,Ymn,72_see,ibsˁar,ibsˁar,i b sˤ a r,,,,,^i bsˁ a r$,default
+Nig-72_see-1,,Nig,72_see,ʃa:f,ʃa:f,ʃ aː f,,,,,^ʃ a: f$,default
+Bux-72_see-1,,Bux,72_see,ʃaaf,ʃaaf,ʃ aː f,,,,,^ʃ aa f$,default
+Nub-72_see-1,,Nub,72_see,aainu,aainu,aːi̯ n u,,,,,^aai n u$,default
+CentralArabic-73_seed-1,,CentralArabic,73_seed,biz r,biz_r,b i z r,,,,,^b i z _ r$,default
+Mor-73_seed-1,,Mor,73_seed,ʒerr iʕa,ʒerr_iʕa,ʒ e rː i ʕ a,,,,,^ʒ e rr _ i ʕ a$,default
+Mlt-73_seed-1,,Mlt,73_seed,zerr i:ʕa,zerr_i:ʕa,z e rː iː ʕ a,,,,,^z e rr _ i: ʕ a$,default
+Cai-73_seed-1,,Cai,73_seed,ħab ba,ħab_ba,ħ a b b a,,,,,^ħ a b _ b a$,default
+Dms-73_seed-1,,Dms,73_seed,bəzr e,bəzr_e,b ə z r e,,,,,^b ə z r _ e$,default
+Irq-73_seed-1,,Irq,73_seed,bazra,bazra,b a z r a,,,,,^b a z r a$,default
+Skh-73_seed-1,,Skh,73_seed,biðr,biðr,b i ð r,,,,,^b i ð r$,default
+AqArb-73_seed-1,,AqArb,73_seed,bazər  ħabb,bazər_ħabb,b a z ə r ħ a bː,,,,,^b a z ə r _ ħ a bb$,default
+Cyp-73_seed-1,,Cyp,73_seed,ptar b-z-  r,ptar_b-z-_r,p t a r b z r,,,,,^p t a r _ b - z - _ r$,default
+Glf-73_seed-1,,Glf,73_seed,baðr a,baðr_a,b a ð r a,,,,,^b a ð r _ a$,default
+Ymn-73_seed-1,,Ymn,73_seed,habb eh,habb_eh,h a bː e h,,,,,^h a bb _ e h$,default
+Nig-73_seed-1,,Nig,73_seed,te:rab,te:rab,t eː r a b,,,,,^t e: r a b$,default
+Nub-73_seed-1,,Nub,73_seed,eena (eye),eena_,eː n a,,,,,^ee n a _$,default
+CentralArabic-74_sit-1,,CentralArabic,74_sit,"qaʕ ada  ,ʤa las a",qaʕ_ada,q a ʕ a d a,,,,,^q a ʕ _ a d a$,default
+Mor-74_sit-1,,Mor,74_sit,gle s,gle_s,g l e s,,,,,^g l e _ s$,default
+Mlt-74_sit-1,,Mlt,74_sit,ʔaʕa d,ʔaʕa_d,ʔ a ʕ a d,,,,,^ʔ a ʕ a _ d$,default
+Cai-74_sit-1,,Cai,74_sit,ʔaʕa d,ʔaʕa_d,ʔ a ʕ a d,,,,,^ʔ a ʕ a _ d$,default
+Dms-74_sit-1,,Dms,74_sit,ʔaʕad,ʔaʕad,ʔ a ʕ a d,,,,,^ʔ a ʕ a d$,default
+Irq-74_sit-1,,Irq,74_sit,giʕad,giʕad,g i ʕ a d,,,,,^g i ʕ a d$,default
+Skh-74_sit-1,,Skh,74_sit,kaʕa d,kaʕa_d,k a ʕ a d,,,,,^k a ʕ a _ d$,default
+AqArb-74_sit-1,,AqArb,74_sit,qəʕə d,qəʕə_d,q ə ʕ ə d,,,,,^q ə ʕ ə _ d$,default
+Cyp-74_sit-1,,Cyp,74_sit,q-ʕ- d,q-ʕ-_d,q ʕ d,,,,,^q - ʕ - _ d$,default
+Glf-74_sit-1,,Glf,74_sit,gaʕa d,gaʕa_d,g a ʕ a d,,,,,^g a ʕ a _ d$,default
+Ymn-74_sit-1,,Ymn,74_sit,ʤala s,ʤala_s,dʒ a l a s,,,,,^ʤ a l a _ s$,default
+Nig-74_sit-1,,Nig,74_sit,ga’ad,ga’ad,g a ʔ a d,,,,,^g a’a d$,default
+Bux-74_sit-1,,Bux,74_sit,qaʕad,qaʕad,q a ʕ a d,,,,,^q a ʕ a d$,default
+Nub-74_sit-1,,Nub,74_sit,*ge(e)n,*gen,g e n,,,,,^* g e n$,default
+CentralArabic-75_skin-1,,CentralArabic,75_skin,ʤil d,ʤil_d,dʒ i l d,,,,,^ʤ i l _ d$,default
+Mor-75_skin-1,,Mor,75_skin,ʒel d,ʒel_d,ʒ e l d,,,,,^ʒ e l _ d$,default
+Mlt-75_skin-1,,Mlt,75_skin,ʤil da,ʤil_da,dʒ i l d a,,,,,^ʤ i l _ d a$,default
+Cai-75_skin-1,,Cai,75_skin,gild *,gild_*,g i l d,,,,,^g i l d _ *$,default
+Dms-75_skin-1,,Dms,75_skin,ʤələ d,ʤələ_d,dʒ ə l ə d,,,,,^ʤ ə l ə _ d$,default
+Irq-75_skin-1,,Irq,75_skin,ʤilid,ʤilid,dʒ i l i d,,,,,^ʤ i l i d$,default
+Skh-75_skin-1,,Skh,75_skin,ʦild,ʦild,ts i l d,,,,,^ʦ i l d$,default
+AqArb-75_skin-1,,AqArb,75_skin,ʤəld,ʤəld,dʒ ə l d,,,,,^ʤ ə l d$,default
+Cyp-75_skin-1,,Cyp,75_skin,s-l-x,s-l-x,s l x,,,,,^s - l - x$,default
+Glf-75_skin-1,,Glf,75_skin,ʤild,ʤild,dʒ i l d,,,,,^ʤ i l d$,default
+Ymn-75_skin-1,,Ymn,75_skin,ʤild,ʤild,dʒ i l d,,,,,^ʤ i l d$,default
+Nig-75_skin-1,,Nig,75_skin,ʤilde,ʤilde,dʒ i l d e,,,,,^ʤ i l d e$,default
+Bux-75_skin-1,,Bux,75_skin,dƷild,dƷild,d ʒ i l d,,,,,^d Ʒ i l d$,default
+Nub-75_skin-1,,Nub,75_skin,Gildu,Gildu,g i l d u,,,,,^G i l d u$,default
+CentralArabic-76_sleep-1,,CentralArabic,76_sleep,na:ma,na:ma,n aː m a,,,,,^n a: m a$,default
+Mor-76_sleep-1,,Mor,76_sleep,nʕes,nʕes,n ʕ e s,,,,,^n ʕ e s$,default
+Mlt-76_sleep-1,,Mlt,76_sleep,irʔad,irʔad,i r ʔ a d,,,,,^i r ʔ a d$,default
+Cai-76_sleep-1,,Cai,76_sleep,naam,naam,n aː m,,,,,^n aa m$,default
+Dms-76_sleep-1,,Dms,76_sleep,na:m,na:m,n aː m,,,,,^n a: m$,default
+Irq-76_sleep-1,,Irq,76_sleep,na:m,na:m,n aː m,,,,,^n a: m$,default
+Skh-76_sleep-1,,Skh,76_sleep,na:m,na:m,n aː m,,,,,^n a: m$,default
+AqArb-76_sleep-1,,AqArb,76_sleep,na:m,na:m,n aː m,,,,,^n a: m$,default
+Cyp-76_sleep-1,,Cyp,76_sleep,n-w-m,n-w-m,n w m,,,,,^n - w - m$,default
+Glf-76_sleep-1,,Glf,76_sleep,"naam, rigad",naam,n aː m,,,,,^n aa m$,default
+Ymn-76_sleep-1,,Ymn,76_sleep,ragad,ragad,r a g a d,,,,,^r a g a d$,default
+Nig-76_sleep-1,,Nig,76_sleep,no:m,no:m,n oː m,,,,,^n o: m$,default
+Bux-76_sleep-1,,Bux,76_sleep,naum,naum,n au̯ m,,,,,^n au m$,default
+Nub-76_sleep-1,,Nub,76_sleep,num,num,n u m,,,,,^n u m$,default
+CentralArabic-77_small-1,,CentralArabic,77_small,sˁa γi:r,sˁa_γi:r,sˤ a ɣ iː r,,,,,^sˁ a _ γ i: r$,default
+Mor-77_small-1,,Mor,77_small,sˁγi rˁ,sˁγi_rˁ,sˤ ɣ i rˤ,,,,,^sˁ γ i _ rˁ$,default
+Mlt-77_small-1,,Mlt,77_small,zγir,zγir,z ɣ i r,,,,,^z γ i r$,default
+Cai-77_small-1,,Cai,77_small,sˁuγ ajjar,sˁuγ_ajjar,sˤ u ɣ a jː a r,,,,,^sˁ u γ _ a jj a r$,default
+Dms-77_small-1,,Dms,77_small,zˁγi:r,zˁγi:r,zˤ ɣ iː r,,,,,^zˁ γ i: r$,default
+Irq-77_small-1,,Irq,77_small,sˁγajj ir,sˁγajj_ir,sˤ ɣ a jː i r,,,,,^sˁ γ a jj _ i r$,default
+Skh-77_small-1,,Skh,77_small,sˁaγi: r,sˁaγi:_r,sˤ a ɣ iː r,,,,,^sˁ a γ i: _ r$,default
+AqArb-77_small-1,,AqArb,77_small,γəzi:r (aq) zəγaj jər  (arb),γəzi:r__zəγaj_jər_,ɣ ə z iː r z ə ɣ a j j ə r,,,,,^γ ə z i: r __ z ə γ a j _ j ə r _$,default
+Cyp-77_small-1,,Cyp,77_small,sˁ-ɣ- r,sˁ-ɣ-_r,sˤ ɣ r,,,,,^sˁ - ɣ - _ r$,default
+Glf-77_small-1,,Glf,77_small,sˤaγii r,sˤaγii_r,sˤ a ɣ iː r,,,,,^sˤ a γ ii _ r$,default
+Ymn-77_small-1,,Ymn,77_small,sˁaγi: r,sˁaγi:_r,sˤ a ɣ iː r,,,,,^sˁ a γ i: _ r$,default
+Nig-77_small-1,,Nig,77_small,dagi:g,dagi:g,d a g iː g,,,,,^d a g i: g$,default
+Bux-77_small-1,,Bux,77_small,sa;γiir,sa,s a,,,,,^s a$,default
+Nub-77_small-1,,Nub,77_small,Sakar,Sakar,s a k a r,,,,,^S a k a r$,default
+CentralArabic-78_smoke-1,,CentralArabic,78_smoke,dux a:n,dux_a:n,d u x aː n,,,,,^d u x _ a: n$,default
+Mor-78_smoke-1,,Mor,78_smoke,dox xan,dox_xan,d o x x a n,,,,,^d o x _ x a n$,default
+Mlt-78_smoke-1,,Mlt,78_smoke,duħ ħan,duħ_ħan,d u ħ ħ a n,,,,,^d u ħ _ ħ a n$,default
+Cai-78_smoke-1,,Cai,78_smoke,dux xa:n,dux_xa:n,d u x x aː n,,,,,^d u x _ x a: n$,default
+Dms-78_smoke-1,,Dms,78_smoke,dəxxa  :n,dəxxa_:n,d ə xː aː n,,,,,^d ə xx a_: n$,default
+Irq-78_smoke-1,,Irq,78_smoke,duxx a:n,duxx_a:n,d u xː aː n,,,,,^d u xx _ a: n$,default
+Skh-78_smoke-1,,Skh,78_smoke,daxan i,daxan_i,d a x a n i,,,,,^d a x a n _ i$,default
+Cyp-78_smoke-1,,Cyp,78_smoke,d-x- n,d-x-_n,d x n,,,,,^d - x - _ n$,default
+Glf-78_smoke-1,,Glf,78_smoke,duxa an,duxa_an,d u x a a n,,,,,^d u x a _ a n$,default
+Ymn-78_smoke-1,,Ymn,78_smoke,duxx a:n,duxx_a:n,d u xː aː n,,,,,^d u xx _ a: n$,default
+Nig-78_smoke-1,,Nig,78_smoke,duxa:n,duxa:n,d u x aː n,,,,,^d u x a: n$,default
+Bux-78_smoke-1,,Bux,78_smoke,dƷarra,dƷarra,d ʒ a rː a,,,,,^d Ʒ a rr a$,default
+Nub-78_smoke-1,,Nub,78_smoke,Dukan,Dukan,d u k a n,,,,,^D u k a n$,default
+CentralArabic-79_stand-1,,CentralArabic,79_stand,qa: ma,qa:_ma,q aː m a,,,,,^q a: _ m a$,default
+Mor-79_stand-1,,Mor,79_stand,wq ef,wq_ef,w q e f,,,,,^w q _ e f$,default
+Mlt-79_stand-1,,Mlt,79_stand,ʔam,ʔam,ʔ a m,,,,,^ʔ a m$,default
+Cai-79_stand-1,,Cai,79_stand,wiʔi f,wiʔi_f,w i ʔ i f,,,,,^w i ʔ i _ f$,default
+Dms-79_stand-1,,Dms,79_stand,waʔʔ af,waʔʔ_af,w a ʔː a f,,,,,^w a ʔʔ _ a f$,default
+Irq-79_stand-1,,Irq,79_stand,wuga f,wuga_f,w u g a f,,,,,^w u g a _ f$,default
+Skh-79_stand-1,,Skh,79_stand,"kaʕa  d, ka:m",kaʕa_d,k a ʕ a d,,,,,^k a ʕ a _ d$,default
+AqArb-79_stand-1,,AqArb,79_stand,qa:m,qa:m,q aː m,,,,,^q a: m$,default
+Cyp-79_stand-1,,Cyp,79_stand,w-q- f,w-q-_f,w q f,,,,,^w - q - _ f$,default
+Glf-79_stand-1,,Glf,79_stand,wuga f,wuga_f,w u g a f,,,,,^w u g a _ f$,default
+Ymn-79_stand-1,,Ymn,79_stand,sann ab,sann_ab,s a nː a b,,,,,^s a nn _ a b$,default
+Nig-79_stand-1,,Nig,79_stand,anʔadal,anʔadal,a n ʔ a d a l,,,,,^a n ʔ a d a l$,default
+Bux-79_stand-1,,Bux,79_stand,qɔm,qɔm,q ɔ m,,,,,^q ɔ m$,default
+Nub-79_stand-1,,Nub,79_stand,Gum,Gum,g u m,,,,,^G u m$,default
+CentralArabic-80_star-1,,CentralArabic,80_star,na ʤ ma,na_ʤ_ma,n a dʒ m a,,,,,^n a _ ʤ _ m a$,default
+Mor-80_star-1,,Mor,80_star,neʒ ma,neʒ_ma,n e ʒ m a,,,,,^n e ʒ _ m a$,default
+Mlt-80_star-1,,Mlt,80_star,"still a, kew  kba",still_a,s t i lː a,,,,,^s t i ll _ a$,default
+Cai-80_star-1,,Cai,80_star,nig ma*,nig_ma*,n i g m a,,,,,^n i g _ m a *$,default
+Dms-80_star-1,,Dms,80_star,naʤ me,naʤ_me,n a dʒ m e,,,,,^n a ʤ _ m e$,default
+Irq-80_star-1,,Irq,80_star,naʤ ma,naʤ_ma,n a dʒ m a,,,,,^n a ʤ _ m a$,default
+Skh-80_star-1,,Skh,80_star,niʦm i,niʦm_i,n i ts m i,,,,,^n i ʦ m _ i$,default
+Cyp-80_star-1,,Cyp,80_star,n- ʤ-m,n-_ʤ-m,n dʒ m,,,,,^n - _ ʤ - m$,default
+Glf-80_star-1,,Glf,80_star,naʤ ma,naʤ_ma,n a dʒ m a,,,,,^n a ʤ _ m a$,default
+Ymn-80_star-1,,Ymn,80_star,naʤ m,naʤ_m,n a dʒ m,,,,,^n a ʤ _ m$,default
+Nig-80_star-1,,Nig,80_star,naʤima,naʤima,n a dʒ i m a,,,,,^n a ʤ i m a$,default
+Bux-80_star-1,,Bux,80_star,nudƷum,nudƷum,n u d ʒ u m,,,,,^n u d Ʒ u m$,default
+Nub-80_star-1,,Nub,80_star,*nezma,*nezma,n e z m a,,,,,^* n e z m a$,default
+CentralArabic-81_stone-1,,CentralArabic,81_stone,ħa ʤa  rah,ħa_ʤa_rah,ħ a dʒ a r a h,,,,,^ħ a _ ʤ a _ r a h$,default
+Mor-81_stone-1,,Mor,81_stone,ħeʒ ra,ħeʒ_ra,ħ e ʒ r a,,,,,^ħ e ʒ _ r a$,default
+Mlt-81_stone-1,,Mlt,81_stone,ʤe bla,ʤe_bla,dʒ e b l a,,,,,^ʤ e _ b l a$,default
+Cai-81_stone-1,,Cai,81_stone,ħag arˁa  *,ħag_arˁa_*,ħ a g a rˤ a,,,,,^ħ a g _ a rˁ a _ *$,default
+Dms-81_stone-1,,Dms,81_stone,ħaʤa ra,ħaʤa_ra,ħ a dʒ a r a,,,,,^ħ a ʤ a _ r a$,default
+Irq-81_stone-1,,Irq,81_stone,ħʤa: ra,ħʤa:_ra,ħ dʒ aː r a,,,,,^ħ ʤ a: _ r a$,default
+Skh-81_stone-1,,Skh,81_stone,ħaʦa r,ħaʦa_r,ħ a ts a r,,,,,^ħ a ʦ a _ r$,default
+AqArb-81_stone-1,,AqArb,81_stone,ħaʤa r,ħaʤa_r,ħ a dʒ a r,,,,,^ħ a ʤ a _ r$,default
+Cyp-81_stone-1,,Cyp,81_stone,ħ- ʤ-r,ħ-_ʤ-r,ħ dʒ r,,,,,^ħ - _ ʤ - r$,default
+Glf-81_stone-1,,Glf,81_stone,ħaʤa r,ħaʤa_r,ħ a dʒ a r,,,,,^ħ a ʤ a _ r$,default
+Ymn-81_stone-1,,Ymn,81_stone,ħaʤa r,ħaʤa_r,ħ a dʒ a r,,,,,^ħ a ʤ a _ r$,default
+Nig-81_stone-1,,Nig,81_stone,hiʤer,hiʤer,h i dʒ e r,,,,,^h i ʤ e r$,default
+Bux-81_stone-1,,Bux,81_stone,hadƷar,hadƷar,h a d ʒ a r,,,,,^h a d Ʒ a r$,default
+Nub-81_stone-1,,Nub,81_stone,Lager,Lager,l a g e r,,,,,^L a g e r$,default
+CentralArabic-82_sun-1,,CentralArabic,82_sun,ʃa ms,ʃa_ms,ʃ a m s,,,,,^ʃ a _ ms$,default
+Mor-82_sun-1,,Mor,82_sun,ʃe mʃ,ʃe_mʃ,ʃ e m ʃ,,,,,^ʃ e _ mʃ$,default
+Mlt-82_sun-1,,Mlt,82_sun,ʃem ʃ,ʃem_ʃ,ʃ e m ʃ,,,,,^ʃ e m _ ʃ$,default
+Cai-82_sun-1,,Cai,82_sun,ʃam s,ʃam_s,ʃ a m s,,,,,^ʃ a m _ s$,default
+Dms-82_sun-1,,Dms,82_sun,ʃamə s,ʃamə_s,ʃ a m ə s,,,,,^ʃ a m ə _ s$,default
+Irq-82_sun-1,,Irq,82_sun,ʃamis,ʃamis,ʃ a m i s,,,,,^ʃ a m i s$,default
+Skh-82_sun-1,,Skh,82_sun,ʃams,ʃams,ʃ a m s,,,,,^ʃ a ms$,default
+AqArb-82_sun-1,,AqArb,82_sun,ʃams,ʃams,ʃ a m s,,,,,^ʃ a ms$,default
+Cyp-82_sun-1,,Cyp,82_sun,ʃimp s,ʃimp_s,ʃ i m p s,,,,,^ʃ i m p _ s$,default
+Glf-82_sun-1,,Glf,82_sun,ʃams,ʃams,ʃ a m s,,,,,^ʃ a ms$,default
+Ymn-82_sun-1,,Ymn,82_sun,ʃams,ʃams,ʃ a m s,,,,,^ʃ a ms$,default
+Nig-82_sun-1,,Nig,82_sun,ʃam,ʃam,ʃ a m,,,,,^ʃ a m$,default
+Bux-82_sun-1,,Bux,82_sun,ʃams,ʃams,ʃ a m s,,,,,^ʃ a ms$,default
+Nub-82_sun-1,,Nub,82_sun,*semsi,*semsi,s e m s i,,,,,^*s e ms i$,default
+CentralArabic-83_swim-1,,CentralArabic,83_swim,sab aħa,sab_aħa,s a b a ħ a,,,,,^s a b _ a ħ a$,default
+Mor-83_swim-1,,Mor,83_swim,ʕa m,ʕa_m,ʕ a m,,,,,^ʕ a _ m$,default
+Mlt-83_swim-1,,Mlt,83_swim,ʕam,ʕam,ʕ a m,,,,,^ʕ a m$,default
+Cai-83_swim-1,,Cai,83_swim,ʕa: m,ʕa:_m,ʕ aː m,,,,,^ʕ a: _ m$,default
+Dms-83_swim-1,,Dms,83_swim,saba ħ,saba_ħ,s a b a ħ,,,,,^s a b a _ ħ$,default
+Irq-83_swim-1,,Irq,83_swim,sibaħ,sibaħ,s i b a ħ,,,,,^s i b a ħ$,default
+Skh-83_swim-1,,Skh,83_swim,saba ħ,saba_ħ,s a b a ħ,,,,,^s a b a _ ħ$,default
+AqArb-83_swim-1,,AqArb,83_swim,zəbə ħ,zəbə_ħ,z ə b ə ħ,,,,,^z ə b ə _ ħ$,default
+Cyp-83_swim-1,,Cyp,83_swim,ɣ-s-l,ɣ-s-l,ɣ s l,,,,,^ɣ - s - l$,default
+Glf-83_swim-1,,Glf,83_swim,sibaħ,sibaħ,s i b a ħ,,,,,^s i b a ħ$,default
+Ymn-83_swim-1,,Ymn,83_swim,ʕa:m,ʕa:m,ʕ aː m,,,,,^ʕ a: m$,default
+Nig-83_swim-1,,Nig,83_swim,a:m,a:m,aː m,,,,,^a: m$,default
+Bux-83_swim-1,,Bux,83_swim,ṣobħaya an,ṣobħaya_an,ṣ/s o b ħ a y/j a a n,,,,,^ṣ o b ħ aya _ a n$,default
+Nub-83_swim-1,,Nub,83_swim,‘hum,‘hum,hˤ u m,,,,,^‘h u m$,default
+CentralArabic-84_tail-1,,CentralArabic,84_tail,ðan ab,ðan_ab,ð a n a b,,,,,^ð a n _ a b$,default
+Mor-84_tail-1,,Mor,84_tail,ʃuw wal,ʃuw_wal,ʃ u w w a l,,,,,^ʃ u w _ w a l$,default
+Mlt-84_tail-1,,Mlt,84_tail,Den b,Den_b,d e n b,,,,,^D e n _ b$,default
+Cai-84_tail-1,,Cai,84_tail,dan ab,dan_ab,d a n a b,,,,,^d a n _ a b$,default
+Dms-84_tail-1,,Dms,84_tail,dana b,dana_b,d a n a b,,,,,^d a n a _ b$,default
+Irq-84_tail-1,,Irq,84_tail,ðeel,ðeel,ð eː l,,,,,^ð ee l$,default
+Skh-84_tail-1,,Skh,84_tail,ðeel,ðeel,ð eː l,,,,,^ð ee l$,default
+Cyp-84_tail-1,,Cyp,84_tail,ð-n- b,ð-n-_b,ð n b,,,,,^ð - n - _ b$,default
+Glf-84_tail-1,,Glf,84_tail,"ðeel, iʧwa",ðeel,ð eː l,,,,,^ð ee l$,default
+Ymn-84_tail-1,,Ymn,84_tail,ðeeli n**,ðeeli_n**,ð eː l i n,,,,,^ð ee l i _ n **$,default
+Nig-84_tail-1,,Nig,84_tail,danab,danab,d a n a b,,,,,^d a n a b$,default
+Bux-84_tail-1,,Bux,84_tail,zeel,zeel,z eː l,,,,,^z ee l$,default
+Nub-84_tail-1,,Nub,84_tail,Danab,Danab,d a n a b,,,,,^D a n a b$,default
+CentralArabic-85_that-1,,CentralArabic,85_that,ðalika,ðalika,ð a l i k a,,,,,^ð a l i k a$,default
+Mor-85_that-1,,Mor,85_that,dak,dak,d a k,,,,,^d a k$,default
+Mlt-85_that-1,,Mlt,85_that,dak,dak,d a k,,,,,^d a k$,default
+Cai-85_that-1,,Cai,85_that,da,da,d a,,,,,^d a$,default
+Dms-85_that-1,,Dms,85_that,hada:k,hada:k,h a d aː k,,,,,^h a d a: k$,default
+Irq-85_that-1,,Irq,85_that,(ha:)ða:k,ða:k,ð aː k,,,,,^ð a: k$,default
+Skh-85_that-1,,Skh,85_that,(ha)ða:ʧ,ða:ʧ,ð aː tʃ,,,,,^ð a: ʧ$,default
+AqArb-85_that-1,,AqArb,85_that,hada:k,hada:k,h a d aː k,,,,,^h a d a: k$,default
+Cyp-85_that-1,,Cyp,85_that,ʔ-x-ð,ʔ-x-ð,ʔ x ð,,,,,^ʔ - x - ð$,default
+Glf-85_that-1,,Glf,85_that,(ha)ðaak,ðaak,ð aː k,,,,,^ð aa k$,default
+Ymn-85_that-1,,Ymn,85_that,"ðajjik, tajjik",ðajjik,ð a jː i k,,,,,^ð a jj i k$,default
+Nig-85_that-1,,Nig,85_that,ɖˁa:ka,ɖˁa:ka,ɖˤ aː k a,,,,,^ɖˁ a: k a$,default
+Bux-85_that-1,,Bux,85_that,duuk,duuk,d uː k,,,,,^d uu k$,default
+Nub-85_that-1,,Nub,85_that,Nade,Nade,n a d e,,,,,^N a d e$,default
+CentralArabic-86_this-1,,CentralArabic,86_this,ha: ða:,ha:_ða:,h aː ð aː,,,,,^h a: _ ð a:$,default
+Mor-86_this-1,,Mor,86_this,had,had,h a d,,,,,^h a d$,default
+Mlt-86_this-1,,Mlt,86_this,din,din,d i n,,,,,^d i n$,default
+Cai-86_this-1,,Cai,86_this,da,da,d a,,,,,^d a$,default
+Dms-86_this-1,,Dms,86_this,ha:da,ha:da,h aː d a,,,,,^h a: d a$,default
+Irq-86_this-1,,Irq,86_this,ha:ða,ha:ða,h aː ð a,,,,,^h a: ð a$,default
+Skh-86_this-1,,Skh,86_this,ha:(ði ),ha:,h aː,,,,,^h a:$,default
+AqArb-86_this-1,,AqArb,86_this,hada:,hada:,h a d aː,,,,,^h a d a:$,default
+Cyp-86_this-1,,Cyp,86_this,h-ʔ,h-ʔ,h ʔ,,,,,^h - ʔ$,default
+Glf-86_this-1,,Glf,86_this,haað a,haað_a,h aː ð a,,,,,^h aa ð _ a$,default
+Ymn-86_this-1,,Ymn,86_this,"ðajjih , tajjeh",ðajjih,ð a jː i h,,,,,^ð a jj i h$,default
+Nig-86_this-1,,Nig,86_this,da:,da:,d aː,,,,,^d a:$,default
+Bux-86_this-1,,Bux,86_this,haa,haa,h aː,,,,,^h aa$,default
+Nub-86_this-1,,Nub,86_this,Wede,Wede,w e d e,,,,,^W e d e$,default
+CentralArabic-87_thou-1,,CentralArabic,87_thou,ʔan ta,ʔan_ta,ʔ a n t a,,,,,^ʔ a n _ t a$,default
+Mor-87_thou-1,,Mor,87_thou,nta,nta,n t a,,,,,^n t a$,default
+Mlt-87_thou-1,,Mlt,87_thou,int,int,i n t,,,,,^i n t$,default
+Cai-87_thou-1,,Cai,87_thou,inta,inta,i n t a,,,,,^i n t a$,default
+Dms-87_thou-1,,Dms,87_thou,ʔənte,ʔənte,ʔ ə n t e,,,,,^ʔ ə n t e$,default
+Irq-87_thou-1,,Irq,87_thou,ʔinta,ʔinta,ʔ i n t a,,,,,^ʔ i n t a$,default
+Skh-87_thou-1,,Skh,87_thou,int,int,i n t,,,,,^i n t$,default
+AqArb-87_thou-1,,AqArb,87_thou,ənta,ənta,ə n t a,,,,,^ə n t a$,default
+Cyp-87_thou-1,,Cyp,87_thou,ʔ-n-t,ʔ-n-t,ʔ n t,,,,,^ʔ - n - t$,default
+Glf-87_thou-1,,Glf,87_thou,inta,inta,i n t a,,,,,^i n t a$,default
+Ymn-87_thou-1,,Ymn,87_thou,ʔant,ʔant,ʔ a n t,,,,,^ʔ a n t$,default
+Nig-87_thou-1,,Nig,87_thou,inta,inta,i n t a,,,,,^i n t a$,default
+Bux-87_thou-1,,Bux,87_thou,hint,hint,h i n t,,,,,^h i n t$,default
+Nub-87_thou-1,,Nub,87_thou,‘ita,‘ita,ʔ i t a,,,,,^‘ i t a$,default
+CentralArabic-88_tongue-1,,CentralArabic,88_tongue,lisa  :n,lisa_:n,l i s aː n,,,,,^l i s a_: n$,default
+Mor-88_tongue-1,,Mor,88_tongue,lsa  n,lsa_n,l s a n,,,,,^ls a _ n$,default
+Mlt-88_tongue-1,,Mlt,88_tongue,lsi:n,lsi:n,l s iː n,,,,,^ls i: n$,default
+Cai-88_tongue-1,,Cai,88_tongue,lisa  an*,lisa_an*,l i s a a n,,,,,^l i s a _ a n *$,default
+Dms-88_tongue-1,,Dms,88_tongue,lsa:n,lsa:n,l s aː n,,,,,^ls a: n$,default
+Irq-88_tongue-1,,Irq,88_tongue,lisa:n,lisa:n,l i s aː n,,,,,^l i s a: n$,default
+Skh-88_tongue-1,,Skh,88_tongue,lsi:in,lsi:in,l s iː i n,,,,,^ls i:i n$,default
+AqArb-88_tongue-1,,AqArb,88_tongue,seen,seen,s eː n,,,,,^s ee n$,default
+Cyp-88_tongue-1,,Cyp,88_tongue,l-s-n,l-s-n,l s n,,,,,^l - s - n$,default
+Glf-88_tongue-1,,Glf,88_tongue,lisaa  n,lisaa_n,l i s aː n,,,,,^l i s aa _ n$,default
+Ymn-88_tongue-1,,Ymn,88_tongue,lisaa  n,lisaa_n,l i s aː n,,,,,^l i s aa _ n$,default
+Nig-88_tongue-1,,Nig,88_tongue,lisa:n,lisa:n,l i s aː n,,,,,^l i s a: n$,default
+Bux-88_tongue-1,,Bux,88_tongue,li’saan,li’saan,l i ʔ aː n,,,,,^l i ’s aa n$,default
+Nub-88_tongue-1,,Nub,88_tongue,*lisaan,*lisaan,l i s aː n,,,,,^* l i s aa n$,default
+CentralArabic-89_tooth-1,,CentralArabic,89_tooth,sin n,sin_n,s i n n,,,,,^s i n _ n$,default
+Mor-89_tooth-1,,Mor,89_tooth,sen n,sen_n,s e n n,,,,,^s e n _ n$,default
+Mlt-89_tooth-1,,Mlt,89_tooth,sins,sins,s i n s,,,,,^s i ns$,default
+Cai-89_tooth-1,,Cai,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+Dms-89_tooth-1,,Dms,89_tooth,sənn,sənn,s ə nː,,,,,^s ə nn$,default
+Irq-89_tooth-1,,Irq,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+Skh-89_tooth-1,,Skh,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+AqArb-89_tooth-1,,AqArb,89_tooth,s-n- n,s-n-_n,s n n,,,,,^s - n - _ n$,default
+Cyp-89_tooth-1,,Cyp,89_tooth,snan( pl)  s-n- n,snan_s-n-_n,s n a n s n n,,,,,^s n a n _ s - n - _ n$,default
+Glf-89_tooth-1,,Glf,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+Ymn-89_tooth-1,,Ymn,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+Nig-89_tooth-1,,Nig,89_tooth,sinn,sinn,s i nː,,,,,^s i nn$,default
+Nub-89_tooth-1,,Nub,89_tooth,"sunun, sin",sunun,s u n u n,,,,,^s u n u n$,default
+CentralArabic-90_tree-1,,CentralArabic,90_tree,ʃa ʤa rah,ʃa_ʤa_rah,ʃ a dʒ a r a h,,,,,^ʃ a _ ʤ a _ r a h$,default
+Mor-90_tree-1,,Mor,90_tree,ʃeʒ ra,ʃeʒ_ra,ʃ e ʒ r a,,,,,^ʃ e ʒ _ r a$,default
+Mlt-90_tree-1,,Mlt,90_tree,siʤ ra,siʤ_ra,s i dʒ r a,,,,,^s i ʤ _ r a$,default
+Cai-90_tree-1,,Cai,90_tree,ʃag ara,ʃag_ara,ʃ a g a r a,,,,,^ʃ a g _ a r a$,default
+Dms-90_tree-1,,Dms,90_tree,ʃaʤa ra,ʃaʤa_ra,ʃ a dʒ a r a,,,,,^ʃ a ʤ a _ r a$,default
+Irq-90_tree-1,,Irq,90_tree,ʃaʤa ra,ʃaʤa_ra,ʃ a dʒ a r a,,,,,^ʃ a ʤ a _ r a$,default
+Skh-90_tree-1,,Skh,90_tree,ʃaʦa rˁa,ʃaʦa_rˁa,ʃ a ts a rˤ a,,,,,^ʃ a ʦ a _ rˁ a$,default
+AqArb-90_tree-1,,AqArb,90_tree,"ʃəʤa rˁa,d a:re  (arb)",ʃəʤa_rˁa,ʃ ə dʒ a rˤ a,,,,,^ʃ ə ʤ a _ rˁ a$,default
+Glf-90_tree-1,,Glf,90_tree,ʃiʤar a,ʃiʤar_a,ʃ i dʒ a r a,,,,,^ʃ i ʤ a r _ a$,default
+Ymn-90_tree-1,,Ymn,90_tree,ʃiʤar eh,ʃiʤar_eh,ʃ i dʒ a r e h,,,,,^ʃ i ʤ a r _ e h$,default
+Nig-90_tree-1,,Nig,90_tree,ʃadara,ʃadara,ʃ a d a r a,,,,,^ʃ a d a r a$,default
+Bux-90_tree-1,,Bux,90_tree,γarab,γarab,ɣ a r a b,,,,,^γ a r a b$,default
+Nub-90_tree-1,,Nub,90_tree,ʃeder/se der,ʃeder,ʃ e d e r,,,,,^ʃ e d e r$,default
+CentralArabic-91_two-1,,CentralArabic,91_two,iθn a:ni,iθn_a:ni,i θ n aː n i,,,,,^i θ n _ a: n i$,default
+Mor-91_two-1,,Mor,91_two,ʒuʒ,ʒuʒ,ʒ u ʒ,,,,,^ʒ u ʒ$,default
+Mlt-91_two-1,,Mlt,91_two,Tnej n,Tnej_n,t n e j n,,,,,^T n e j _ n$,default
+Cai-91_two-1,,Cai,91_two,itne en,itne_en,i t n e e n,,,,,^i t n e _ e n$,default
+Dms-91_two-1,,Dms,91_two,"tnee n,  ?tinte en",tnee_n,t n eː n,,,,,^t n ee _ n$,default
+Irq-91_two-1,,Irq,91_two,θnee n,θnee_n,θ n eː n,,,,,^θ n ee _ n$,default
+Skh-91_two-1,,Skh,91_two,"θnee n, neel",θnee_n,θ n eː n,,,,,^θ n ee _ n$,default
+AqArb-91_two-1,,AqArb,91_two,tənaj n,tənaj_n,t ə n a j n,,,,,^t ə n a j _ n$,default
+Cyp-91_two-1,,Cyp,91_two,xnay n  θ-n- y,xnay_n_θ-n-_y,x n ai̯ n θ n y,,,,,^x n ay _ n _ θ - n - _ y$,default
+Glf-91_two-1,,Glf,91_two,iθnee n,iθnee_n,i θ n eː n,,,,,^i θ n ee _ n$,default
+Ymn-91_two-1,,Ymn,91_two,θinta jn,θinta_jn,θ i n t a j n,,,,,^θ i n t a _ j n$,default
+Nig-91_two-1,,Nig,91_two,tine:n,tine:n,t i n eː n,,,,,^t i n e: n$,default
+Bux-91_two-1,,Bux,91_two,usnaa,usnaa,u s n aː,,,,,^u s n aa$,default
+Nub-91_two-1,,Nub,91_two,Tinin,Tinin,t i n i n,,,,,^T i n i n$,default
+CentralArabic-92_walk-1,,CentralArabic,92_walk,ma ʃa:,ma_ʃa:,m a ʃ aː,,,,,^m a _ ʃ a:$,default
+Mor-92_walk-1,,Mor,92_walk,mʃ a,mʃ_a,m ʃ a,,,,,^mʃ _ a$,default
+Mlt-92_walk-1,,Mlt,92_walk,meʃ a,meʃ_a,m e ʃ a,,,,,^m e ʃ _ a$,default
+Cai-92_walk-1,,Cai,92_walk,miʃi,miʃi,m i ʃ i,,,,,^m i ʃ i$,default
+Dms-92_walk-1,,Dms,92_walk,məʃi,məʃi,m ə ʃ i,,,,,^m ə ʃ i$,default
+Irq-92_walk-1,,Irq,92_walk,miʃa,miʃa,m i ʃ a,,,,,^m i ʃ a$,default
+Skh-92_walk-1,,Skh,92_walk,maʃa,maʃa,m a ʃ a,,,,,^m a ʃ a$,default
+AqArb-92_walk-1,,AqArb,92_walk,məʃi,məʃi,m ə ʃ i,,,,,^m ə ʃ i$,default
+Cyp-92_walk-1,,Cyp,92_walk,"miʃi, mpʃa m-ʃ-  y",miʃi,m i ʃ i,,,,,^m i ʃ i$,default
+Glf-92_walk-1,,Glf,92_walk,miʃa,miʃa,m i ʃ a,,,,,^m i ʃ a$,default
+Ymn-92_walk-1,,Ymn,92_walk,xutˁi,xutˁi,x u tˤ i,,,,,^x u tˁ i$,default
+Nig-92_walk-1,,Nig,92_walk,maʃa,maʃa,m a ʃ a,,,,,^m a ʃ a$,default
+Bux-92_walk-1,,Bux,92_walk,γadak,γadak,ɣ a d a k,,,,,^γ a d a k$,default
+Nub-92_walk-1,,Nub,92_walk,Mashi,Mashi,m a ʃ i,,,,,^M a sh i$,default
+CentralArabic-93_warm-1,,CentralArabic,93_warm,ħa:mm,ħa:mm,ħ aː mː,,,,,^ħ a: mm$,default
+Mor-93_warm-1,,Mor,93_warm,"dafi,  sxu n",dafi,d a f i,,,,,^d a f i$,default
+Mlt-93_warm-1,,Mlt,93_warm,sħuna,sħuna,s ħ u n a,,,,,^s ħ u n a$,default
+Cai-93_warm-1,,Cai,93_warm,da:fi:*,da:fi:*,d aː f iː,,,,,^d a: f i: *$,default
+Dms-93_warm-1,,Dms,93_warm,ʃoob,ʃoob,ʃ oː b,,,,,^ʃ oo b$,default
+Irq-93_warm-1,,Irq,93_warm,da:fi,da:fi,d aː f i,,,,,^d a: f i$,default
+Skh-93_warm-1,,Skh,93_warm,di:fi,di:fi,d iː f i,,,,,^d i: f i$,default
+Cyp-93_warm-1,,Cyp,93_warm,*saxan (v),*saxan_,s a x a n,,,,,^*s a x a n _$,default
+Glf-93_warm-1,,Glf,93_warm,ħaami,ħaami,ħ aː m i,,,,,^ħ aa m i$,default
+Ymn-93_warm-1,,Ymn,93_warm,da:fi*,da:fi*,d aː f i,,,,,^d a: f i *$,default
+Nig-93_warm-1,,Nig,93_warm,sa:xin,sa:xin,s aː x i n,,,,,^s a: x i n$,default
+Bux-93_warm-1,,Bux,93_warm,ħarr,ħarr,ħ a rː,,,,,^ħ a rr$,default
+Nub-93_warm-1,,Nub,93_warm,Hari,Hari,h a r i,,,,,^H a r i$,default
+CentralArabic-94_water-1,,CentralArabic,94_water,ma: ʔ,ma:_ʔ,m aː ʔ,,,,,^m a: _ ʔ$,default
+Mor-94_water-1,,Mor,94_water,ma,ma,m a,,,,,^m a$,default
+Mlt-94_water-1,,Mlt,94_water,ilma,ilma,i l m a,,,,,^i l m a$,default
+Cai-94_water-1,,Cai,94_water,may ya*,may_ya*,m ai̯ j a,,,,,^m ay _ ya *$,default
+Dms-94_water-1,,Dms,94_water,mˁajj (e),mˁajj_,mˤ a jː,,,,,^mˁ a jj _$,default
+Irq-94_water-1,,Irq,94_water,ma:j,ma:j,m aː j,,,,,^m a: j$,default
+Skh-94_water-1,,Skh,94_water,imi,imi,i m i,,,,,^i m i$,default
+AqArb-94_water-1,,AqArb,94_water,ma:j,ma:j,m aː j,,,,,^m a: j$,default
+Cyp-94_water-1,,Cyp,94_water,m- w-h,m-_w-h,m w h,,,,,^m - _ w - h$,default
+Glf-94_water-1,,Glf,94_water,maay,maay,m aːi̯,,,,,^m aay$,default
+Ymn-94_water-1,,Ymn,94_water,maaʔ,maaʔ,m aː ʔ,,,,,^m aa ʔ$,default
+Nig-94_water-1,,Nig,94_water,alme,alme,a l m e,,,,,^a l m e$,default
+Bux-94_water-1,,Bux,94_water,maa,maa,m aː,,,,,^m aa$,default
+Nub-94_water-1,,Nub,94_water,"mojo, alme",mojo,m o j o,,,,,^m o j o$,default
+CentralArabic-95_we-1,,CentralArabic,95_we,naħ nu,naħ_nu,n a ħ n u,,,,,^n a ħ _ n u$,default
+Mor-95_we-1,,Mor,95_we,ħna,ħna,ħ n a,,,,,^ħ n a$,default
+Mlt-95_we-1,,Mlt,95_we,aħn a,aħn_a,a ħ n a,,,,,^a ħ n _ a$,default
+Cai-95_we-1,,Cai,95_we,iħna,iħna,i ħ n a,,,,,^i ħ n a$,default
+Dms-95_we-1,,Dms,95_we,nəħn a,nəħn_a,n ə ħ n a,,,,,^n ə ħ n _ a$,default
+Irq-95_we-1,,Irq,95_we,ʔiħna,ʔiħna,ʔ i ħ n a,,,,,^ʔ i ħ n a$,default
+Skh-95_we-1,,Skh,95_we,iħna,iħna,i ħ n a,,,,,^i ħ n a$,default
+AqArb-95_we-1,,AqArb,95_we,nəħn a,nəħn_a,n ə ħ n a,,,,,^n ə ħ n _ a$,default
+Cyp-95_we-1,,Cyp,95_we,n-ħ- n,n-ħ-_n,n ħ n,,,,,^n - ħ - _ n$,default
+Glf-95_we-1,,Glf,95_we,iħna,iħna,i ħ n a,,,,,^i ħ n a$,default
+Ymn-95_we-1,,Ymn,95_we,ħna,ħna,ħ n a,,,,,^ħ n a$,default
+Nig-95_we-1,,Nig,95_we,ani:na,ani:na,a n iː n a,,,,,^a n i: n a$,default
+Bux-95_we-1,,Bux,95_we,nəħna,nəħna,n ə ħ n a,,,,,^n ə ħ n a$,default
+Nub-95_we-1,,Nub,95_we,Ina,Ina,i n a,,,,,^I n a$,default
+CentralArabic-96_what-1,,CentralArabic,96_what,ma:,ma:,m aː,,,,,^m a:$,default
+Mor-96_what-1,,Mor,96_what,aʃ(  nu),aʃ,a ʃ,,,,,^a ʃ$,default
+Mlt-96_what-1,,Mlt,96_what,ʃ,ʃ,ʃ,,,,,^ʃ$,default
+Cai-96_what-1,,Cai,96_what,eeh,eeh,eː h,,,,,^ee h$,default
+Dms-96_what-1,,Dms,96_what,ʃu:,ʃu:,ʃ uː,,,,,^ʃ u:$,default
+Irq-96_what-1,,Irq,96_what,ʃ(nu),ʃ,ʃ,,,,,^ʃ$,default
+Skh-96_what-1,,Skh,96_what,"eeʃ,  ʃnu:,ʃ ni:",eeʃ,eː ʃ,,,,,^ee ʃ$,default
+AqArb-96_what-1,,AqArb,96_what,aʃ,aʃ,a ʃ,,,,,^a ʃ$,default
+Cyp-96_what-1,,Cyp,96_what,ʔ-y-y,ʔ-y-y,ʔ y y,,,,,^ʔ - y - y$,default
+Glf-96_what-1,,Glf,96_what,"ʃinhu  , ʃ-, weeʃ",ʃinhu,ʃ i nʰ u,,,,,^ʃ i nh u$,default
+Ymn-96_what-1,,Ymn,96_what,ma:  ʔajʃ,ma:_ʔajʃ,m aː ʔ ai̯ ʃ,,,,,^m a: _ ʔ ajʃ$,default
+Nig-96_what-1,,Nig,96_what,ʃinu,ʃinu,ʃ i n u,,,,,^ʃ i n u$,default
+Bux-96_what-1,,Bux,96_what,iʃ,iʃ,i ʃ,,,,,^i ʃ$,default
+Nub-96_what-1,,Nub,96_what,su’nu,su’nu,s u nˤ u,,,,,^s u ’n u$,default
+CentralArabic-97_white-1,,CentralArabic,97_white,ʔab jadˁ,ʔab_jadˁ,ʔ a b j a dˤ,,,,,^ʔ a b _ j a dˁ$,default
+Mor-97_white-1,,Mor,97_white,bje dˁ,bje_dˁ,b j e dˤ,,,,,^b j e _ dˁ$,default
+Mlt-97_white-1,,Mlt,97_white,abja d,abja_d,a b j a d,,,,,^a b j a _ d$,default
+Cai-97_white-1,,Cai,97_white,abja dˁ,abja_dˁ,a b j a dˤ,,,,,^a b j a _ dˁ$,default
+Dms-97_white-1,,Dms,97_white,ʔabja dˁ,ʔabja_dˁ,ʔ a b j a dˤ,,,,,^ʔ a b j a _ dˁ$,default
+Irq-97_white-1,,Irq,97_white,ʔabja ðˁ,ʔabja_ðˁ,ʔ a b j a ðˤ,,,,,^ʔ a b j a _ ðˁ$,default
+Skh-97_white-1,,Skh,97_white,ʔabja ðˁ,ʔabja_ðˁ,ʔ a b j a ðˤ,,,,,^ʔ a b j a _ ðˁ$,default
+AqArb-97_white-1,,AqArb,97_white,ʔabja dˁ,ʔabja_dˁ,ʔ a b j a dˤ,,,,,^ʔ a b j a _ dˁ$,default
+Cyp-97_white-1,,Cyp,97_white,apky að  b-y- dˁ,apky_að_b-y-_dˁ,a p k y a ð b y dˤ,,,,,^a p k y _ a ð _ b - y - _ dˁ$,default
+Glf-97_white-1,,Glf,97_white,ʔabja dˤ,ʔabja_dˤ,ʔ a b j a dˤ,,,,,^ʔ a b j a _ dˤ$,default
+Ymn-97_white-1,,Ymn,97_white,ʔabja ðˁ,ʔabja_ðˁ,ʔ a b j a ðˤ,,,,,^ʔ a b j a _ ðˁ$,default
+Nig-97_white-1,,Nig,97_white,abjadˁ,abjadˁ,a b j a dˤ,,,,,^a b j a dˁ$,default
+Bux-97_white-1,,Bux,97_white,ʔabiyad,ʔabiyad,ʔ a b i j a d,,,,,^ʔ a b iya d$,default
+Nub-97_white-1,,Nub,97_white,abja,abja,a b j a,,,,,^a b j a$,default
+CentralArabic-98_who-1,,CentralArabic,98_who,ma  n,ma_n,m a n,,,,,^m a _ n$,default
+Mor-98_who-1,,Mor,98_who,ʃku  n,ʃku_n,ʃ k u n,,,,,^ʃ k u _ n$,default
+Mlt-98_who-1,,Mlt,98_who,min,min,m i n,,,,,^m i n$,default
+Cai-98_who-1,,Cai,98_who,mi:  n,mi:_n,m iː n,,,,,^m i: _ n$,default
+Dms-98_who-1,,Dms,98_who,mi:n,mi:n,m iː n,,,,,^m i: n$,default
+Irq-98_who-1,,Irq,98_who,minu,minu,m i n u,,,,,^m i n u$,default
+Skh-98_who-1,,Skh,98_who,ma:n,ma:n,m aː n,,,,,^m a: n$,default
+AqArb-98_who-1,,AqArb,98_who,məni,məni,m ə n i,,,,,^m ə n i$,default
+Cyp-98_who-1,,Cyp,98_who,m-n,m-n,m n,,,,,^m - n$,default
+Glf-98_who-1,,Glf,98_who,min,min,m i n,,,,,^m i n$,default
+Ymn-98_who-1,,Ymn,98_who,man,man,m a n,,,,,^m a n$,default
+Nig-98_who-1,,Nig,98_who,mine  ja:tu,mine_ja:tu,m i n e j aː t u,,,,,^m i n e _ j a: t u$,default
+Bux-98_who-1,,Bux,98_who,miin,miin,m iː n,,,,,^m ii n$,default
+Nub-98_who-1,,Nub,98_who,munu,munu,m u n u,,,,,^m u n u$,default
+CentralArabic-99_woman-1,,CentralArabic,99_woman,imr  aʔa h,imr_aʔa_h,i m r a ʔ a h,,,,,^i m r _ a ʔ a _ h$,default
+Mor-99_woman-1,,Mor,99_woman,mr a,mr_a,m r a,,,,,^m r _ a$,default
+Mlt-99_woman-1,,Mlt,99_woman,mar a,mar_a,m a r a,,,,,^m a r _ a$,default
+Cai-99_woman-1,,Cai,99_woman,sitt,sitt,s i tː,,,,,^s i tt$,default
+Dms-99_woman-1,,Dms,99_woman,mara,mara,m a r a,,,,,^m a r a$,default
+Irq-99_woman-1,,Irq,99_woman,mara,mara,m a r a,,,,,^m a r a$,default
+Skh-99_woman-1,,Skh,99_woman,mrajj i,mrajj_i,m r a jː i,,,,,^m r a jj _ i$,default
+AqArb-99_woman-1,,AqArb,99_woman,marˁ a,marˁ_a,m a rˤ a,,,,,^m a rˁ _ a$,default
+Cyp-99_woman-1,,Cyp,99_woman,mara m-r-  ʔ,mara_m-r-_ʔ,m a r a m r ʔ,,,,,^m a r a _ m - r - _ ʔ$,default
+Glf-99_woman-1,,Glf,99_woman,mara,mara,m a r a,,,,,^m a r a$,default
+Ymn-99_woman-1,,Ymn,99_woman,mare h,mare_h,m a r e h,,,,,^m a r e _ h$,default
+Nig-99_woman-1,,Nig,99_woman,mara,mara,m a r a,,,,,^m a r a$,default
+Bux-99_woman-1,,Bux,99_woman,ʔimraʔat,ʔimraʔat,ʔ i m r a ʔ a t,,,,,^ʔ i m r a ʔ a t$,default
+Nub-99_woman-1,,Nub,99_woman,marja,marja,m a r j a,,,,,^m a r j a$,default
+CentralArabic-100_yellow-1,,CentralArabic,100_yellow,ʔasˁ far,ʔasˁ_far,ʔ a sˤ f a r,,,,,^ʔ a sˁ _ f a r$,default
+Mor-100_yellow-1,,Mor,100_yellow,sˁfe r,sˁfe_r,sˤ f e r,,,,,^sˁ f e _ r$,default
+Mlt-100_yellow-1,,Mlt,100_yellow,sfajj ar,sfajj_ar,s f a jː a r,,,,,^s f a jj _ a r$,default
+Cai-100_yellow-1,,Cai,100_yellow,asˁf ar,asˁf_ar,a sˤ f a r,,,,,^a sˁ f _ a r$,default
+Dms-100_yellow-1,,Dms,100_yellow,ʔasˁf ar,ʔasˁf_ar,ʔ a sˤ f a r,,,,,^ʔ a sˁ f _ a r$,default
+Irq-100_yellow-1,,Irq,100_yellow,ʔasˁf ar,ʔasˁf_ar,ʔ a sˤ f a r,,,,,^ʔ a sˁ f _ a r$,default
+Skh-100_yellow-1,,Skh,100_yellow,ʔasˁf ar,ʔasˁf_ar,ʔ a sˤ f a r,,,,,^ʔ a sˁ f _ a r$,default
+AqArb-100_yellow-1,,AqArb,100_yellow,asˁfar,asˁfar,a sˤ f a r,,,,,^a sˁ f a r$,default
+Cyp-100_yellow-1,,Cyp,100_yellow,sˁ-f- r,sˁ-f-_r,sˤ f r,,,,,^sˁ - f - _ r$,default
+Glf-100_yellow-1,,Glf,100_yellow,ʔasˤf ar,ʔasˤf_ar,ʔ a sˤ f a r,,,,,^ʔ a sˤ f _ a r$,default
+Ymn-100_yellow-1,,Ymn,100_yellow,ʔasˁf ar,ʔasˁf_ar,ʔ a sˤ f a r,,,,,^ʔ a sˁ f _ a r$,default
+Nig-100_yellow-1,,Nig,100_yellow,asˁfar,asˁfar,a sˤ f a r,,,,,^a sˁ f a r$,default
+Bux-100_yellow-1,,Bux,100_yellow,ʔasfar,ʔasfar,ʔ a s f a r,,,,,^ʔ a s f a r$,default
+Nub-100_yellow-1,,Nub,100_yellow,*kuruku m,*kuruku_m,k u r u k u m,,,,,^* k u r u k u _ m$,default
