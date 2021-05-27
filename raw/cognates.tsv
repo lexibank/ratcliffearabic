@@ -1,0 +1,106 @@
+ABC	ENGLISH	CA	CA-  Mor	CA-  Mlt	CA-  Cai	CA-  Dms	CA-  Irq	CA-  Skh	CA- AqArb	CA-  Cyp	CA-  Glf	CA-  Ymn	CA-  Nig	CA-  Bux	CA-  Nubi	word stability
+1	ALL	kull	1	1	1	1	1	1	1	1	1	1	0	1	1	0.92
+2	ASH	rama:d	1	1	1	1	1	0	1	1	1	0	0	1	1	1
+3	BARK	qiʃr, qirfat	1	1	1	0	1	1	0	0	1	1	1	0	0	0.73
+4	BELLY	batˁn	0	0	1	1	1	1	0	1	1	1	0	1	1	0.69
+5	BIG	kabi:r	1	1	1	1	1	1	1	1	0	1	1	1	1	0.92
+6	BIRD	tˁa:ʔir	1	0	1	1	1	1	0	0	1	1	1	1	1	0.83
+7	BITE	ʕadˁdˁa	1	0	1	1	1	1	0	1	1	0	1	1	1	0.83
+8	BLACK	ʔaswad	0	1	1	1	1	1	1	1	1	1	0	1	1	0.85
+9	BLOOD	dam	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+10	BONE	ʕaðˁm	1	1	1	1	1	1	1	0	1	1	1	1	1	1
+11	BREAST	sˁadr	0	1	1	1	0	1	0	0	1	1	0	1	1	0.62
+12	BURN(VT	ħaraqa	1	1	1	1	1	1	1	1	1	1	1	0	1	0.92
+13	CLAW	ðˁufr	1	1	1	1	1	1	1	1	1	1	0	0	1	0.92
+14	CLOUD	saħaab	0	1	1	0	0	0	0	0	1	0	0	0	0	0.23
+15	COLD	ba:rid	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+16	COME	ʤa:ʔa	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+17	DIE	ma:ta	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+18	DOG	kalb	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+19	DRINK	ʃariba	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+20	DRY	ja:bis	1	0	0	0	0	1	1	0	1	1	1	1	1	0.62
+21	EAR	ʔuðn	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+22	EARTH,DIRT	tura:b	1	1	0	1	1	1	0	1	1	0	0	0	1	0.62
+23	EAT	ʔakala	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+24	EGG	baidˁat	1	1	1	1	1	1	1	1	1	1	1	1	0	0.92
+25	EYE	ʕain	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+26	FAT,N.	ʃaħm	1	1	1	1	1	1	0	0	0	0	1	0	0	0.58
+27	FEATHER	ri:ʃat	1	1	1	1	1	1	0	0	1	1	0	0	0	0.8
+28	FIRE	na:r	0	1	1	1	1	1	1	0	0	1	1	1	1	0.77
+29	FISH	samak	0	0	1	1	1	1	1	0	1	0	1	1	1	0.75
+30	FLY	tˁa:ra	1	1	1	1	1	1	1	0	1	1	1	0	0	0.91
+31	FOOT	riʤl	1	0	1	1	1	1	1	1	1	1	1	1	0	0.85
+32	FULL	malʔa:n	0	1	1	1	0	1	1	1	0	0	1	0	1	0.67
+33	GIVE	ʔaʕtˁa:	1	1	0	1	0	0	1	1	0	0	1	0	1	0.54
+34	GOODadj	tˁaijib	0	1	0	0	0	0	0	0	0	1	0	0	0	0.15
+35	GREEN	ʔaxdˁar	1	1	1	1	1	1	1	1	1	1	1	1	0	0.92
+36	HAIR	ʃaʕr	1	1	1	1	1	1	0	1	1	1	1	0	1	0.92
+37	HAND	jad	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+38	HEAD	raʔs	1	1	1	1	1	1	1	0	1	1	1	1	1	0.92
+39	HEAR	samiʕa	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+40	HEART	qalb	1	1	1	1	1	1	0	1	1	1	1	1	1	0.92
+41	HORN	qarn	1	1	1	1	1	1	0	1	1	1	1	0	1	0.92
+42	I	ʔana:	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+43	KILL	qatala	1	1	0	1	1	1	1	1	1	1	1	1	1	0.92
+44	KNEE	rukbat	1	1	1	1	1	1	0	0	1	1	1	0	1	1
+45	KNOW	ʕarafa	1	1	1	1	1	1	1	1	1	0	1	0	1	0.77
+46	LEAF	waraqat	1	1	1	1	1	1	1	0	1	1	1	1	0	0.92
+47	LIE	raqada	0	0	0	0	0	0	0	0	0	1	1	0	0	0.2
+48	LIVER	kabid	1	0	1	1	1	0	0	0	1	1	1	1	1	0.82
+49	LONG	tˁawi:l	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+50	LOUSE	qamlah	1	1	1	1	1	1	0	1	1	1	0	1	0	1
+51	MAN	raʤul	1	1	1	1	1	0	1	0	1	1	1	0	1	0.77
+52	MANY	kaθi:r	0	0	1	1	0	1	1	1	0	1	1	1	1	0.69
+53	MEAT	laħm	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+54	MOON	qamar	1	1	1	1	1	1	0	1	1	1	1	1	0	0.92
+55	MOUNTAIN	ʤabal	1	0	1	1	1	1	1	1	1	1	0	1	1	0.85
+56	MOUTH	fam	1	0	0	0	0	0	0	0	0	1	0	0	0	0.15
+57	NAME	ism	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+58	NECK	ʕunuq	1	1	0	0	0	0	0	0	0	0	0	0	0	0.18
+59	NEW	ʤadi:d	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+60	NIGHT	lailah	1	1	1	1	1	1	1	1	1	1	1	1	0	1
+61	NOSE	ʔunf	1	0	0	1	0	0	1	0	0	0	0	1	0	0.31
+62	NOT	la:	0	0	0	0	0	0	0	1	0	0	0	0	0	0.08
+63	ONE	ʔaħad	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+64	PERSON	ʔinsa:n	0	0	0	0	0	1	0	1	0	0	0	0	0	0.15
+65	RAIN	matˁar	0	0	1	1	1	1	1	0	1	1	1	1	1	0.77
+66	RED	ʔaħmar	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+67	ROAD	tˁari:q	1	1	1	1	1	1	1	0	1	1	0	0	0	0.75
+68	ROOT	ʤaðr	1	0	1	0	0	0	0	0	1	0	0	0	0	0.3
+69	ROUND	mudawwar	1	0	1	1	1	1	1	0	1	1	1	0	0	0.9
+70	SAND	raml	1	1	1	1	1	1	0	0	1	0	0	0	1	0.89
+71	SAY	qa:la	1	1	1	1	1	1	1	1	1	1	1	1	0	0.92
+72	SEE	raʔa:	0	1	0	0	0	0	1	0	0	0	0	0	0	0.15
+73	SEED	zarʕ bizr	0	0	0	1	1	1	1	1	1	0	0	0	0	0.5
+74	SIT	qaʕad	0	1	1	1	1	1	1	1	1	0	1	1	0	0.77
+75	SKIN	ʤild	1	1	1	1	1	1	1	0	1	1	1	1	1	0.92
+76	SLEEP	na:ma	0	0	1	1	1	1	1	1	1	0	1	1	1	0.77
+77	SMALL	sˁaγi:r	1	1	1	1	1	1	0	1	1	1	0	1	1	0.85
+78	SMOKE	duxa:n	1	1	1	1	1	1	0	1	1	1	1	0	1	0.92
+79	STAND	qa:ma	0	1	1	0	0	0	0	0	1	0	0	1	1	0.38
+80	STAR	naʤma	1	0	1	1	1	1	0	1	1	1	1	1	1	0.85
+81	STONE	ħaʤarah	1	0	1	1	1	1	1	1	1	1	1	1	1	0.92
+82	SUN	ʃams	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+83	SWIM	sabaħa ʕaam	0	0	0	1	1	1	1	0	1	0	0	1	0	0.46
+84	TAIL	ðanab ðail	0	1	1	1	0	0	0	1	0	0	1	1	1	0.58
+85	THAT	ðalika	1	1	0	0	1	1	1	0	0	1	1	1	0	0.62
+86	THIS	ha:ða:	1	1	1	1	1	1	1	1	1	0	1	1	0	0.85
+87	THOU	ʔanta	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+88	TONGUE	lisa:n	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+89	TOOTH	sinn	1	1	1	1	1	1	1	1	1	1	1	0	1	0.92
+90	TREE	ʃaʤarah	1	1	1	1	1	1	1	0	1	1	1	0	1	0.92
+91	TWO	iθna:ni	0	1	1	1	1	1	1	1	1	1	1	1	1	0.92
+92	WALK	maʃa:	1	1	1	1	1	1	1	1	1	0	1	0	1	0.85
+93	WARM	dafiiʔ	1	0	1	0	1	1	0	0	0	1	0	0	0	0.42
+94	WATER	ma:ʔ	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+95	WE	naħnu	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+96	WHAT	ma:	0	0	0	0	0	0	0	0	0	1	0	0	0	0.08
+97	WHITE	ʔabjadˁ	1	1	1	1	1	1	1	1	1	1	1	1	1	1
+98	WHO	man	0	1	1	1	1	1	1	1	1	1	1	1	1	0.92
+99	WOMAN	imraʔah	1	1	0	1	1	1	1	1	1	1	1	1	1	0.92
+100	YELLOW	ʔasˁfar	1	1	1	1	1	1	1	1	1	1	1	1	0	0.92
+Sum			77	76	83	85	82	84	69	66	82	76	73	67	69	76.08
+Possible			100	100	99	100	100	98	84	87	100	96	97	88	95	
+pro-rate			77	76	84	85	82	86	82	74	82	79	75	76	73	79.23
+1.4 root		0	830	822	883	890	868	896	868	806	868	845	814	822	799	846
+		CA	CA-  Mor	CA-  Mlt	CA-  Cai	CA-  Dms	CA-  Irq	CA-  Skh	CA-  AqArb	CA-  Cyp	CA-  Glf	CA-  Ymn	CA-  Nig	CA-  Bux	CA-  Nub	
