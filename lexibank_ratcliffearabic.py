@@ -1,12 +1,10 @@
-from collections import defaultdict
+from pathlib import Path
 
 import attr
-from pathlib import Path
+from clldutils.misc import slug
 from pylexibank import Concept, Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
-
-from clldutils.misc import slug
 
 
 @attr.s
@@ -33,24 +31,16 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         languages = args.writer.add_languages(lookup_factory="NameInSource")
         languagesc, sources = {}, {}
+
         for language in self.languages:
             languagesc[language["NameInSource"]] = language["NameInCognates"]
             sources[language["NameInSource"]] = language["Sources"].split(",")
         args.writer.add_sources()
-        concepts = {}
-        for concept in self.conceptlists[0].concepts.values():
-            idx = concept.number+'_'+slug(concept.english)
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept.english,
-                    Number=concept.number,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss,
-                    )
-            concepts[concept.english] = idx
-            concepts[concept.english.replace(' ', '')] = idx
-        for concept in self.concepts:
-            concepts[concept['LEXIBANK_GLOSS']] = concepts[concept['ENGLISH']]
+
+        concepts = args.writer.add_concepts(
+            id_factory=lambda x: x.id.split("-")[-1] + "_" + slug(x.english),
+            lookup_factory=lambda concept: ''.join(concept.attributes["lexibank_gloss"])
+        )
 
         data = self.raw_dir.read_csv("wordlist.tsv", delimiter="\t", dicts=True)
         cogs = self.raw_dir.read_csv("cognates.tsv", delimiter="\t",
