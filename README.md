@@ -8,7 +8,7 @@ This dataset is licensed under a CC-By-4.0 license
 
 
 Conceptlists in Concepticon:
-- [Ratcliffe-2020-100](https://concepticon.clld.org/contributions/Ratcliffe-2020-100)
+- [Ratcliffe-2021-100](https://concepticon.clld.org/contributions/Ratcliffe-2021-100)
 ## Notes
 
 In this dataset, there were some problems with the interpretation of sounds, since information was not provided along with them, so it should be taken with some care, also because certain word forms were only provide in the form of the consonantal roots.
@@ -20,6 +20,7 @@ The cognate sets have only been assigned with respect to Standard Arabic by the 
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/ratcliffearabic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/ratcliffearabic/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

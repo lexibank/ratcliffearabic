@@ -10,7 +10,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 9_blood,BLOOD,946,BLOOD,9
 10_bone,BONE,1394,BONE,10
 11_breast,BREAST,1402,BREAST,11
-12_burnvt,BURN (VT,141,BURN (SOMETHING),12
+12_burnvt,BURN(VT,141,BURN (SOMETHING),12
 13_claw,CLAW,72,CLAW,13
 14_cloud,CLOUD,1489,CLOUD,14
 15_cold,COLD,1287,COLD,15
@@ -20,7 +20,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 19_drink,DRINK,1401,DRINK,19
 20_dry,DRY,1398,DRY,20
 21_ear,EAR,1247,EAR,21
-22_earthdirt,"EARTH, DIRT",1228,EARTH (SOIL),22
+22_earthdirt,"EARTH,DIRT",1228,EARTH (SOIL),22
 23_eat,EAT,1336,EAT,23
 24_egg,EGG,744,EGG,24
 25_eye,EYE,1248,EYE,25
@@ -32,7 +32,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 31_foot,FOOT,1301,FOOT,31
 32_full,FULL,1429,FULL,32
 33_give,GIVE,1447,GIVE,33
-34_goodadj,GOOD adj,1035,GOOD,34
+34_goodadj,GOODadj,1035,GOOD,34
 35_green,GREEN,1425,GREEN,35
 36_hair,HAIR,1040,HAIR,36
 37_hand,HAND,1277,HAND,37
