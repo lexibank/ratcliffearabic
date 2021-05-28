@@ -7,14 +7,14 @@ with open('metadata.json', encoding='utf-8') as fp:
 
 
 setup(
-    name="lexibank_castrosui",
+    name="lexibank_ratcliffearabic",
     description=metadata["title"],
     license=metadata.get("license", ""),
     url=metadata.get("url", ""),
-    py_modules=["lexibank_castrosui"],
+    py_modules=["lexibank_ratcliffearabic"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={"lexibank.dataset": ["castrosui=lexibank_castrosui:Dataset"]},
+    entry_points={"lexibank.dataset": ["ratcliffearabic=lexibank_ratcliffearabic:Dataset"]},
     install_requires=["pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
