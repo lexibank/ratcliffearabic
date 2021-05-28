@@ -32,23 +32,25 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         languages = args.writer.add_languages(lookup_factory="NameInSource")
-        languagesc = {}
+        languagesc, sources = {}, {}
         for language in self.languages:
             languagesc[language["NameInCognates"]] = language["ID"]
-
+            sources[language["NameInSource"]] = language["Sources"].split(",")
         args.writer.add_sources()
         concepts = {}
-        for concept in self.concepts:
-            idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.number+'_'+slug(concept.english)
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept['ENGLISH'],
-                    Number=concept['NUMBER'],
-                    #Concepticon_ID=concept['CONCEPTICON_ID'],
-                    #Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    Name=concept.english,
+                    Number=concept.number,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
                     )
-            concepts[concept['ENGLISH']] = idx
-            concepts[concept['LEXIBANK_GLOSS']] = idx
+            concepts[concept.english] = idx
+            concepts[concept.english.replace(' ', '')] = idx
+        for concept in self.concepts:
+            concepts[concept['LEXIBANK_GLOSS']] = concepts[concept['ENGLISH']]
 
         data = self.raw_dir.read_csv("wordlist.tsv", delimiter="\t", dicts=True)
         cogs = self.raw_dir.read_csv("cognates.tsv", delimiter="\t",
@@ -62,7 +64,7 @@ class Dataset(BaseDataset):
                                 Parameter_ID=concepts[row["Concept"]],
                                 Language_ID=lid,
                                 Value=value,
-                                Source=''
+                                Source=sources[language]
                                 )
                         #args.writer.add_cognate(
                         #        lexeme=lex,

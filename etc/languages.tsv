@@ -1,15 +1,15 @@
 ID	Name	NameInSource	Glottocode	Sources	NameInCognates
 CentralArabic	CentralArabic	CA	stan1318	Ratcliffe2021	CA
-MoroccanArabic	MoroccoArabic	Mor	moro1292	Harrell2004,Caubet1993	CA-  Mor
-Maltese	MalteseArabic	Mlt	malt1254	Borg1997,Aquilina1987	CA-  Mlt
+MoroccanArabic	MoroccoArabic	Mor	moro1292	Harrell1962,Caubet1993	CA-  Mor
+Maltese	MalteseArabic	Mlt	malt1254	Borg1997,Aquilina1965	CA-  Mlt
 Cairene	CaireneArabic	Cai	egyp1253	AbdelMassih2009	CA-  Cai
 Damascene	DamasceneArabic	Dms	nort3139	Cowell2005	CA-  Dms
-Iraqi	IraqiArabic	Irq	jude1266	Erwin2004	CA-  Irq
-Soukhne	SoukhneArabic	Skh		Behnstedt1994	CA-  Skh
-AqraArbilArabic	AqraArbilArabic	AqArb		Jastrow1990	CA- AqArb
+Iraqi	IraqiArabic	Irq	jude1266	Erwin1963	CA-  Irq
+Soukhne	SoukhneArabic	Skh	nort3139	Behnstedt1994	CA-  Skh
+AqraArbilArabic	AqraArbilArabic	AqArb	jude1266	Jastrow1990	CA- AqArb
 CypriotArabic	CypriotArabic	Cyp	cypr1248	Borg1985	CA-  Cyp
-GulfArabic	United Arab Emirates	Glf	gulf1241	Qafisheh1992,Holes1990	CA-  Glf
+GulfArabic	United Arab Emirates	Glf	gulf1241	Qafisheh1975,Holes1990	CA-  Glf
 YemeniticArabic	YemeniticArabic	Ymn	jude1267	Qafisheh1992	CA-  Ymn
 NigerianArabic	NigerianArabic	Nig	chad1249	Owens1993,Kaye1982	CA-  Nig
-Buxari	BuxariArabic	Bux		Zimmermann2002,Ratcliffe2005	CA-  Bux
+Buxari	BuxariArabic	Bux	uzbe1248	Zimmermann2002,Ratcliffe2005	CA-  Bux
 Kinubi	Ki-nubi	Nub	nubi1253	Wellens2003	CA-  Nubi

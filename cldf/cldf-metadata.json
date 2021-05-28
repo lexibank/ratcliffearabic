@@ -4,11 +4,12 @@
     "dc:bibliographicCitation": "Ratcliffe, Robert R. (2021): The glottometrics of Arabic. Language Dynamics and Change. 2021. DOI: 10.1163/22105832-01001100.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
-        "http://concepticon.clld.org/contributions/Castro-2015-608"
+        "http://concepticon.clld.org/contributions/Ratcliffe-2020-100"
     ],
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Ratcliffes's \"Glottometrics of Arabic\" from 2021",
     "dcat:accessURL": "https://github.com/lexibank/ratcliffearabic",
     "prov:wasDerivedFrom": [
@@ -16,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/ratcliffearabic",
-            "dc:created": "88d88b4"
+            "dc:created": "c4c169a"
         },
         {
             "rdf:type": "prov:Entity",
