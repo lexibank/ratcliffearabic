@@ -34,7 +34,7 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(lookup_factory="NameInSource")
         languagesc, sources = {}, {}
         for language in self.languages:
-            languagesc[language["NameInCognates"]] = language["ID"]
+            languagesc[language["NameInSource"]] = language["NameInCognates"]
             sources[language["NameInSource"]] = language["Sources"].split(",")
         args.writer.add_sources()
         concepts = {}
@@ -66,9 +66,11 @@ class Dataset(BaseDataset):
                                 Value=value,
                                 Source=sources[language]
                                 )
-                        #args.writer.add_cognate(
-                        #        lexeme=lex,
-                        #        Cognateset_ID=cognacy,
-                        #        Source=''
-                        #        )
+                        if lex:
+                            if cogsets[languagesc[language]] == "1":
+                                args.writer.add_cognate(
+                                        lexeme=lex[0],
+                                        Cognateset_ID=slug(row["Concept"]),
+                                        Source='Ratcliffe2021'
+                                        )
 

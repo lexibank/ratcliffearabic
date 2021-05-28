@@ -11,7 +11,9 @@ Conceptlists in Concepticon:
 - [Ratcliffe-2020-100](https://concepticon.clld.org/contributions/Ratcliffe-2020-100)
 ## Notes
 
-In this dataset, there were some problems with the interpretation of sounds, since information was not provided along with them, so it should be taken with some care.
+In this dataset, there were some problems with the interpretation of sounds, since information was not provided along with them, so it should be taken with some care, also because certain word forms were only provide in the form of the consonantal roots.
+
+The cognate sets have only been assigned with respect to Standard Arabic by the author. They are therefore only assigned for a given concept.
 
 
 
@@ -29,6 +31,8 @@ In this dataset, there were some problems with the interpretation of sounds, sin
 - **Lexemes:** 1,340
 - **Sources:** 19
 - **Synonymy:** 1.00
+- **Cognacy:** 984 cognates in 100 cognate sets (2 singletons)
+- **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 5,957
 - **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 93 CLTS modified)
