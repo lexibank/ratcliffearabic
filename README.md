@@ -18,7 +18,7 @@ In this dataset, there were some problems with the interpretation of sounds, sin
 ## Statistics
 
 
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Glottolog: 80%](https://img.shields.io/badge/Glottolog-80%25-yellow.svg "Glottolog: 80%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")

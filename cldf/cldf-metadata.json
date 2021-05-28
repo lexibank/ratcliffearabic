@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/ratcliffearabic",
-            "dc:created": "ed51ea6"
+            "dc:created": "88d88b4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -222,6 +222,10 @@
                     {
                         "datatype": "string",
                         "name": "NameInCognates"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sources"
                     }
                 ],
                 "primaryKey": [

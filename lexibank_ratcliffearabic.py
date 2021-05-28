@@ -18,6 +18,7 @@ class CustomConcept(Concept):
 class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
     NameInCognates = attr.ib(default=None)
+    Sources = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
