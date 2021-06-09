@@ -1,8 +1,16 @@
 # CLDF dataset derived from Ratcliffes's "Glottometrics of Arabic" from 2021
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/ratcliffearabic/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/ratcliffearabic/actions?query=workflow%3ACLDF-validation)
 
-> Ratcliffe, Robert R. (2021): The glottometrics of Arabic. Language Dynamics and Change. 2021. DOI: 10.1163/22105832-01001100.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Ratcliffe, Robert R. (2021): The glottometrics of Arabic. Language Dynamics and Change. 2021. DOI: 10.1163/22105832-01001100.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -47,3 +55,10 @@ Johann-Mattis List | @LinguList  | maintainer | Other
 Ratcliffe, R. R. | | author | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
