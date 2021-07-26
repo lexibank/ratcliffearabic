@@ -12,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a CC-By-4.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -52,7 +52,7 @@ The cognate sets have only been assigned with respect to Standard Arabic by the 
 Name               | GitHub user | Descriptin |Role
 ---                | ---         | --- | ---
 Johann-Mattis List | @LinguList  | maintainer | Other 
-Ratcliffe, R. R. | | author | Author
+Robert R. Ratcliffe | | author | Author
 
 
 
